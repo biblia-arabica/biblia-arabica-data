@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Bibliorum Textibus Originalibus, versionibus Graecis &amp; Latina Vulgata</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/232/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Humfred</forename>
+                        <surname>Hody</surname>
+                    </author>
+                    <title level="m">Bibliorum Textibus Originalibus, versionibus Graecis &amp; Latina Vulgata</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/232</idno>
+                    <ref target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433021031939;view=2up;seq=8"/>
+                    <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                        <publisher>e Theatro Sheldoniano</publisher>
+                        <date>1705</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">With a Latin translation of the
+introduction.</note>
+                <note type="tag">Subject: Al-Harith ibn Sinan</note>
+                <note type="tag">?MS: Ar. 14</note>
+                <note type="tag">?MS: manuscript from the collection Khūkāz, Aleppo: St Sauveur, Ms. 224</note>
+                <note type="tag">ID: 232</note>
+                <note type="tag">MS: , an unspecified, an unspecified</note>
+                <note type="tag">MS: Birmingham, Mingana, Arab. Chr. 121.</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 19</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 27</note>
+                <note type="tag">MS: Escurial, , Arabic 1857</note>
+                <note type="tag">MS: Oxford, Bodl., Laud. Or. 243 (formerly A 146)</note>
+                <note type="tag">MS: Oxford, Bodl., Laud. Or. 258 (formerly A 147)</note>
+                <note type="tag">MS: Paris, BNF, Ar. 13 and</note>
+                <note type="tag">MS: Sinai,  Ar. 10, Ar. 10</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 1</note>
+                <note>PP: 622-5</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

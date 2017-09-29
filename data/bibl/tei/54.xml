@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">The Septuagint and Modern Study</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/54/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Sidney</forename>
+                        <surname>Jellicoe</surname>
+                    </author>
+                    <title level="m">The Septuagint and Modern Study</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/54</idno>
+                    <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                        <publisher>Clarendon Press</publisher>
+                        <date>1968</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">Part two, Ch. VIII offers a brief account on “the Arabic version”. Mostly on the
+Pentateuch and Daniel in the Paris Polyglot, as the source of the siglum A (versio
+arabica) in the Biblia Hebraica.</note>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">ID: 54</note>
+                <note type="tag">MS: Berlin, Staatsbibliothek, Or. Fol. 534</note>
+                <note type="tag">MS: Berlin, Staatsbibliothek, Or. Qu. 828</note>
+                <note type="tag">MS: , Bodl. Cod. II Usserii, Bodl. Cod. II Usserii</note>
+                <note type="tag">MS: Cambridge,  UL Ms. 714, UL Ms. 714</note>
+                <note type="tag">MS: Florence,  BML Or. 112 (formerly 21)., BML Or. 112 (formerly 21).</note>
+                <note type="tag">MS: Leiden,  University Library Or. 377, University Library Or. 377</note>
+                <note type="tag">MS: Paris, BNF Ar. 1, Ar. 5</note>
+                <note type="tag">MS: Paris, BNF Ar. 1, Ar. 6</note>
+                <note type="tag">MS: St Petersburg,  179, 179</note>
+                <note type="tag">MS: Vatican, BAV, Barberini Or. 1</note>
+                <note type="tag">MS: Wolfenb,  Oxford, Oxford</note>
+                <note>PP: 266-268</note>
+                <note>(several reprints ),</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

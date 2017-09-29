@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Christian-Muslim Relations in Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</title>
+                <title level="j">Cahiers Archeologiques</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/180/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Lucy-Anne</forename>
+                        <surname>Hunt</surname>
+                    </author>
+                    <title level="a">Christian-Muslim Relations in Painting in Egypt of the Twelfth to mid-Thirteenth Centuries</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/180</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Cahiers Archeologiques</title>
+                    <imprint>
+                        <date>1985</date>
+                    </imprint>
+                    <biblScope unit="vol">33</biblScope>
+                    <biblScope unit="pp">111-155</biblScope>
+                </monogr>
+                <note type="tag">Subject: Art, paleography, codicology</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">?MS: 8</note>
+                <note type="tag">?MS: 147.</note>
+                <note type="tag">?MS: Copt. 9 (p. 132, pl. 19)</note>
+                <note type="tag">ID: 180</note>
+                <note type="tag">MS: Cairo, Coptic Museum, Bibl.</note>
+                <note type="tag">MS: Cairo, Coptic Museum, Bibl. 93</note>
+                <note type="tag">MS: Cairo, Coptic Museum,  Bibl. 94 (p. 128</note>
+                <note type="tag">MS: Cairo, Coptic Museum,  pls. 15-16)</note>
+                <note type="tag">MS: Oxford, Bodleian Library, Hunt. 17 (p. 131</note>
+                <note type="tag">MS: Oxford, Bodleian Library,  pls. 17-18)</note>
+                <note type="tag">MS: p. 123,  pl., pl.</note>
+                <note type="tag">MS: p. 124, pl. 9, p. 125</note>
+                <note type="tag">MS: p. 124, pl. 9,  p. 126</note>
+                <note type="tag">MS: p. 124, pl. 9,  pls. 10-11</note>
+                <note type="tag">MS: p. 124, pl. 9,  pls. 12-13</note>
+                <note type="tag">MS: p. 127,  pl. 14), pl. 14)</note>
+                <note type="tag">MS: Paris, Institut Catholique, Copt.-Ar. 1 (p. 120</note>
+                <note type="tag">MS: Paris, Institut Catholique,  pl. 7</note>
+                <note type="tag">MS: Vatican, BAV, Copt. 8 and</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

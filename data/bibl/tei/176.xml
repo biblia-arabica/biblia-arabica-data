@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Forty-one facsimiles of dated Christian Arabic manuscripts</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/176/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Agnes Smith</forename>
+                        <surname>Lewis</surname>
+                    </author>
+                    <author>
+                        <forename>Margaret Dunlop</forename>
+                        <surname>Gibson</surname>
+                    </author>
+                    <title level="m">Forty-one facsimiles of dated Christian Arabic manuscripts</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/176</idno>
+                    <imprint>
+                        <pubPlace>Cambridge</pubPlace>
+                        <publisher>Cambridge University Press</publisher>
+                        <date>1907</date>
+                    </imprint>
+                </monogr>
+                <note type="tag">Subject: Art, paleography, codicology</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">?MS: pl. 12), Ar. 91 (p. 49, pl. 25), Ar. 95 (p. 37, pl. 19), Ar. 97 (p. 19, pl. 10), Ar. 99 (pp. 45-48,
+pls. 23 and 24), Ar. 104 (p. 41, pl. 21), Ar. 106 (pp. 11-12, pl. 7), Ar. 122 (pp. 33-34, pl. 17)</note>
+                <note type="tag">ID: 176</note>
+                <note type="tag">MS: London, BL, Or. 1327 (p. 55</note>
+                <note type="tag">MS: London, BL,  pl. 28).</note>
+                <note type="tag">MS: Sinai, Ar. 69 (p. 13,</note>
+                <note type="tag">MS: Sinai, Ar. 69 (p. 13,  Ar. 82 (pp. 23-24</note>
+                <note type="tag">MS: Sinai, Ar. 69 (p. 13, pl. 8)</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

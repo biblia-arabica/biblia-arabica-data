@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Manuscritos árabes cristianos en España: Notas preleminares</title>
+                <title level="m">Los manuscritos árabes en España y Marruecos: homenaje de Granada y Fez a Ibn Jaldún</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/67/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Juan Pedro</forename>
+                        <surname>Monferrer-Sala</surname>
+                    </author>
+                    <title level="a">Manuscritos árabes cristianos en España: Notas preleminares</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/67</idno>
+                </analytic>
+                <monogr>
+                    <editor>
+                        <forename>M.J.</forename>
+                        <surname>Viguera</surname>
+                    </editor>
+                    <editor>
+                        <forename>C.</forename>
+                        <surname>Castillo</surname>
+                    </editor>
+                    <title level="m">Los manuscritos árabes en España y Marruecos: homenaje de Granada y Fez a Ibn Jaldún</title>
+                    <imprint>
+                        <pubPlace>Granada</pubPlace>
+                        <publisher>Junta de Andalucía</publisher>
+                        <date>2005</date>
+                    </imprint>
+                    <biblScope unit="pp">193-208</biblScope>
+                </monogr>
+                <note type="abstract">Refers to biblical material, e.g. the translations of Saadiah [chapter], Ḥafs b.
+al-Qūṭī [chapter ], Isaak Velasquez [chapter], and al-Ḥārith b. Sinān [chapter].</note>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">?MS: 1059D</note>
+                <note type="tag">?MS: Khizānat al-Qarawiyīn, Ms. 730</note>
+                <note type="tag">ID: 67</note>
+                <note type="tag">MS: Archive of the Cathedral of Leon, Cod. 35,</note>
+                <note type="tag">MS: Archive of the Cathedral of Leon, Cod. 35, Fez</note>
+                <note type="tag">MS: Escurial,  Cod. 1857 and Cod. 1625., Cod. 1625.</note>
+                <note type="tag">MS: Escurial,  Cod. 1857 and Cod. 1625., Cod. 1857</note>
+                <note type="tag">MS: Leipzig, University Library, Cod. Or.</note>
+                <note type="tag">MS: London,  BL Add. 9061, BL Add. 9061</note>
+                <note type="tag">MS: Mss. Munich,  Staatsbibliothek Ar. 238 and Ar. 234, Ar. 234</note>
+                <note type="tag">MS: Mss. Munich,  Staatsbibliothek Ar. 238 and Ar. 234, Staatsbibliothek Ar. 238</note>
+                <note>,
+Consejería de cultura, ,</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

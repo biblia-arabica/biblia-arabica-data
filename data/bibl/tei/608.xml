@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Les mozarabes christianisme, islamisation et arabisation en péninsule Ibérique (IXe-XIIe siècle)</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/608/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Cyrille</forename>
+                        <surname>Aillet</surname>
+                    </author>
+                    <author>
+                        <forename>Gabriel</forename>
+                        <surname>Martinez-Gros</surname>
+                    </author>
+                    <title level="m">Les mozarabes christianisme, islamisation et arabisation en péninsule Ibérique (IXe-XIIe siècle)</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/608</idno>
+                    <imprint>
+                        <pubPlace>Madrid</pubPlace>
+                        <date>2010</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">La formation d'une culture arabo-chrétienne dans la seconde moitié du IXe siècle témoigne de l'avancée du processus d'islamisation dans la péninsule Ibérique et aussi de la profondeur de l'arabisation dans la société. L'ouvrage interroge l'échec de ce mouvement d'acculturation qui se mesure au rôle social et culturel marginal joué par le christianisme arabisé d'al-Andalus à partir du XIe siècle.--[Memento].</note>
+                <note type="tag">Subject: Gospels</note>
+                <note type="tag">Subject: Ibn Hazm</note>
+                <note type="tag">Subject: Isaak Velasquez</note>
+                <note type="tag">Subject: New Testament</note>
+                <note type="tag">Subject: Pauline Epistles</note>
+                <note type="tag">Subject: Pentateuch</note>
+                <note type="tag">ID: 608</note>
+                <note type="tag">MS: BCT, 11.4</note>
+                <note type="tag">MS: BNE, 10.018</note>
+                <note type="tag">MS: BNE, ms. Vit 13.1 page 193</note>
+                <note type="tag">MS: Fes, Al-Qarawiyyin University Library, 730</note>
+                <note type="tag">MS: Leipzig, Universitätsbibliothek, Or. 1059B</note>
+                <note type="tag">MS: Madrid, , Biblioteca Nacional de España, Or. 4971</note>
+                <note type="tag">MS: Munich, Staatsbibliothek, Ar. 238</note>
+                <note type="tag">MS: RBE, &amp; I.14 Page 193</note>
+                <note type="tag">MS: Sinai, Ar. 151</note>
+                <note type="tag">MS: Vatican, Biblioteca apostolica vaticana,  Ar. 13</note>
+                <note type="tag">MS: Vatican, Biblioteca apostolica vaticana,  Lat. 12900</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

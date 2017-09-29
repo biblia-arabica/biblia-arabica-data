@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Vie de Jésus en Arabe</title>
+                <title level="m">Écrits apocryphes chrétiens</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/433/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Charles</forename>
+                        <surname>Genequand</surname>
+                    </author>
+                    <title level="a">Vie de Jésus en Arabe</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/433</idno>
+                </analytic>
+                <monogr>
+                    <title level="m">Écrits apocryphes chrétiens</title>
+                    <imprint>
+                        <pubPlace>Paris</pubPlace>
+                        <publisher>Gallimard</publisher>
+                        <date>1997</date>
+                    </imprint>
+                    <biblScope unit="pp">207-238</biblScope>
+                </monogr>
+                <note type="abstract">Introduction and French translation of the Infancy
+Gospels in Arabis.</note>
+                <note type="tag">Subject: Includes edition of the Arabic text.</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">ID: 433</note>
+                <note type="tag">MS: Florence, BML, Or. 32</note>
+                <note type="tag">MS: Oxford, Bodl., Or. 350</note>
+                <note type="tag">MS: Vatican, BAV, Syr. 159.</note>
+                <note>in
+François Bovon and Pierre Geoltrain,    , ,</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

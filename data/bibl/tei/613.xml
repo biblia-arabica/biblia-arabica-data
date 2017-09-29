@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">L'Évangile arabe selon Luc</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/613/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Samir</forename>
+                        <surname>Arbache</surname>
+                    </author>
+                    <title level="m">L'Évangile arabe selon Luc</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/613</idno>
+                    <ref target="http://hdl.handle.net/2078.1/156889"/>
+                    <imprint>
+                        <pubPlace>Bruxelles</pubPlace>
+                        <publisher>Éditions Safran</publisher>
+                        <date>2012</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">The book offers a diplomatic edition of the Gospel of Luke based on MS Sinai Arabic 72, dated 897 AD. Occasionally MSS Sinai Ar. 69 (dated 1065 AD) and Sinai Ar. 97 (dated 1123/24 AD) have been used to correct or complete the text. A brief introductions offers some information on MS Sin. Ar. 72 and its scribe Stephen of Ramlah.</note>
+                <note type="tag">Gospel</note>
+                <note type="tag">ID: 613</note>
+                <note type="tag">MS: Sinai Ar. 69</note>
+                <note type="tag">MS: Sinai Ar. 72</note>
+                <note type="tag">MS: Sinai Ar. 97</note>
+                <note type="tag">New Testament</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

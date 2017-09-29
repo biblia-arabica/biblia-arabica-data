@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Beiträge zur Geschichte der Bibel in der arabischen Literatur</title>
+                <title level="m">Semitic studies in memory of Rev. Dr. Alexander-Kohut</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/584/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Martin</forename>
+                        <surname>Schreiner</surname>
+                    </author>
+                    <title level="a">Beiträge zur Geschichte der Bibel in der arabischen Literatur</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/584</idno>
+                </analytic>
+                <monogr>
+                    <editor>
+                        <forename>George Alexander</forename>
+                        <surname>Kohut</surname>
+                    </editor>
+                    <title level="m">Semitic studies in memory of Rev. Dr. Alexander-Kohut</title>
+                    <imprint>
+                        <pubPlace>Berlin</pubPlace>
+                        <publisher>S. Calvary &amp; Co.</publisher>
+                        <date>1897</date>
+                    </imprint>
+                    <biblScope unit="pp">495-513</biblScope>
+                </monogr>
+                <note type="abstract">Hermann Stieglecker, “Die muhammedanische Pentateuchkritik zu Beginn des 2.
+Jahrtausends,” Theologisch-Praktische Quartalschrift 88 (1935), pp. 72-87,
+282-302, 472-486.</note>
+                <note type="tag">Subject: Muslim reception</note>
+                <note type="tag">ID: 584</note>
+                <note type="tag">MS: Bryn Mawr College Library,  BV 47, BV 47</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

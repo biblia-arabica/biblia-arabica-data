@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Genesis: Septuaginta. Vetus Testamentum Graecum</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/228/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <editor>
+                        <forename>John William</forename>
+                        <surname>Wevers</surname>
+                    </editor>
+                    <title level="m">Genesis: Septuaginta. Vetus Testamentum Graecum</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/228</idno>
+                    <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Vandenhoeck&amp;Ruprecht</publisher>
+                        <date>1974</date>
+                    </imprint>
+                    <biblScope unit="vol">1</biblScope>
+                </monogr>
+                <note type="tag">Subject: Old Testament</note>
+                <note type="tag">Subject: Pentateuch</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!no author</note>
+                <note type="tag">?MS: Ar. 11, and Ar. 16</note>
+                <note type="tag">ID: 228</note>
+                <note type="tag">MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</note>
+                <note type="tag">MS: Leiden, University Library, Or. 377 (Warner 377)</note>
+                <note type="tag">MS: Oxford, Bodleian Library, March 440</note>
+                <note type="tag">MS: Oxford, Bodleian Library, Poc. 219</note>
+                <note type="tag">MS: Paris, BNF,</note>
+                <note type="tag">MS: Paris, BNF, Ar. 9</note>
+                <note type="tag">MS: Paris, BNF,  Ar. 10</note>
+                <note>PP: 44-46</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

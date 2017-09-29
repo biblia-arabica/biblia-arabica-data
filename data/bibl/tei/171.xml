@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Qurʾāns of the Mamlūks</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/171/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>David</forename>
+                        <surname>James</surname>
+                    </author>
+                    <title level="m">Qurʾāns of the Mamlūks</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/171</idno>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>Alexandria Press in association with Thames and Hudson</publisher>
+                        <date>1988</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">Includes comparisons to Arabic Gospel manuscripts.</note>
+                <note type="tag">Subject: Art, paleography, codicology</note>
+                <note type="tag">ID: 171</note>
+                <note type="tag">MS: Cairo, Coptic Museum, Bibl. 91</note>
+                <note type="tag">MS: Coptic Orthodox Patriarche, , Bibl. 196</note>
+                <note type="tag">MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

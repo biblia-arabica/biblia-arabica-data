@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Sublime in its Style -Biqāʿī’s Qurʾān Commentary</title>
+                <title level="m">Adaptations and Innovations</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/599/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Walid</forename>
+                        <surname>Saleh</surname>
+                    </author>
+                    <title level="a">Sublime in its Style -Biqāʿī’s Qurʾān Commentary</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/599</idno>
+                </analytic>
+                <monogr>
+                    <editor>
+                        <forename>Tvi</forename>
+                        <surname>Langermann</surname>
+                    </editor>
+                    <editor>
+                        <forename>Josef</forename>
+                        <surname>Stern</surname>
+                    </editor>
+                    <title level="m">Adaptations and Innovations</title>
+                    <imprint>
+                        <pubPlace>Exquisite in its Tenderness</pubPlace>
+                        <publisher>The Hebrew Bible Quotations in al</publisher>
+                        <date>2007</date>
+                    </imprint>
+                    <biblScope unit="pp">331-347</biblScope>
+                </monogr>
+                <note type="tag">Subject: al-Biqāʿī</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">ID: 599</note>
+                <note type="tag">MS: Bryn Mawr College Library,  BV 47, BV 47</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

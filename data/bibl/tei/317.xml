@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Das griechische Kloster Mar-Saba in Palaestina. Seine Geschichte und seine litterarischen Denkmäler</title>
+                <title level="j">Römische Quartalschrift für die Christliche Altertumskunde und für Kirchengeschichte</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/317/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Albert</forename>
+                        <surname>Ehrhard</surname>
+                    </author>
+                    <title level="a">Das griechische Kloster Mar-Saba in Palaestina. Seine Geschichte und seine litterarischen Denkmäler</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/317</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Römische Quartalschrift für die Christliche Altertumskunde und für Kirchengeschichte</title>
+                    <imprint>
+                        <date>1893</date>
+                    </imprint>
+                    <biblScope unit="pp">32-79, there p</biblScope>
+                </monogr>
+                <note type="abstract">Describes Paris, BNF, Suppl. Grec. 911, a fragmentary
+Greek-Arabic bilingual of the Gospels of Luke, originating from the monastery of Mar Saba (Compare
+Monferrer [#], Urban [#])</note>
+                <note type="tag">Subject: Gospels</note>
+                <note type="tag">!no volume</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">?MS: 911.</note>
+                <note type="tag">ID: 317</note>
+                <note type="tag">MS: Paris, BNF, Suppl. Grec.</note>
+                <note>,  78 and pl. XIV.2.</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

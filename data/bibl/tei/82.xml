@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Bible Translations, Jewish, Translations into Arabic</title>
+                <title level="m">), Medieval Jewish Civilization: An encyclopedia</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/82/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Norman</forename>
+                        <surname>Roth</surname>
+                    </author>
+                    <title level="a">Bible Translations, Jewish, Translations into Arabic</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/82</idno>
+                </analytic>
+                <monogr>
+                    <title level="m">), Medieval Jewish Civilization: An encyclopedia</title>
+                    <imprint/>
+                    <biblScope unit="pp">106</biblScope>
+                </monogr>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!no date</note>
+                <note type="tag">!no publisher</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">?MS: Jerusalem Cod. 1</note>
+                <note type="tag">ID: 82</note>
+                <note type="tag">MS: , Greek monastery, Greek monastery</note>
+                <note type="tag">MS: Leiden, University Library, Or. 243.</note>
+                <note type="tag">MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</note>
+                <note type="tag">MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</note>
+                <note>in Norman
+Roth (ed ,</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">The Jeremias of Pethion ibn Ayyūb al-Sahhār</title>
+                <title level="j">Catholic Biblical Quarterly</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/267/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Richard M</forename>
+                        <surname>Frank</surname>
+                    </author>
+                    <title level="a">The Jeremias of Pethion ibn Ayyūb al-Sahhār</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/267</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Catholic Biblical Quarterly</title>
+                    <imprint>
+                        <date>1959</date>
+                    </imprint>
+                    <biblScope unit="issue">21</biblScope>
+                    <biblScope unit="pp">136-170</biblScope>
+                </monogr>
+                <note type="abstract">Discusses the Syriac-based Arabic translation of Jeremiah attributed to a certain
+Faṯyūn (Pethiōn) ibn Ayyūb: it offers a classification of extant manuscripts, a discussion of style
+and translation techniques, as well as a reproduction of Jeremiah 1-6.</note>
+                <note type="tag">Subject: Pethion ibn Ayyūb</note>
+                <note type="tag">Subject: Prophets</note>
+                <note type="tag">!no volume</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">?MS: Casanatense, Ms.169</note>
+                <note type="tag">ID: 267</note>
+                <note type="tag">MS: Berlin, Staatsbibliothek, Diez A fol. 41</note>
+                <note type="tag">MS: Birmingham, University Library, Mingana</note>
+                <note type="tag">MS: Birmingham, University Library,  Syr. 624</note>
+                <note type="tag">MS: Florence, BML, Or. 59</note>
+                <note type="tag">MS: London, British Library, Or. 5918</note>
+                <note type="tag">MS: Milan, Bibliotheca Ambrosiana, C58</note>
+                <note type="tag">MS: Oxford, Bodleian Libraries, Seld. Arch. 67</note>
+                <note type="tag">MS: Rome,  Bibliotheca, Bibliotheca</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 495 (originally one manuscript).</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 503</note>
+                <note>, –70.</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

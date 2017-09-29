@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Tw</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/257/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Per Å.</forename>
+                        <surname>Bengtsson</surname>
+                    </author>
+                    <author>
+                        <forename>Fil.Dr.</forename>
+                        <surname>dissertation</surname>
+                    </author>
+                    <author>
+                        <forename>Lunds</forename>
+                        <surname>Universitet,</surname>
+                    </author>
+                    <title level="m">Tw</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/257</idno>
+                    <imprint>
+                        <date>1995</date>
+                    </imprint>
+                </monogr>
+                <note type="tag">Subject: Historical Books</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!no publisher</note>
+                <note type="tag">?MS: 226</note>
+                <note type="tag">?MS: Kk. 6.3</note>
+                <note type="tag">ID: 257</note>
+                <note type="tag">MS: Beirut, Bibliothèque Orientale,  Bibl. 32.</note>
+                <note type="tag">MS: Beirut, Bibliothèque Orientale,  Coptic Orthodox Patriarchate</note>
+                <note type="tag">MS: Beirut, Bibliothèque Orientale, Ms. 419</note>
+                <note type="tag">MS: Cambridge, CUL, Add. 3044 and</note>
+                <note type="tag">MS: Paris, BNF, Ar. 1</note>
+                <note type="tag">MS: Paris, BNF, Ar. 23</note>
+                <note type="tag">MS: St Petersburg, Institute of Oriental Manuscripts, D</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 449</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 468</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

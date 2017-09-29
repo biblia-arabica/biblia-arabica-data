@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Le versioni arabe dei Profeti</title>
+                <title level="j">Biblica</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/265/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Alberto</forename>
+                        <surname>Vaccari</surname>
+                    </author>
+                    <title level="a">Le versioni arabe dei Profeti</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/265</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Biblica</title>
+                    <imprint>
+                        <date>1921</date>
+                    </imprint>
+                    <biblScope unit="vol">2</biblScope>
+                    <biblScope unit="pp">401-424</biblScope>
+                </monogr>
+                <note type="abstract">Contains a classification of manuscripts containing a Greek-based version of the
+Prophets which the author attributes to a certain priest named al-ʿAlam. This version is used in the Paris and London Polyglots. Vaccari discusses the translator, time of composition as well as the date of the original Greek manuscript used as a Vorlage and offers reproductions from Isaiah 44 and
+45.</note>
+                <note type="tag">Subject: al-ʿAlam</note>
+                <note type="tag">Subject: Old Testament</note>
+                <note type="tag">Subject: Prophets</note>
+                <note type="tag">ID: 265</note>
+                <note type="tag">MS: London, British Library,  Or. 1314</note>
+                <note type="tag">MS: London, British Library,  Or. 1319</note>
+                <note type="tag">MS: London, British Library, Or. 1326</note>
+                <note type="tag">MS: Oxford, Bodleian Libraries, Arch. Seld. A 67</note>
+                <note type="tag">MS: Paris, Bibliothèque nationale de France, Ar. 1</note>
+                <note type="tag">MS: Paris, Bibliothèque nationale de France,  Ar. 25</note>
+                <note type="tag">MS: Paris, Bibliothèque nationale de France,  Copt. 2</note>
+                <note type="tag">MS: Vatican, Biblioteca apostolica vaticana, Ar. 445</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

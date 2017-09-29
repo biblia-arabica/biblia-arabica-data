@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">משהו על התרגומים הערבים של חמשה חומשי תורה</title>
+                <title level="j">Melilah</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/215/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Raffael</forename>
+                        <surname>Edelmann</surname>
+                    </author>
+                    <title level="a">משהו על התרגומים הערבים של חמשה חומשי תורה</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/215</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Melilah</title>
+                    <imprint>
+                        <date>1955</date>
+                    </imprint>
+                    <biblScope unit="vol">5</biblScope>
+                    <biblScope unit="pp">45-50</biblScope>
+                </monogr>
+                <note type="abstract">Basically a Hebrew version of his English article [#],
+see there.</note>
+                <note type="tag">Subject: Old Testament</note>
+                <note type="tag">Subject: Pentateuch</note>
+                <note type="tag">ID: 215</note>
+                <note type="tag">MS: Copenhagen, Royal Library, Ar. 75</note>
+                <note type="tag">MS: Leiden, University Library, Or. 230 (Scaliger Arab. 230).</note>
+                <note type="tag">MS: Leiden, University Library, Or. 377 (Warner 377)</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

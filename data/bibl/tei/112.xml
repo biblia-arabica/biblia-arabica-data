@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Septuaginta: Vetus Testamentutm Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/112/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>John William</forename>
+                        <surname>Weevers</surname>
+                    </author>
+                    <title level="m">Septuaginta: Vetus Testamentutm Graecum, auctoritate Academiae Scientiarum Gottingensis editum, Vol. 1, Genesis</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/112</idno>
+                    <imprint>
+                        <pubPlace>Göttingen</pubPlace>
+                        <publisher>Vandenhoeck &amp; Ruprecht</publisher>
+                        <date>1974</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">Brief summary of primary and secondary sources</note>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">ID: 112</note>
+                <note type="tag">MS: Leiden,  University Library Or. 377 and 230, 230</note>
+                <note type="tag">MS: Leiden,  University Library Or. 377 and 230, University Library Or. 377</note>
+                <note type="tag">MS: Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</note>
+                <note type="tag">MS: Oxford,  Bodl. Poc. 219 and March. 440. , March. 440.</note>
+                <note type="tag">MS: Paris, BNF Ar. 9, 10</note>
+                <note type="tag">MS: Paris, BNF Ar. 9,  11</note>
+                <note type="tag">MS: Paris, BNF Ar. 9, 16</note>
+                <note>PP: 44-45</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

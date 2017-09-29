@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Arabic Versions of the Bible</title>
+                <title level="m">The Oxford Dictionary of the Christian Church</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/61/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <title level="a">Arabic Versions of the Bible</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/61</idno>
+                </analytic>
+                <monogr>
+                    <editor>
+                        <forename>E. A.</forename>
+                        <surname>Livingstone</surname>
+                    </editor>
+                    <title level="m">The Oxford Dictionary of the Christian Church</title>
+                    <imprint>
+                        <pubPlace>Oxford</pubPlace>
+                        <publisher>Oxford University Press</publisher>
+                        <date>2005</date>
+                    </imprint>
+                    <biblScope unit="pp">96</biblScope>
+                </monogr>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!no author</note>
+                <note type="tag">ID: 61</note>
+                <note type="tag">MS: Paris, Bibliotheque nationale france, Suppl. Ar. 27 (Formly: coisl. 239)</note>
+                <note type="tag">MS: Sinai Ar. 70</note>
+                <note type="tag">MS: Sinai, Ar. 72</note>
+                <note type="tag">MS: Sinai, Ar. 73</note>
+                <note type="tag">MS: Sinai, Ar. 74</note>
+                <note type="tag">MS: Sinai, Ar. 151</note>
+                <note type="tag">MS: Sinai, Ar. 154</note>
+                <note type="tag">MS: Sinai, Ar. 155</note>
+                <note type="tag">MS: St. Petersburg, Imperial Library, Cod. 226</note>
+                <note type="tag">MS: St. Petersburg, Imperial Library,  Paris</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 13</note>
+                <note type="tag">MS: Vatican, BAV,  Borg. Ar. 95</note>
+                <note type="tag">MS: Vatican, BAV, Latin. 12900</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

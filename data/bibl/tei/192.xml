@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">To the CD-ROM Edition of the St. Petersburg Arabic Bible</title>
+                <title level="j">Manuscripta Orientalia</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/192/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Valery Vyacheslavoich</forename>
+                        <surname>Polosin</surname>
+                    </author>
+                    <author>
+                        <forename>Efim</forename>
+                        <surname>Rezvan</surname>
+                    </author>
+                    <title level="a">To the CD-ROM Edition of the St. Petersburg Arabic Bible</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/192</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">Manuscripta Orientalia</title>
+                    <imprint>
+                        <date>1997</date>
+                    </imprint>
+                    <biblScope unit="vol">3</biblScope>
+                    <biblScope unit="pp">40-47</biblScope>
+                </monogr>
+                <note type="tag">Subject: Art, paleography, codicology</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">?MS: Oriental Manuscripts, D 226 and Vatican, BAV, Ar. 467-468.</note>
+                <note type="tag">ID: 192</note>
+                <note type="tag">MS: St Petersburg,  Institute of, Institute of</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

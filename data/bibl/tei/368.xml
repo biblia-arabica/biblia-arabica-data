@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Diatessaron de Tatien: Texte arabe établi, traduit en français, collationné avec les anciennes versions syriaques, suivi d’un évangile diatessarique syriaque et accompagné de quatre planches hors-texte</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/368/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Augustin-Sebastien</forename>
+                        <surname>Marmardji</surname>
+                    </author>
+                    <title level="m">Diatessaron de Tatien: Texte arabe établi, traduit en français, collationné avec les anciennes versions syriaques, suivi d’un évangile diatessarique syriaque et accompagné de quatre planches hors-texte</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/368</idno>
+                    <imprint>
+                        <pubPlace>Beirut</pubPlace>
+                        <publisher>.</publisher>
+                        <date>1935</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">Reviews: Baumstark, Anton in OC 33
+(1936), pp. 235-245; D.S. Margoliouth in Journal of Theological Studies 38
+(1937): 76-79; P. Benoit in Revue Biblique 46 (1937): 124-128.</note>
+                <note type="tag">Subject: Diatesseron</note>
+                <note type="tag">?MS: 1020 and 1280</note>
+                <note type="tag">ID: 368</note>
+                <note type="tag">MS: , Cairo 202 (COP), Cairo 202 (COP)</note>
+                <note type="tag">MS: London, BL,  Beirut Fragments?</note>
+                <note type="tag">MS: London, BL, Or 3382</note>
+                <note type="tag">MS: Oxford, Bodl., Ar. e. 163</note>
+                <note type="tag">MS: , Sbath, Sbath</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 14</note>
+                <note type="tag">MS: Vatican, BAV, Borg. Ar. 250</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

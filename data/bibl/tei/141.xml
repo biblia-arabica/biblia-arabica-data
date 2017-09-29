@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">The Mount Sinai Arabic Version of IV Ezra. Text, Translation and Introduction,  .</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/141/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Adriana</forename>
+                        <surname>Drint</surname>
+                    </author>
+                    <title level="m">The Mount Sinai Arabic Version of IV Ezra. Text, Translation and Introduction,  .</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/141</idno>
+                    <ref target="http://hdl.handle.net/11370/a5eb1c75-e998-4ec4-8090-9a6eee0e740b"/>
+                    <imprint>
+                        <date>1959</date>
+                    </imprint>
+                </monogr>
+                <note type="tag">Subject: Editions, Chrestomathies</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">ID: 141</note>
+                <note type="tag">MS: Beirut, Bibliothèque Orientale, Ms. 419</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 75, 77</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 75,  86</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 75,  89</note>
+                <note type="tag">MS: Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</note>
+                <note type="tag">MS: Oxford, Bodleian Library, Hunt. 260</note>
+                <note type="tag">MS: Oxford, Bodleian Library, Or. 251</note>
+                <note type="tag">MS: Paris, BNF, Ar. 51.</note>
+                <note type="tag">MS: Sinai, Ar. 7 and Ar. 589, Berlin</note>
+                <note type="tag">MS: Sinai, Ar. 7 and Ar. 589,  Sprenger 30</note>
+                <note type="tag">MS: Sinai, Ar. 7 and Ar. 589,  Staatsbibliothek</note>
+                <note type="tag">MS: Vatican, BAV, Ar. 462</note>
+                <note type="tag">MS: Vatican, BAV, Borg. ar. 95</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

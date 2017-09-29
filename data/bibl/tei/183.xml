@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Byzantine-Islamic influences in the illustration of MS Paris, Institut Catholique Copte-Arabe 1</title>
+                <title level="j">XVI. Internationaler Byzantinistencongress, Akten 11/5, Jahrbuch der Östereichischen Byzantinistik</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/183/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Lucy-Anne</forename>
+                        <surname>Hunt</surname>
+                    </author>
+                    <title level="a">Byzantine-Islamic influences in the illustration of MS Paris, Institut Catholique Copte-Arabe 1</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/183</idno>
+                </analytic>
+                <monogr>
+                    <title level="j">XVI. Internationaler Byzantinistencongress, Akten 11/5, Jahrbuch der Östereichischen Byzantinistik</title>
+                    <imprint>
+                        <date>1983</date>
+                    </imprint>
+                    <biblScope unit="vol">32</biblScope>
+                    <biblScope unit="pp">339-341</biblScope>
+                </monogr>
+                <note type="tag">Subject: Art, paleography, codicology</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">ID: 183</note>
+                <note type="tag">MS: Cairo, Coptic Museum, Bibl. 94 (pl. 5).</note>
+                <note type="tag">MS: Paris, Institut Catholique, BNF</note>
+                <note type="tag">MS: Paris, Institut Catholique,  Copt. 13</note>
+                <note type="tag">MS: Paris, Institut Catholique, Copt.-Ar. 1 (pls. 1-4)</note>
+                <note>/5 ( , Vol. 5,</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

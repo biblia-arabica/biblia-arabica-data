@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="a">Bibelübersetzungen, arabische</title>
+                <title level="m">Realencyklopädie für Protestantische Theologie und Kirche</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/74/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <analytic>
+                    <author>
+                        <forename>Eberhard</forename>
+                        <surname>Nestle</surname>
+                    </author>
+                    <title level="a">Bibelübersetzungen, arabische</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/74</idno>
+                </analytic>
+                <monogr>
+                    <title level="m">Realencyklopädie für Protestantische Theologie und Kirche</title>
+                    <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <publisher>J.C. Hinrichs</publisher>
+                        <date>1897</date>
+                    </imprint>
+                    <biblScope unit="vol">3</biblScope>
+                    <biblScope unit="pp">90-95</biblScope>
+                </monogr>
+                <note type="tag">Subject: Generalia</note>
+                <note type="tag">!no abstract</note>
+                <note type="tag">!uncaptured data</note>
+                <note type="tag">ID: 74</note>
+                <note type="tag">MS: BM Or. 1041, Or. 1476, Or. 1302</note>
+                <note type="tag">MS: Leiden, University Library, Or. 377</note>
+                <note type="tag">MS: Oxford, Bodl., Hunt. 206.</note>
+                <note type="tag">MS: Oxford, Bodl., Poc. 70</note>
+                <note type="tag">MS: Oxford, Bodl.,  Poc. 285</note>
+                <note>in  ,   ’schen Buchhandlung, ,</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>

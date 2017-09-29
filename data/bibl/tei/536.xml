@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">Saadia al-Fajjumi's arabische Danielversion: nach einem Manuscript der kgl. Bibliothek in Berlin</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <respStmt>
+                    <resp>Bibliography curation by</resp>
+                    <name>Biblia Arabica research team</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI encoding by</resp>
+                    <name ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/bibl/536/tei</idno>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+                    </licence>
+                </availability>
+                <date>2017-09-29+02:00</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://biblia-arabica.com/documentation/editors.xml#ngibson" when="2017-09-29+02:00">CREATED: bibl</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Hermann</forename>
+                        <surname>Spiegel</surname>
+                    </author>
+                    <title level="m">Saadia al-Fajjumi's arabische Danielversion: nach einem Manuscript der kgl. Bibliothek in Berlin</title>
+                    <idno type="URI">http://biblia-arabica.com/bibl/536</idno>
+                    <imprint>
+                        <pubPlace>Berlin</pubPlace>
+                        <publisher>Druck von H. Itzkowski</publisher>
+                        <date>1906</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract">Jan B. van Zijl, “The British Library MS Or. 2211 of Saadia Gaon’s Arabic
+Translation of Isaiah,” JSS 37 (2001), pp. 1992-57-63.</note>
+                <note type="tag">Subject: Old Testament</note>
+                <note type="tag">Subject: Prophets</note>
+                <note type="tag">?MS: College Library, BV 47 (formerly Zurich Or. 94).</note>
+                <note type="tag">ID: 536</note>
+                <note type="tag">MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</note>
+                <note type="tag">MS: ,  Violet fragment and Bryn Mawr, Violet fragment</note>
+            </biblStruct>
+        </body>
+    </text>
+</TEI>
