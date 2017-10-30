@@ -66,6 +66,7 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 14</note>
                 <note type="tag">MS: Vatican, BAV, Borg. Ar. 250</note>
                 <note>PP: 12 f</note>
+            <citedRange unit="page">12 f</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/365" ref="dc:subject">

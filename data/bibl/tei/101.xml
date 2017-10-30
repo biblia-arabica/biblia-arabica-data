@@ -62,6 +62,7 @@
                 <note type="tag">MS: Vatican, BAV, Borg. Syr. 49</note>
                 <note type="tag">MS: Vatican, BAV,  Copt. 9</note>
                 <note>PP: 110-111</note>
+            <citedRange unit="page">110-111</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/101" ref="dc:subject">

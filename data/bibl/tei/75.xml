@@ -57,6 +57,7 @@
                 <note type="tag">ID: 75</note>
                 <note type="tag">MS: Paris, BNF, Ar. 9</note>
                 <note>PP: 52-55</note>
+            <citedRange unit="page">52-55</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/75" ref="dc:subject">

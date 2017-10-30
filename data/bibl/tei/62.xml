@@ -63,6 +63,7 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 13</note>
                 <note type="tag">MS: Vatican, BAV,  Borg. Ar. 95</note>
                 <note>PP: 53-55</note>
+            <citedRange unit="page">53-55</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/62" ref="dc:subject">

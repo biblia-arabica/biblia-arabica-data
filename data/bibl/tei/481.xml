@@ -61,6 +61,7 @@ alongside Rödiger’s revisions of Wallin’s Arabic text []. The translation i
                 <note type="tag">ID: 481</note>
                 <note type="tag">MS: Oxford, Bodleian Library, Or.</note>
                 <note>PP: xv-xxvi, 1-61</note>
+            <citedRange unit="page">xv-xxvi, 1-61</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/481" ref="dc:subject">

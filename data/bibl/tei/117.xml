@@ -59,6 +59,7 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 23</note>
                 <note>-Moretus, ,</note>
                 <note>PP: 70-72</note>
+            <citedRange unit="page">70-72</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/117" ref="dc:subject">

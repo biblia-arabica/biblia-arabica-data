@@ -59,6 +59,7 @@
                 <note type="tag">MS: London, BL, Harl.</note>
                 <note type="tag">MS: Oxford, Bodleian Library, Poc. 289</note>
                 <note>PP: 69-73</note>
+            <citedRange unit="page">69-73</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/24" ref="dc:subject">

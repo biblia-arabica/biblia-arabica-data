@@ -66,6 +66,7 @@
                 <note type="tag">MS: Paris, BNF, Ar. 9</note>
                 <note type="tag">MS: Paris, BNF,  Ar. 10</note>
                 <note>PP: 44-46</note>
+            <citedRange unit="page">44-46</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/228" ref="dc:subject">

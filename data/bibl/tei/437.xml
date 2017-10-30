@@ -57,6 +57,7 @@
                 <note type="tag">ID: 437</note>
                 <note type="tag">MS: Oxford, Bodleian Library, Or. 251</note>
                 <note>PP: xl-xli</note>
+            <citedRange unit="page">xl-xli</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/437" ref="dc:subject">

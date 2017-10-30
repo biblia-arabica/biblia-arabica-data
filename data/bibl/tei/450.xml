@@ -57,6 +57,7 @@
                 <note type="tag">ID: 450</note>
                 <note type="tag">MS: Birmingham, Mingana, Chr.</note>
                 <note>PP: 9</note>
+            <citedRange unit="page">9</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/450" ref="dc:subject">

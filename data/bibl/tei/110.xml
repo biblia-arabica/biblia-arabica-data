@@ -66,6 +66,7 @@
                 <note type="tag">MS: Paris, BNF Ar. 9, 16</note>
                 <note>,  [paginated separately].</note>
                 <note>PP: 1-80</note>
+            <citedRange unit="page">1-80</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/110" ref="dc:subject">

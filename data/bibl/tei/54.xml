@@ -70,6 +70,7 @@ arabica) in the Biblia Hebraica.</note>
                 <note type="tag">MS: Wolfenb,  Oxford, Oxford</note>
                 <note>PP: 266-268</note>
                 <note>(several reprints ),</note>
+            <citedRange unit="page">266-268</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/54" ref="dc:subject">

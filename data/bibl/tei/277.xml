@@ -59,6 +59,7 @@
                 <note type="tag">MS: Paris, BNF, Ar. 1</note>
                 <note>PP: 97-104</note>
                 <note>’sche Universitätsbuchhandlung, ,</note>
+            <citedRange unit="page">97-104</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/277" ref="dc:subject">

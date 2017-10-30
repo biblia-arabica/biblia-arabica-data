@@ -60,6 +60,7 @@ Arabic translations of the Pentateuch.</note>
                 <note type="tag">MS: Leiden, University Library, Or. 377</note>
                 <note type="tag">MS: Munich, Staatsbibliothek, Ar. 234.</note>
                 <note>PP: 59-64, 118-123</note>
+            <citedRange unit="page">59-64, 118-123</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/227" ref="dc:subject">

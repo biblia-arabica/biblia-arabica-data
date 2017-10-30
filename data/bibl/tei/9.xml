@@ -63,6 +63,7 @@
                 <note type="tag">MS: Vatican, BAV, Copt. 9</note>
                 <note>PP: 12-15</note>
                 <note>'sche Verlagshandlung, ,</note>
+            <citedRange unit="page">12-15</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/9" ref="dc:subject">

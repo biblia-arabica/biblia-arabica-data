@@ -57,6 +57,7 @@
                 <note type="tag">ID: 275</note>
                 <note type="tag">MS: Paris, BNF, Ar. 1</note>
                 <note>PP: 34-37</note>
+            <citedRange unit="page">34-37</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/275" ref="dc:subject">

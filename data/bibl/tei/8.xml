@@ -65,6 +65,7 @@
                 <note type="tag">MS: Paris,  BNF. Ar. 42, BNF. Ar. 42</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 145</note>
                 <note>PP: 62-64</note>
+            <citedRange unit="page">62-64</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/8" ref="dc:subject">

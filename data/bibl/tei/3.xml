@@ -66,6 +66,8 @@
                 <note type="tag">MS: Vienna, ÖNP, NF. 97 (cited as Lambecii codex XLIV)</note>
                 <note>PP: 1-13
 and 134-139</note>
+            <citedRange unit="page">1-13
+and 134-139</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3" ref="dc:subject">

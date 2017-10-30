@@ -58,6 +58,7 @@ briefly, with reference to [] Thilo.</note>
                 <note type="tag">ID: 479</note>
                 <note type="tag">MS: Oxford, Bodleian Library, Or.</note>
                 <note>PP: 46</note>
+            <citedRange unit="page">46</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/479" ref="dc:subject">

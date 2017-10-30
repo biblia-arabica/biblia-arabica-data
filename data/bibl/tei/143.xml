@@ -59,6 +59,8 @@
                 <note>[incl. Arabic]  [Text on  88-100 of Glossarium section.]</note>
                 <note>PP: 89-106,
 Arabic-Latin glossary on pp</note>
+            <citedRange unit="page">89-106,
+Arabic-Latin glossary on pp</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/143" ref="dc:subject">

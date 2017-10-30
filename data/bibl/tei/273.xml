@@ -59,6 +59,7 @@ Polyglots with a focus on the translation’s relation with its Greek Vorlage</n
                 <note type="tag">ID: 273</note>
                 <note type="tag">MS: Paris, BNF, Ar. 1</note>
                 <note>PP: 98-106</note>
+            <citedRange unit="page">98-106</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/273" ref="dc:subject">

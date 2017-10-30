@@ -61,6 +61,7 @@
                 <note type="tag">ID: 145</note>
                 <note type="tag">MS: St. Petersburg, Institut of Oriental Manuscripts, A</note>
                 <note>PP: viii-ix, 2-10</note>
+            <citedRange unit="page">viii-ix, 2-10</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/145" ref="dc:subject">

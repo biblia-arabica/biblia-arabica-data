@@ -54,6 +54,7 @@
                 <note type="tag">ID: 485</note>
                 <note type="tag">MS: Paris, BNF, Ar. 51</note>
                 <note>PP: xxxix</note>
+            <citedRange unit="page">xxxix</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/485" ref="dc:subject">

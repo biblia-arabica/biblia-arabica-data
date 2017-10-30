@@ -62,6 +62,8 @@
                 <note type="tag">MS: Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</note>
                 <note>PP: 161-164</note>
                 <note>PP: 366-367</note>
+            <citedRange unit="page">161-164</citedRange>
+                <citedRange unit="page">366-367</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/97" ref="dc:subject">

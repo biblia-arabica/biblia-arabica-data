@@ -56,6 +56,7 @@
                 <note type="tag">ID: 276</note>
                 <note type="tag">MS: Paris, BNF, Ar. 1</note>
                 <note>PP: 65-70</note>
+            <citedRange unit="page">65-70</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/276" ref="dc:subject">

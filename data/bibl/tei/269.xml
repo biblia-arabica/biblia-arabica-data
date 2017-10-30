@@ -56,6 +56,7 @@
                 <note type="tag">ID: 269</note>
                 <note type="tag">MS: Berlin, Staatsbibliothek, Diez A fol. 41</note>
                 <note>PP: 13-14</note>
+            <citedRange unit="page">13-14</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/269" ref="dc:subject">

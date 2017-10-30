@@ -62,6 +62,7 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 14</note>
                 <note type="tag">MS: Vatican, BAV, Borg. Ar. 250</note>
                 <note>PP: 133-138</note>
+            <citedRange unit="page">133-138</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/363" ref="dc:subject">

@@ -69,6 +69,7 @@
                 <note type="tag">MS: Sinai,  Ar. 10, Ar. 10</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 1</note>
                 <note>PP: 107-108</note>
+            <citedRange unit="page">107-108</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/231" ref="dc:subject">

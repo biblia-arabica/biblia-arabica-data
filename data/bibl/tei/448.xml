@@ -60,6 +60,7 @@
                 <note type="tag">ID: 448</note>
                 <note type="tag">MS: Birmingham, Mingana, Chr.</note>
                 <note>PP: 278-281</note>
+            <citedRange unit="page">278-281</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/448" ref="dc:subject">

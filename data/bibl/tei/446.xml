@@ -60,6 +60,7 @@
                 <note type="tag">ID: 446</note>
                 <note type="tag">MS: Birmingham, Mingana, Chr.</note>
                 <note>PP: 586-590</note>
+            <citedRange unit="page">586-590</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/446" ref="dc:subject">

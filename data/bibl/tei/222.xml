@@ -60,6 +60,7 @@
                 <note type="tag">MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</note>
                 <note type="tag">MS: Paris, BNF Ar. 1, Florence</note>
                 <note>PP: Academicum, 1789</note>
+            <citedRange unit="page">Academicum, 1789</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/222" ref="dc:subject">

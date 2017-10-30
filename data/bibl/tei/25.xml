@@ -60,6 +60,7 @@
                 <note type="tag">MS: Oxford, Bodleian Library, Poc. 289</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 13</note>
                 <note>PP: 668-675</note>
+            <citedRange unit="page">668-675</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/25" ref="dc:subject">

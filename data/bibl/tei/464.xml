@@ -61,6 +61,7 @@ Infancy Gospels</note>
                 <note type="tag">MS: Vatican, BAV,  Ar.</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 171</note>
                 <note>PP: 79-105</note>
+            <citedRange unit="page">79-105</citedRange>
             </biblStruct>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/464" ref="dc:subject">
