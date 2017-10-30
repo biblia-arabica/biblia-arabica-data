@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,29 @@ East-Syriac provenance.</note>
                 <note type="tag">MS: Cambridge, CUL, Add. 3289</note>
                 <note type="tag">MS: Munich,  Bayrische, Bayrische</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/216" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/216" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/216" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Dq.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/216" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, Add. 3289</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/216" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Bayrische, Bayrische</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

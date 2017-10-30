@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,21 @@
                 <note type="tag">MS: Leipzig, Universitätsbibliothek, 37.</note>
                 <note type="tag">MS: Leipzig, Universitätsbibliothek, Cod. Tisch. 31</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/318" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/318" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, Universitätsbibliothek, 37.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/318" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, Universitätsbibliothek, Cod. Tisch. 31</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

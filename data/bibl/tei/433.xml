@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,26 @@ Gospels in Arabis.</note>
                 <note>in
 François Bovon and Pierre Geoltrain,    , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/433" ref="dc:subject">
+                    <desc>Includes edition of the Arabic text.</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/433" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, Or. 32</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/433" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Or. 350</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/433" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Syr. 159.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

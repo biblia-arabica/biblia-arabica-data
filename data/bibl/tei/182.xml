@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -77,6 +76,66 @@
                 <note>, (reprinted in  , Byzantium, Eastern Christianity and
 Islam: Art at the Crossroads of the Medieval Mediterranean (London: The Pindar Press, , Vol. 2, )</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BMF, Or. 387 (p.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 1571 (p. 318</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library,  pl. 9</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>p. 319,  pl. 10, pl. 10</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>p. 321,  pl. 13, pl. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>p. 327,  pl. 19, pl. 19</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>p. 329,  pls. 22-23), pls. 22-23)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>p. 3287,  pl. 20, pl. 20</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>, p., p.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 92,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/182" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 92, and Istanbul</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note>'sche
 Buchhandlung, .</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/324" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/324" ref="dcterms:references">
+                    <desc>
+                        <bibl>Gregory 0136 and 0137,  St Petersburg , St Petersburg</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

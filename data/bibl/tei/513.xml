@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -63,6 +62,16 @@
                 <note type="tag">Melkite</note>
                 <note type="tag">MS: London, BL Or. 4950</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/513" ref="dc:subject">
+                    <desc>Theodore Abū Qurra</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/513" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL Or. 4950</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

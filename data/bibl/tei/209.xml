@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -75,6 +74,41 @@ Bible: Revisiting an Old Debate]</note>
                 <note>(XI)
 ( ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Copenhagen, Royal Library, Ar. 75</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Staatsbibliothek, Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, 14</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 9</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 2, Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/209" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 2, Ar. 3</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

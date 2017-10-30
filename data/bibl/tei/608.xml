@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -75,6 +74,81 @@
                 <note type="tag">MS: Vatican, Biblioteca apostolica vaticana,  Ar. 13</note>
                 <note type="tag">MS: Vatican, Biblioteca apostolica vaticana,  Lat. 12900</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>Ibn Hazm</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>Isaak Velasquez</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>New Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>BCT, 11.4</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>BNE, 10.018</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>BNE, ms. Vit 13.1 page 193</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Fes, Al-Qarawiyyin University Library, 730</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, Universitätsbibliothek, Or. 1059B</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Madrid, , Biblioteca Nacional de España, Or. 4971</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Staatsbibliothek, Ar. 238</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>RBE, &amp; I.14 Page 193</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 151</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, Biblioteca apostolica vaticana,  Ar. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/608" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, Biblioteca apostolica vaticana,  Lat. 12900</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

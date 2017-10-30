@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -69,6 +68,36 @@
                 <note type="tag">MS: Oxford, Bodl.,  Poc. 285</note>
                 <note>in  ,   ’schen Buchhandlung, ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dcterms:references">
+                    <desc>
+                        <bibl>BM Or. 1041, Or. 1476, Or. 1302</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 377</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Hunt. 206.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Poc. 70</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/74" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl.,  Poc. 285</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

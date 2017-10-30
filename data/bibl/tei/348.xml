@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -71,6 +70,56 @@
                 <note type="tag">MS: : Vatican, BAV, Ar. 13</note>
                 <note type="tag">MS: : Vatican, BAV,  Ar. 17</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Or. Quart. 2101</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 2378.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Staatsbibliothek Ar. 238, Staatsbibliothek Ar. 238</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 82, Ar. 154</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 82, Ar. 155</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>: Vatican, BAV,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>: Vatican, BAV, Ar. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/348" ref="dcterms:references">
+                    <desc>
+                        <bibl>: Vatican, BAV,  Ar. 17</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

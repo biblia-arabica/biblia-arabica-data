@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -58,6 +57,16 @@ Pentateuch,” Israel Oriental Studies 9 (1979), pp. 147-173.</note>
                 <note type="tag">ID: 563</note>
                 <note type="tag">MS: Bryn Mawr College Library,  BV 47, BV 47</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/563" ref="dc:subject">
+                    <desc>Samaritan</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/563" ref="dcterms:references">
+                    <desc>
+                        <bibl>Bryn Mawr College Library,  BV 47, BV 47</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

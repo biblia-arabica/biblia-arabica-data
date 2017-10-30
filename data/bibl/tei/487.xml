@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -71,6 +70,46 @@ Khidma</note>
                 <note type="tag">MS: Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</note>
                 <note type="tag">MS: Vatican, Biblioteca Vaticana, Ar. 491</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dc:subject">
+                    <desc>Biblical quotations in Christian Arabic writings</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 436 (?), Ar. 436 (?)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 441 (fols 121-227), Ar. 441 (fols 121-227)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 645 (fols 184-192), Ar. 645 (fols 184-192)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cairo, Coptic Orthodox Patriarchate, Theol. 209</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>Jerusalem, St. Anne, 33</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 75 (fols 102-223), Ar. 75 (fols 102-223)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/487" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, Biblioteca Vaticana, Ar. 491</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

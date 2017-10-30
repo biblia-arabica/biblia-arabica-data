@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,16 @@
                 <note type="tag">MS: Sinai,  Ar. 154, Ar. 154</note>
                 <note>3, no page numbers.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/332" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/332" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 154, Ar. 154</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

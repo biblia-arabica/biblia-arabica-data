@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -59,6 +58,24 @@
                 <note type="tag">MS: Paris, BNF Ar. 1,  BML Or. 112 (formerly</note>
                 <note type="tag">MS: Paris, BNF Ar. 1, Florence</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/223" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/223" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/223" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 1,  BML Or. 112 (formerly</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/223" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 1, Florence</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

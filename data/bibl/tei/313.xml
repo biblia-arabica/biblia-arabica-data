@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -66,6 +65,36 @@
                 <note type="tag">MS: Sinai, Ar. 54, Ar. 97</note>
                 <note type="tag">MS: Vatican, BAV, Borg.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Or. Oct. 1108.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 54, Ar. 72</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 54,  Ar. 74</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 54, Ar. 97</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/313" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Borg.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

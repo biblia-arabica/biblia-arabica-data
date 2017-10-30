@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,31 @@
                 <note type="tag">MS: Vatican, BAV,  Or. 1 (p. 39</note>
                 <note type="tag">MS: Vatican, BAV,  pl. 37)</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/163" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/163" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/163" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Barberini</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/163" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Or. 1 (p. 39</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/163" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  pl. 37)</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

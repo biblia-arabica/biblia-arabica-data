@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,21 @@
                 <note>in Micheline
 Albert, et al.,    , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/23" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/23" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Harl.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/23" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Library, Poc. 289</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

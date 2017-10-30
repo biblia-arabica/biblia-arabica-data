@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 589</note>
                 <note type="tag">MS: Bryn Mawr College Library,  BV 47, BV 47</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/589" ref="dc:subject">
+                    <desc>al-Tabari</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/589" ref="dcterms:references">
+                    <desc>
+                        <bibl>Bryn Mawr College Library,  BV 47, BV 47</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

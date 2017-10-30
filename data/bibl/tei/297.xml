@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,16 @@
                 <note type="tag">ID: 297</note>
                 <note type="tag">MS: ,  Violet fragment, Violet fragment</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/297" ref="dc:subject">
+                    <desc>Violet Fragment</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/297" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  Violet fragment, Violet fragment</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

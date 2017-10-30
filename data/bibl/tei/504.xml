@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,11 @@
                 <note type="tag">Melkite</note>
                 <note type="tag">On the Triune Nature of God</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/504" ref="dc:subject">
+                    <desc>Theodore Abū Qurra</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

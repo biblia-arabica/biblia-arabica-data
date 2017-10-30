@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -71,6 +70,31 @@
                 <note type="tag">MS: St Petersburg, RNL, Grec 290</note>
                 <note>), (Lovaina/Paris /Walpole , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/346" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/346" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Suppl. Grec. 911</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/346" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 69 and Ar. 69., Ar. 69</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/346" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 69 and Ar. 69., Ar. 69.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/346" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, RNL, Grec 290</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

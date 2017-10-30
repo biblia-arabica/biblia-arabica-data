@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -72,6 +71,46 @@
                 <note>’sche
 Buchhandlung, ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dc:subject">
+                    <desc>Pentateuch Catena</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 230</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 2364</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Rich 7204</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 235</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl. Or. 324,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl. Or. 324, Hunt. 84</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/249" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 17.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

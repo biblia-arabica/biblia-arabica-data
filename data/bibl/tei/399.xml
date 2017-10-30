@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -73,6 +72,16 @@ and a comparison with Sinai, Ar. 151 and a Greek version.</note>
                 <note type="tag">MS: Madrid, Esc, Ar. 1625</note>
                 <note>,   -CEDRAC, .</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/399" ref="dc:subject">
+                    <desc>Galatians</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/399" ref="dcterms:references">
+                    <desc>
+                        <bibl>Madrid, Esc, Ar. 1625</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

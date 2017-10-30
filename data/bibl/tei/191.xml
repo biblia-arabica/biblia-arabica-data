@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -64,6 +63,16 @@ and [#] Krachkovksi).</note>
                 <note type="tag">ID: 191</note>
                 <note type="tag">MS: St Petersburg,  Institute of, Institute of</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/191" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/191" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg,  Institute of, Institute of</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

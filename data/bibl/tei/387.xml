@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 387</note>
                 <note type="tag">MS: Sinai,  Ar. 154, Ar. 154</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/387" ref="dc:subject">
+                    <desc>Other new testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/387" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 154, Ar. 154</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

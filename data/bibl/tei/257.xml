@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -74,6 +73,56 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 449</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 468</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dc:subject">
+                    <desc>Historical Books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Beirut, Bibliothèque Orientale,  Bibl. 32.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Beirut, Bibliothèque Orientale,  Coptic Orthodox Patriarchate</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Beirut, Bibliothèque Orientale, Ms. 419</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, Add. 3044 and</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 23</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, Institute of Oriental Manuscripts, D</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 449</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/257" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 468</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

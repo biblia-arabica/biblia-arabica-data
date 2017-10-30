@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -82,6 +81,53 @@ pure one, the Virgin Mary = Summa Theologiae Arabica)</note>
                 <note type="tag">MS: Sinai,  Ar. 330, Ar. 330</note>
                 <note type="tag">MS: St. Andrews, University Library, 14.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 431, Ar. 431</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 448, Ar. 448</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Ar. 483, Ar. 483</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>Beirut, Bibliothèque orientale, Ar. 552</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>Birmingham, Mingana, Chr. Ar. 170 (= Chr. Add. 140)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, British Library, Or. 4950</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, State Library, Cod. Ar. 1071</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 330, Ar. 330</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/493" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Andrews, University Library, 14.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

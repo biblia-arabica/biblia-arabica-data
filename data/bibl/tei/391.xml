@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,27 @@ Syriac Lectionary is of Egyptian Bohairic Origin.</note>
                 <note type="tag">MS: Sinai, Ar. 155</note>
                 <note>CF: 390</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/391" ref="dc:subject">
+                    <desc>Erpenius (NT 1616)</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/391" ref="dc:subject">
+                    <desc>New Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/391" ref="dc:subject">
+                    <desc>The Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/391" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, UBL, Or. 217</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/391" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 155</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,36 @@
                 <note>1
 (forthcoming, .</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dc:subject">
+                    <desc>Samaritan</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Petermann 3</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Or.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Or. 139</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, NRL, Sam 179</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/556" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Uss., Uss.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

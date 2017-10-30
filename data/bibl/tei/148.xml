@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -73,6 +72,16 @@
                 <note type="tag">ID: 148</note>
                 <note type="tag">MS: St. Petersburg, Institut of Oriental Manuscripts, A</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/148" ref="dc:subject">
+                    <desc>Editions, Chrestomathies</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/148" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Institut of Oriental Manuscripts, A</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

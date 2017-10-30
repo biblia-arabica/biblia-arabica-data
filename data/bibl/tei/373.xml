@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,21 @@
                 <note type="tag">MS: Fes, Al-Qarawiyyin University Library, Cod. 730</note>
                 <note type="tag">MS: Munich, Bayrische Staatsbibliothek, Cod. 238.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/373" ref="dc:subject">
+                    <desc>Hibbatallah</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/373" ref="dcterms:references">
+                    <desc>
+                        <bibl>Fes, Al-Qarawiyyin University Library, Cod. 730</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/373" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Bayrische Staatsbibliothek, Cod. 238.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

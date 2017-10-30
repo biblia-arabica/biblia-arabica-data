@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,11 @@
                 <note type="tag">ID: 512</note>
                 <note type="tag">Melkite</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/512" ref="dc:subject">
+                    <desc>Theodore Abū Qurra</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

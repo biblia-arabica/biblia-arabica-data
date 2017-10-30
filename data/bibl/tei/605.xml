@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,6 +64,29 @@
                 <note type="tag">MS: Sinai, Ar. 73</note>
                 <note type="tag">MS: Sinai, Ar. 155</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/605" ref="dc:subject">
+                    <desc>New Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/605" ref="dc:subject">
+                    <desc>Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/605" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Bibliothèque nationale de France, Or. 6725</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/605" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 73</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/605" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 155</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

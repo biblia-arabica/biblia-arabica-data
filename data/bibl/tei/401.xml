@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 401</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 13</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/401" ref="dc:subject">
+                    <desc>Philemon</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/401" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 13</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

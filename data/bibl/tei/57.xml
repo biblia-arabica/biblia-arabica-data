@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -76,6 +75,56 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 5</note>
                 <note type="tag">MS: Vatican, BAV, Lat. 12900</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  Ambrosiana?, Ambrosiana?</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Escurial,  Ms. Ar. 1625 and Ms. Ar. 1626, Ms. Ar. 1625</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Escurial,  Ms. Ar. 1625 and Ms. Ar. 1626, Ms. Ar. 1626</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 214</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Add. 9060</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Madrid, BNE, Ms. 4971</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Bayrische, Bayrische</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 5</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/57" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Lat. 12900</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

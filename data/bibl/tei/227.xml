@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,29 @@ Arabic translations of the Pentateuch.</note>
                 <note type="tag">MS: Munich, Staatsbibliothek, Ar. 234.</note>
                 <note>PP: 59-64, 118-123</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/227" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/227" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/227" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Diez A quart. 106</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/227" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 377</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/227" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Staatsbibliothek, Ar. 234.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

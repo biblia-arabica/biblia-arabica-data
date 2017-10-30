@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -75,6 +74,76 @@
                 <note type="tag">MS: Vatican, BAV,  Borg. Ar. 95</note>
                 <note type="tag">MS: Vatican, BAV, Latin. 12900</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Bibliotheque nationale france, Suppl. Ar. 27 (Formly: coisl. 239)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai Ar. 70</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 72</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 73</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 74</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 151</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 154</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 155</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Imperial Library, Cod. 226</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Imperial Library,  Paris</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Borg. Ar. 95</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/61" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Latin. 12900</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

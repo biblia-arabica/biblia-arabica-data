@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -75,6 +74,29 @@
                 <note type="tag">MS: Leiden, University Library, Or. 377 (Warner 377)</note>
                 <note>, , III,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/211" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/211" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/211" ref="dcterms:references">
+                    <desc>
+                        <bibl>Copenhagen, Royal Library, Ar. 75</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/211" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 230 (Scaliger Arab. 230).</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/211" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 377 (Warner 377)</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,6 +64,21 @@ contain from Acts to the end of the New Testament.</note>
                 <note type="tag">MS: London,  BL Or. 8605 and 8612., 8612.</note>
                 <note type="tag">MS: London,  BL Or. 8605 and 8612., BL Or. 8605</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/395" ref="dc:subject">
+                    <desc>The Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/395" ref="dcterms:references">
+                    <desc>
+                        <bibl>London,  BL Or. 8605 and 8612., 8612.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/395" ref="dcterms:references">
+                    <desc>
+                        <bibl>London,  BL Or. 8605 and 8612., BL Or. 8605</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

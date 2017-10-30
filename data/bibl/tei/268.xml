@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -56,6 +55,19 @@
                 <note type="tag">ID: 268</note>
                 <note type="tag">MS: Berlin, Staatsbibliothek, Diez A fol. 41</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/268" ref="dc:subject">
+                    <desc>Pethion ibn Ayyūb</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/268" ref="dc:subject">
+                    <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/268" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

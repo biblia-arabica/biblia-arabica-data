@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,61 @@
                 <note>PP: 1-13
 and 134-139</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, 112 (olim 21)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, Or. Or. Or. 57 (formerly 12)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 5</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Barberini</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Borg. Ar. 129.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Or. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Syr. 10</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Venice, St. Mark, Cod. 11</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vienna, ÖNP, NF. 97 (cited as Lambecii codex XLIV)</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

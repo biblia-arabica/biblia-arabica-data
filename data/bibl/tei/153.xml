@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,16 @@ Sira, as based on Ms. Sinai, Ar. 155.</note>
                 <note type="tag">ID: 153</note>
                 <note type="tag">MS: Sinai, Ar. 155</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/153" ref="dc:subject">
+                    <desc>Editions, Chrestomathies</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/153" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 155</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

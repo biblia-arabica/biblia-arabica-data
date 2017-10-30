@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,16 @@ See also above by the same editor and translator under Acts. The editor claims t
 Both the text and the translation have comments. Cf. the article by Féghali in this section.]</note>
                 <note>(CSCO 452-453 = Scr. Arb. 40-41; Louvain</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/392" ref="dc:subject">
+                    <desc>The Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/392" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 151</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

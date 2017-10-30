@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,31 @@
                 <note type="tag">MS: Paris, Institut Catholique, Copt.-Ar. 1</note>
                 <note>:2 ( ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/177" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/177" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cairo, Coptic Museum, Bibl. 90 (pp. 124-129</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/177" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cairo, Coptic Museum,  pls. 1-6)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/177" ref="dcterms:references">
+                    <desc>
+                        <bibl>Istanbul,  Topkapı Sarayı, Topkapı Sarayı</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/177" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

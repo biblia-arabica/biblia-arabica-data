@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,16 @@
                 <note type="tag">ID: 403</note>
                 <note type="tag">MS: St Petersburg, RNL, Ar. N.S. 327</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/403" ref="dc:subject">
+                    <desc>Hebrews</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/403" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, RNL, Ar. N.S. 327</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

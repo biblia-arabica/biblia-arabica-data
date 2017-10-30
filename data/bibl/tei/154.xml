@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -60,6 +59,16 @@ Which one?</note>
                 <note>/Brockhaus, ,</note>
                 <note>PP: 109-148</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/154" ref="dc:subject">
+                    <desc>Editions, Chrestomathies</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/154" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, Or. 387 (p.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

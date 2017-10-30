@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,61 @@
                 <note type="tag">MS: , St. Petersburg. A.N.S. 327, St. Petersburg. A.N.S. 327</note>
                 <note type="tag">MS: Vatican,  Ar. 13, Ar. 13</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>, 14, 14</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>, 154, 154</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>, 155, 155</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Borg,  K II 31, K II 31</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, UBL, Tischend.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Staatsbibliothek Ar. 238 and Ar., Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Staatsbibliothek Ar. 238 and Ar., Staatsbibliothek Ar. 238</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 75, Ar. 75</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>, St. Petersburg. A.N.S. 327, St. Petersburg. A.N.S. 327</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/37" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican,  Ar. 13, Ar. 13</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

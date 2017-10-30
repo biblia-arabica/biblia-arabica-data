@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,66 @@ selection of Christian, Judaeo-Arabic and Samaritan traditions.</note>
                 <note type="tag">MS: Wolfenb,  Oxford, Oxford</note>
                 <note>’sche Buchhandlung, .</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Or. Fol. 534</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Or. Qu. 828</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Bodl. Cod. II Usserii, Bodl. Cod. II Usserii</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge,  UL Ms. 714, UL Ms. 714</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence,  BML Or. 112 (formerly 21)., BML Or. 112 (formerly 21).</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden,  University Library Or. 377, University Library Or. 377</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 1, Ar. 5</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 1, Ar. 6</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg,  179, 179</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Barberini Or. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/55" ref="dcterms:references">
+                    <desc>
+                        <bibl>Wolfenb,  Oxford, Oxford</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,76 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 462</note>
                 <note type="tag">MS: Vatican, BAV, Borg. ar. 95</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dc:subject">
+                    <desc>Editions, Chrestomathies</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Beirut, Bibliothèque Orientale, Ms. 419</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75, 77</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75,  86</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75,  89</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Library, Hunt. 260</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Library, Or. 251</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 51.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 7 and Ar. 589, Berlin</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 7 and Ar. 589,  Sprenger 30</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 7 and Ar. 589,  Staatsbibliothek</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 462</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/141" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Borg. ar. 95</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,16 @@ name of Hippolytus.</note>
                 <note type="tag">ID: 255</note>
                 <note type="tag">MS: Munich, Bayrischen Staatsbibliothek, Ar. 235.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/255" ref="dc:subject">
+                    <desc>Pentateuch Catena</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/255" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Bayrischen Staatsbibliothek, Ar. 235.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

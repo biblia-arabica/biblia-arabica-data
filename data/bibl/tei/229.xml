@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -79,6 +78,64 @@
                 <note type="tag">MS: Paris, BNF, Ar. 9</note>
                 <note type="tag">MS: University Library,  Or. 239, Or. 239</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dc:subject">
+                    <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, Oxford, Bodleian Library</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, Oxford, March 440</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, Oxford,  Poc. 219</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Bibliotheque nationale france, Ar. 9</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Bibliotheque nationale france,  Ar. 10</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, Bibliotheque nationale france, Ar. 11</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF,  11</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 9</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/229" ref="dcterms:references">
+                    <desc>
+                        <bibl>University Library,  Or. 239, Or. 239</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

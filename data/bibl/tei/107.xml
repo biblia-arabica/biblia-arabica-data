@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,26 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 17</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 18.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/107" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/107" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden, University Library, Or. 2348</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/107" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 17</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/107" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 18.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

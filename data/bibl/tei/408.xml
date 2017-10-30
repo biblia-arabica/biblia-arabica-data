@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 408</note>
                 <note type="tag">MS: Paris, BNF, Ar. 132.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/408" ref="dc:subject">
+                    <desc>Revelation</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/408" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 132.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -74,6 +73,61 @@
                 <note type="tag">MS: Vatican, BAV, Copt. 9</note>
                 <note>in  , ed. James Hastings et al.,   ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, Universitätsbibliothek, Tisch. 12</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, 5505</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL,  and</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Harl. 5474</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 75 and Ar. 154, Ar. 75</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 75 and Ar. 154, Ar. 154</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, RNL, Ar. NS. 327.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/20" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Copt. 9</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

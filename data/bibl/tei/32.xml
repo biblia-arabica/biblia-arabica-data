@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,51 @@
                 <note>(= §§ 275-302).</note>
                 <note>PP: 230-319</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Archive of the Cathedral of, Archive of the Cathedral of</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, Universitätsbibliothek, Cod. 1059</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL Add. 9060 (pls. on pp. 26-27), Add. 9061 (pl. on p. 30)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL Add. 9060 (pls. on pp. 26-27), Or. 3706</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>Madrid, , BNE Ms. 4971 (pls. on pp. 24-25)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>Madrid, , Ms. 3484</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich,  Staatsbibliothek Ar. 238 (pl. on p. 31 and, Staatsbibliothek Ar. 238 (pl. on p. 31 and</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/32" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 5 (pls. on pp. 28-29).</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

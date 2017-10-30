@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -77,6 +76,41 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 13</note>
                 <note type="tag">MS: Vatican, BAV,  Borg. Ar. 95</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai Ar. 70,  Ar., Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Imperial Library,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Imperial Library, Cod. 226</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>St. Petersburg, Imperial Library,  Paris</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 13</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/64" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Borg. Ar. 95</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

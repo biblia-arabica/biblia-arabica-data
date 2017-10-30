@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,16 @@ with Isho‘dad and Theodore of Mopsuestia commentaries.</note>
                 <note type="tag">MS: Sinai, Ar. 151</note>
                 <note>in , in Rifaat Ebied &amp; Herman Teule (ed.), , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/396" ref="dc:subject">
+                    <desc>The Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/396" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 151</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -66,6 +65,16 @@ British Library, Add. 26116. Cf. [#, see below] von Baudissin and [#, see below]
                 <note type="tag">MS: London, British Library, Add.</note>
                 <note>, (reprinted in  , Leipzig: Verlag von S. Hirzel, , Vol. 3,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/166" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/166" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, British Library, Add.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

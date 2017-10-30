@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,6 +64,31 @@
                 <note type="tag">MS: Sinai,  Ar. 116, Ar. 116</note>
                 <note type="tag">MS: Vatican, BAV, Borg. ar. 95</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/327" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/327" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, BSS, Or. oct.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/327" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig,  (Tischendorf 31??)., (Tischendorf 31??).</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/327" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar. 116, Ar. 116</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/327" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Borg. ar. 95</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

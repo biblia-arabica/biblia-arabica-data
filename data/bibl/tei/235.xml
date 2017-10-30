@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,21 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
                 <note type="tag">MS: Oxford, Bodl., Laud. A 146</note>
                 <note>PP: 8-29</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/235" ref="dc:subject">
+                    <desc>Al-Harith ibn Sinan</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/235" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., A 147.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/235" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Laud. A 146</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

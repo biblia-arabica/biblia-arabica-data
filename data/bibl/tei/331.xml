@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,16 @@ Matt 13:46-52 in Greek and Arabic.</note>
                 <note type="tag">MS: ,  What is the current shelfmark?, What is the current shelfmark?</note>
                 <note>1  , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/331" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/331" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  What is the current shelfmark?, What is the current shelfmark?</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

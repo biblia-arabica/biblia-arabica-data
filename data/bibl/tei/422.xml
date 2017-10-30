@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,46 @@ Arabic, based on Ms. Cambridge, CUL, Or. 1287.</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 694</note>
                 <note type="tag">MS: Vatican, BAV,  Sbath</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dc:subject">
+                    <desc>Includes edition of the Arabic text.</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, Or. 1287</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford,  Bodl. Nicoll 49, Bodl. Nicoll 49</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 397, Ar. 469</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 397, Ar. 553.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  68</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 694</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/422" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV,  Sbath</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

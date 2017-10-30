@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 291</note>
                 <note type="tag">MS: Moscow, State Library, Ms. 432.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/291" ref="dc:subject">
+                    <desc>Sapiential books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/291" ref="dcterms:references">
+                    <desc>
+                        <bibl>Moscow, State Library, Ms. 432.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

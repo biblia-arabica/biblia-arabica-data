@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,41 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 145</note>
                 <note>PP: 62-64</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  an unspecified Ms. from the monastery of St. Matthew., an unspecified Ms. from the monastery of St. Matthew.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>Birmingham, Mingana, Chr. Ar. 431</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarchate,  Bibl. 23, Bibl. 23</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, Or. 112 (formerly 21)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris,  BNF. Ar. 42, BNF. Ar. 42</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 145</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

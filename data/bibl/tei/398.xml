@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,16 @@ French translation of Gal. 1:1-15 with commentary.</note>
                 <note type="tag">ID: 398</note>
                 <note type="tag">MS: Vatican, BAV, Lat. 12900 (formerly Chapter of the</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/398" ref="dc:subject">
+                    <desc>Galatians</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/398" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Lat. 12900 (formerly Chapter of the</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

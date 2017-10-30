@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -83,6 +82,51 @@ al-Qūṭī [chapter ], Isaak Velasquez [chapter], and al-Ḥārith b. Sinān [c
                 <note>,
 Consejería de cultura, ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Archive of the Cathedral of Leon, Cod. 35,</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Archive of the Cathedral of Leon, Cod. 35, Fez</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Escurial,  Cod. 1857 and Cod. 1625., Cod. 1625.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Escurial,  Cod. 1857 and Cod. 1625., Cod. 1857</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leipzig, University Library, Cod. Or.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>London,  BL Add. 9061, BL Add. 9061</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Mss. Munich,  Staatsbibliothek Ar. 238 and Ar. 234, Ar. 234</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/67" ref="dcterms:references">
+                    <desc>
+                        <bibl>Mss. Munich,  Staatsbibliothek Ar. 238 and Ar. 234, Staatsbibliothek Ar. 238</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

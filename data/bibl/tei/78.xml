@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -59,6 +58,16 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
                 <note type="tag">MS: Paris, BNF, Ar. 9</note>
                 <note>PP: 24</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/78" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/78" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 9</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

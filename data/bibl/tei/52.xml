@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,26 @@
                 <note>’scher Verlag, , 
 (trans. Daniel Guildfort Wait),    , ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/52" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/52" ref="dcterms:references">
+                    <desc>
+                        <bibl>French Library, cod. 17, olim. 332 (Pauline epistles).</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/52" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/52" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vienna, Nationalbibliothek, Or. 43</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

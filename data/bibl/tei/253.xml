@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 253</note>
                 <note type="tag">MS: Munich, Bayrischen Staatsbibliothek, Ar. 235.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/253" ref="dc:subject">
+                    <desc>Pentateuch Catena</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/253" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Bayrischen Staatsbibliothek, Ar. 235.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

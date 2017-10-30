@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,67 @@ manuscripts.</note>
                 <note type="tag">MS: Sinai, Ar. 597</note>
                 <note type="tag">MS: Vatican, Biblioteca Apostolica Vaticana, Ar. 503</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dc:subject">
+                    <desc>Daniel</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dc:subject">
+                    <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, British Library, Add. 26116</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Libraries,  Arch. Seld. A 67</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Libraries, (Or.) Fraser 257</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 9</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 448</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 513</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 539</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 597</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/263" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 503</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

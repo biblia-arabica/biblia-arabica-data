@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -71,6 +70,46 @@
                 <note>, on</note>
                 <note>in  [Prolegomena</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden,  University Library Or. 377 and 230, 230</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Leiden,  University Library Or. 377 and 230, University Library Or. 377</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford,  Bodl. Poc. 219 and March. 440. , Bodl. Poc. 219</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford,  Bodl. Poc. 219 and March. 440. , March. 440.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 9, 10</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 9,  11</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/111" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF Ar. 9, 16</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

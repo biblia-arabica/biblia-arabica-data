@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -73,6 +72,46 @@ notes.</note>
 Jerusalem, ,</note>
                 <note>PP: 68-71, 95-96, 98-106, 145-154</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dc:subject">
+                    <desc>Editions, Chrestomathies</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL,  45</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, Ar. 53.8</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, Mosseri vi</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, T-S Ar. 21.183</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai,  Ar., Ar.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, RNL, Ebr. II</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/134" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  Violet fragment, Violet fragment</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

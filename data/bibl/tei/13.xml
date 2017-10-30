@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -67,6 +66,31 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 468</note>
                 <note>, in האנציקלופדיה העברית,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/13" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/13" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Bryn Mawr, Bryn Mawr</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/13" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, RNL, D 226</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/13" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 467</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/13" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 468</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

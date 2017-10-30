@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -58,6 +57,16 @@
                 <note type="tag">MS: Paris, BNF, Ar. 1</note>
                 <note>PP: 65-70</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/276" ref="dc:subject">
+                    <desc>al-ʿAlam</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/276" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 1</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

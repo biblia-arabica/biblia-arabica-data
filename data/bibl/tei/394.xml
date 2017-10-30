@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -55,6 +54,16 @@
                 <note type="tag">ID: 394</note>
                 <note type="tag">MS: Sinai, Ar. 151</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/394" ref="dc:subject">
+                    <desc>The Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/394" ref="dcterms:references">
+                    <desc>
+                        <bibl>Sinai, Ar. 151</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

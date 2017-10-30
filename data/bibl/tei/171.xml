@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -59,6 +58,26 @@
                 <note type="tag">MS: Coptic Orthodox Patriarche, , Bibl. 196</note>
                 <note type="tag">MS: Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/171" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/171" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cairo, Coptic Museum, Bibl. 91</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/171" ref="dcterms:references">
+                    <desc>
+                        <bibl>Coptic Orthodox Patriarche, , Bibl. 196</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/171" ref="dcterms:references">
+                    <desc>
+                        <bibl>Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -69,6 +68,21 @@
                 <note type="tag">MS: Munich, Staatsbibliothek, Ar. 238</note>
                 <note>, ,  There</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/27" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/27" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Staatsbibliothek, Ar. 234.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/27" ref="dcterms:references">
+                    <desc>
+                        <bibl>Munich, Staatsbibliothek, Ar. 238</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

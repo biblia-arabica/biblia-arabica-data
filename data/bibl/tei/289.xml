@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,16 @@
                 <note type="tag">ID: 289</note>
                 <note type="tag">MS: St Petersburg, Institute of Oriental Manuscripts, A 187</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/289" ref="dc:subject">
+                    <desc>Sapiential books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/289" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, Institute of Oriental Manuscripts, A 187</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

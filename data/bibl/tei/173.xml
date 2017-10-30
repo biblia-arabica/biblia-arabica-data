@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -61,6 +60,21 @@
                 <note type="tag">MS: Paris, BNF, Copt. 1 (pp.</note>
                 <note>’Etat Affaires Culturelles   / Gallimard, .</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/173" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/173" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Ar. 12 (p. 57)</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/173" ref="dcterms:references">
+                    <desc>
+                        <bibl>Paris, BNF, Copt. 1 (pp.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

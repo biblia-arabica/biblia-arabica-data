@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -59,6 +58,21 @@
                 <note type="tag">MS: Vatican, BAV, Barberini Or. 1</note>
                 <note>MS: Vatican, BAV, Barberini Or. 1 (p. xiii, pl. 1) and Or. 2 (p. xlvii, pl. 80), Ar. 4 (p.xlii, pl. 61b), Ar. 18 (p. xxxiii, pl. 45a), Ar. 581 (p.xli, pl. 59a), Ar. 788 (p. xli, pl. 59c), Borg. Ar. 48 (p. xlii, pl. 61d), Borg. Ar. 71 (pp. xxxix-xl, pl. 56b), Borg. Ar. 95 (p. xxxix, pl. 55), and Borg. Ar. 129 (p. xxxviii, pl. 53.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/198" ref="dc:subject">
+                    <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/198" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Barberini Or. 1</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/198" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Barberini Or. 1 (p. xiii, pl. 1) and Or. 2 (p. xlvii, pl. 80), Ar. 4 (p.xlii, pl. 61b), Ar. 18 (p. xxxiii, pl. 45a), Ar. 581 (p.xli, pl. 59a), Ar. 788 (p. xli, pl. 59c), Borg. Ar. 48 (p. xlii, pl. 61d), Borg. Ar. 71 (pp. xxxix-xl, pl. 56b), Borg. Ar. 95 (p. xxxix, pl. 55), and Borg. Ar. 129 (p. xxxviii, pl. 53.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

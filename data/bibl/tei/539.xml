@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -69,6 +68,16 @@
                 <note type="tag">ID: 539</note>
                 <note type="tag">MS: Oxford, Bodl. Poc. 281, and ?</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/539" ref="dc:subject">
+                    <desc>Sapiental Books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/539" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl. Poc. 281, and ?</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

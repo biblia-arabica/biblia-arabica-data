@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -58,6 +57,17 @@
                 <note type="tag">Subject: Prophets</note>
                 <note type="tag">ID: 604</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/604" ref="dc:subject">
+                    <desc>Daniel</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/604" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/604" ref="dc:subject">
+                    <desc>Prophets</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

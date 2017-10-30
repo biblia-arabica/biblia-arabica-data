@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -69,6 +68,26 @@
                 <note type="tag">MS: Cambridge, CUL, T-S Ar. 1a.55.</note>
                 <note type="tag">MS: Istanbul, Süleymaniye, Carullah 3</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/1" ref="dc:subject">
+                    <desc>Generalia</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/1" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Violet fragment</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/1" ref="dcterms:references">
+                    <desc>
+                        <bibl>Cambridge, CUL, T-S Ar. 1a.55.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/1" ref="dcterms:references">
+                    <desc>
+                        <bibl>Istanbul, Süleymaniye, Carullah 3</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

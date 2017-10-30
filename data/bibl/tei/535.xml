@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -70,6 +69,24 @@
                 <note type="tag">MS: ,  Violet fragment and Bryn Mawr, Bryn Mawr</note>
                 <note type="tag">MS: ,  Violet fragment and Bryn Mawr, Violet fragment</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/535" ref="dc:subject">
+                    <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/535" ref="dc:subject">
+                    <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/535" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  Violet fragment and Bryn Mawr, Bryn Mawr</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/535" ref="dcterms:references">
+                    <desc>
+                        <bibl>,  Violet fragment and Bryn Mawr, Violet fragment</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

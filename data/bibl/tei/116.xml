@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -65,6 +64,16 @@
                 <note type="tag">MS: Vatican, BAV, Ar. 23</note>
                 <note>La Bibbia. Edizioni del XVI Secolo ,</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/116" ref="dc:subject">
+                    <desc>Blau in Targume Miqra</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/116" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 23</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

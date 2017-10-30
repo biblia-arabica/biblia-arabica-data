@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -77,6 +76,64 @@ and translation techniques, as well as a reproduction of Jeremiah 1-6.</note>
                 <note type="tag">MS: Vatican, BAV, Ar. 503</note>
                 <note>, –70.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dc:subject">
+                    <desc>Pethion ibn Ayyūb</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dc:subject">
+                    <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Birmingham, University Library, Mingana</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Birmingham, University Library,  Syr. 624</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Florence, BML, Or. 59</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, British Library, Or. 5918</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Milan, Bibliotheca Ambrosiana, C58</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodleian Libraries, Seld. Arch. 67</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Rome,  Bibliotheca, Bibliotheca</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 495 (originally one manuscript).</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/267" ref="dcterms:references">
+                    <desc>
+                        <bibl>Vatican, BAV, Ar. 503</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -58,6 +57,16 @@
                 <note type="tag">ID: 328</note>
                 <note type="tag">MS: Based on Vienna, ÖNB, Or. 1544</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/328" ref="dc:subject">
+                    <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/328" ref="dcterms:references">
+                    <desc>
+                        <bibl>Based on Vienna, ÖNB, Or. 1544</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -68,6 +67,36 @@ Blackwell, 1959), pp. 54-57.</note>
                 <note>PP: 28-63 have the text of Gen 49 in Samaritan characters and Arabic characters, together with the
 Polyglot version for comparison, along with some annotations</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dc:subject">
+                    <desc>Samaritan</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dcterms:references">
+                    <desc>
+                        <bibl>Berlin, Staatsbibliothek, Petermann 3</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dcterms:references">
+                    <desc>
+                        <bibl>London, BL, Or.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dcterms:references">
+                    <desc>
+                        <bibl>Oxford, Bodl., Or. 139</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dcterms:references">
+                    <desc>
+                        <bibl>St Petersburg, NRL, Sam 179</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/560" ref="dcterms:references">
+                    <desc>
+                        <bibl>, Uss., Uss.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

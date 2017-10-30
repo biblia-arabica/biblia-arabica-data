@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -62,6 +61,21 @@
                 <note type="tag">MS: , : Oxford, Bodl.</note>
                 <note type="tag">MS: , : Oxford,  Or. 350.</note>
             </biblStruct>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/473" ref="dc:subject">
+                    <desc>Includes edition of the Arabic text.</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/473" ref="dcterms:references">
+                    <desc>
+                        <bibl>, : Oxford, Bodl.</bibl>
+                    </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/473" ref="dcterms:references">
+                    <desc>
+                        <bibl>, : Oxford,  Or. 350.</bibl>
+                    </desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>
