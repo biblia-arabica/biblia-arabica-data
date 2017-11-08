@@ -51,15 +51,10 @@
                         <forename/>
                         <surname>Saadiah Gaon</surname>
                     </author>
-                    <author>
-                        <forename/>
-                        <surname>Rashi</surname>
-                    </author>
                     <title level="m">Pentateuchus hebraeus cum versione persica, Targum et commentariis R. Salomonis, paraphrasi arabica R. Saadi Gaonis</title>
                     <idno type="URI">http://biblia-arabica.com/bibl/UUXVSDAS</idno>
                     <idno type="zotero">https://www.zotero.org/groups/biblia_arabica/items/UUXVSDAS</idno>
                     <idno type="URI">https://api.zotero.org/groups/538215/items/UUXVSDAS</idno>
-                    <ref target=""/>
                     <imprint>
                         <pubPlace>Constantinople</pubPlace>
                         <publisher>E.B.G. Soncino</publisher>

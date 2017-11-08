@@ -39,13 +39,20 @@
         <body>
             <biblStruct>
                 <monogr>
+                    <editor>
+                        <forename>G. Fabricius</forename>
+                        <surname>Boderianus</surname>
+                    </editor>
+                    <editor>
+                        <forename>Benito</forename>
+                        <surname>Arias Montano</surname>
+                    </editor>
                     <title level="m">Novum Jesu Christi D.N. Testametum.</title>
                     <idno type="URI">http://biblia-arabica.com/bibl/6KX5I5V2</idno>
                     <idno type="zotero">https://www.zotero.org/groups/biblia_arabica/items/6KX5I5V2</idno>
                     <idno type="URI">https://api.zotero.org/groups/538215/items/6KX5I5V2</idno>
-                    <ref target=""/>
                     <imprint>
-                        <pubPlace>Parisiis</pubPlace>
+                        <pubPlace>Paris</pubPlace>
                         <date>1584</date>
                     </imprint>
                 </monogr>

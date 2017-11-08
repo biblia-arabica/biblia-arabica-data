@@ -53,7 +53,7 @@
                     <idno type="URI">https://api.zotero.org/groups/538215/items/EXTVK2QD</idno>
                     <ref target="https://books.google.de/books?id=eDM77Pm4GNkC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"/>
                     <imprint>
-                        <pubPlace>Hamburgi</pubPlace>
+                        <pubPlace>Hamburg</pubPlace>
                         <date>1596</date>
                     </imprint>
                 </monogr>
@@ -61,6 +61,12 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/EXTVK2QD" ref="dc:subject">
                     <desc>Historic Printings (1596)</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/EXTVK2QD" ref="dc:subject">
+                    <desc>New Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/EXTVK2QD" ref="dc:subject">
+                    <desc>Old Testament</desc>
                 </relation>
             </listRelation>
         </body>
