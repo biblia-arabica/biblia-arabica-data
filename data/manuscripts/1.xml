@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/srophe/srophe-eXist-app/master/srophe-app/documentation/enrich-syriaca.rnc" type="application/relax-ng-compact-syntax"?><?xml-stylesheet type="text/css" href="SRPEnrichCSS.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="en">Berlin, Staatsbibliothek, Mss. Orient. Fol. 534</title>
+                <!--<sponsor>Syriaca.org: The Syriac Reference Portal</sponsor>
+                <funder>The National Endowment for the Humanities</funder>
+                <funder>The Andrew W. Mellon Foundation</funder>
+                <principal>David A. Michelson</principal>
+                <editor role="general-editor" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#wwright">William Wright</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dmichelson">David A. Michelson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#dgreeson">Daniel J. Greeson</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#thannah">Tucker D. Hannah</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#raydin">Robert Aydin</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#jarnwine">Justin A. Arnwine</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#kkotewall">Kayla Kotewall</editor>
+                <editor role="creator" ref="http://syriaca.org/documentation/editors.xml#jnquiroz">Julia Nations-Quiroz</editor>
+                <respStmt>
+                    <resp>Created by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#jarnwine">Justin A. Arnwine</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Created by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#kkotewall">Kayla Kotewall</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Created by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#jnquiroz">Julia Nations-Quiroz</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Based on the work of</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#wwright">William Wright</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#">-->
+            <!-- Editor's first initial and surname follow "#" (e.g., "...#dmichelson") -->
+            <!--Initial editor's name here -->
+                    <!--</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Syriac text entered by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#raydin">Robert Aydin</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Greek and coptic text entry and proofreading by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#rstitt">Ryan Stitt</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project management by</resp>
+                    <name type="person" ref="http://syriaca.org/documentation/editors.xml#ewalston">Elizabeth Walston</name>
+                </respStmt>
+                <respStmt>
+                    <resp>English text entry and proofreading by</resp>
+                    <name type="org" ref="http://syriaca.org/documentation/editors.xml#uasyriacaresearchgroup">Syriac Research Group, University of Alabama</name>
+                </respStmt>-->
+            </titleStmt>
+            <editionStmt>
+                <edition n="1.0"/>
+            </editionStmt>
+            <publicationStmt>
+                <pubPlace/>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">http://biblia-arabica.com/manuscript/1/tei</idno>
+                <availability>
+                    <p/>
+                    <licence target="http://creativecommons.org/licenses/by/3.0/">
+                        <p>Distributed under a Creative Commons Attribution 3.0 Unported License</p>
+                    </licence>
+                </availability>
+                <date calendar="Gregorian">
+          <!-- Our date of publication of this XML document-->
+                </date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="manuscript-1" xml:lang="en">
+                    <msIdentifier>
+                        <country>Germany</country>
+                        <settlement>Berlin</settlement>
+                        <repository>Staatsbibliothek</repository>
+                        <collection>Mss. Orient.</collection>
+                        <idno type="URI">http://biblia-arabica.com/manuscript/1</idno>
+                        <altIdentifier>
+                            <idno type="shelfmark">Fol. 534</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <interpretation/>
+            </editorialDecl>
+            <classDecl/>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="syr">Unvocalized Syriac of any variety or period</language>
+                <language ident="syr-Syre">Syriac in Estrangela</language>
+                <language ident="syr-Syrj">Vocalized West Syriac</language>
+                <language ident="syr-Syrn">Vocalized East Syriac</language>
+                <language ident="syr-x-syrm">Melkite Syriac</language>
+                <language ident="syr-x-syrp">Palestinian Syriac</language>
+                <language ident="ar-Syrc">Unvocalized or Undetermined Arabic Garshuni</language>
+                <language ident="ar-Syrj">Arabic Garshuni in Vocalized West Syriac Script</language>
+                <language ident="ar-Syrn">Arabic Garshuni in Vocalized East Syriac Script</language>
+                <language ident="en">English</language>
+                <language ident="ar">Arabic</language>
+                <language ident="fr">French</language>
+                <language ident="de">German</language>
+                <language ident="la">Latin</language>
+                <language ident="grc">Ancient Greek</language>
+                <language ident="cop">Coptic</language>
+            </langUsage>
+            <!--<textClass>
+                <keywords scheme="#Wright-BL-Taxonomy">
+                    <list/>
+                    
+                </keywords>
+            </textClass>-->
+        </profileDesc>
+        <revisionDesc status="draft"/>
+            
+        
+    </teiHeader>
+    <facsimile>
+        <graphic/>
+    </facsimile>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
