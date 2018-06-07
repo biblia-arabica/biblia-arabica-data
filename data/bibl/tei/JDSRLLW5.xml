@@ -57,7 +57,11 @@
                 </monogr>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/JDSRLLW5" ref="dc:subject" type="translator">
+                    <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

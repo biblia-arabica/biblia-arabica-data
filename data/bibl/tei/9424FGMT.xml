@@ -85,12 +85,24 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9424FGMT" ref="dcterms:references">
                     <desc>
-                        <bibl>Dublin, Trinity College Library, MS 1509 (=B.5.16 / MS 1677 / Ussher)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Dublin</settlement>
+                                <collection>Trinity College Library</collection>
+                                <idno type="shelfmark">MS 1509 (=B.5.16 / MS 1677 / Ussher)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9424FGMT" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 154</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 154</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 154</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9424FGMT" ref="dc:subject" type="part">

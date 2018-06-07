@@ -53,7 +53,11 @@
                 <note type="abstract">An overview of the remnants of Saadia Gaon’s Judeo-Arabic translation.</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/7L8FWA55" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -61,57 +61,123 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 154</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 154</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 154</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 155</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 155</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 155</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 70</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 70</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 70</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 72</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 72</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 72</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 73</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 73</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 73</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 74</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 74</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 74</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Imperial Library,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Imperial Library</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Institute of Oriental Manuscripts, D. 226</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Institute of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">D. 226</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HRBSAH2B" ref="dc:subject" type="subject">

@@ -60,7 +60,11 @@
                 <note type="abstract">on style of Scripture, in response to Muslim doctrine of i‘jāz of Koran</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/SMW9WE2B" ref="dc:subject" type="translator">
+                    <desc>al-Ḥārith b. Sinān</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

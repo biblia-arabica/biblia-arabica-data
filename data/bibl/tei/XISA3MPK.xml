@@ -74,12 +74,24 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/XISA3MPK" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, L'Escorial, Ar.1625</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>L'Escorial</collection>
+                                <idno type="shelfmark">Ar.1625</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/XISA3MPK" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/XISA3MPK" ref="dc:subject" type="part">

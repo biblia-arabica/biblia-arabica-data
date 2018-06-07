@@ -71,37 +71,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, Theol. 209 (Saimaika 238)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">Theol. 209 (Saimaika 238)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Jerusalem, St. Anne, 33</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Jerusalem</settlement>
+                                <collection>St. Anne</collection>
+                                <idno type="shelfmark">33</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 75</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 75</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 75</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 436</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 436</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 436</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 441</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 441</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 441</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 491</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 491</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 645</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 645</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/95QA5UWW" ref="dc:subject" type="subject">

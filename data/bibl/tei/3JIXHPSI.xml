@@ -62,33 +62,72 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, 6</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">6</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1242</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1242</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>Ms, Leiden, Or. 243 (l.6)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Ms</settlement>
+                                <collection>Leiden</collection>
+                                <idno type="shelfmark">Or. 243 (l.6)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl, Copt. c. 3</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl</collection>
+                                <idno type="shelfmark">Copt. c. 3</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Copt. c. 3</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Copt. c. 3</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vienna, VNL?, K II 346</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vienna</settlement>
+                                <collection>VNL?</collection>
+                                <idno type="shelfmark">K II 346</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3JIXHPSI" ref="dc:subject" type="translator">
+                    <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
                 </relation>
             </listRelation>
         </body>

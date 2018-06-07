@@ -67,11 +67,26 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/4GSI6M76" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Copt. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/4GSI6M76" ref="dc:subject" type="provenance">
+                    <desc>Christian</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4GSI6M76" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/4GSI6M76" ref="dc:subject" type="source">
+                    <desc>Coptic</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/4GSI6M76" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
             </listRelation>
         </body>

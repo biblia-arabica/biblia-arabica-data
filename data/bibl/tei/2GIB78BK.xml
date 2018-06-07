@@ -60,7 +60,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2GIB78BK" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg, RNL, Ar. N.S.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">Ar. N.S.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2GIB78BK" ref="dc:subject" type="subject">

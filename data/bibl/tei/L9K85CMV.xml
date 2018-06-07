@@ -65,39 +65,84 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2475</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2475</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, héb. 283</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">héb. 283</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, IOS, B 365</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>IOS</collection>
+                                <idno type="shelfmark">B 365</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, NLR, Evr.-Arab. I 123</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>NLR</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 123</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, NLR, Evr.-Arab. I 171</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>NLR</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 171</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, NLR, Evr.-Arab. I 86</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>NLR</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 86</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dc:subject" type="subject">
                     <desc>Numbers</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dc:subject" type="subject">
                     <desc>Old Testemant</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/L9K85CMV" ref="dc:subject" type="translator">
+                    <desc>Yefert ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

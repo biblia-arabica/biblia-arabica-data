@@ -76,7 +76,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/32JQ3W6N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Suppl. Grec. 911</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Suppl. Grec. 911</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/32JQ3W6N" ref="dc:subject" type="part">

@@ -78,18 +78,39 @@ Orientalia 1 (2004), pp. 219-223.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/W4MCQK3M" ref="dcterms:references">
                     <desc>
-                        <bibl>Fes, Al-Qarawiyyin University Library, 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fes</settlement>
+                                <collection>Al-Qarawiyyin University Library</collection>
+                                <idno type="shelfmark">730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/W4MCQK3M" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/W4MCQK3M" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/W4MCQK3M" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>
         </body>

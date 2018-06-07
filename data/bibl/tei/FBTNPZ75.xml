@@ -64,11 +64,23 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="source">
+                    <desc>Latin</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>
         </body>

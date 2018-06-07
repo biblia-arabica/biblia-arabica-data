@@ -71,7 +71,13 @@ name of Hippolytus.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/74SKE5JE" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 235</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 235</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74SKE5JE" ref="dc:subject" type="section">

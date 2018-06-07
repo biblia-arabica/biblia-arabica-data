@@ -61,7 +61,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3JZMK6BE" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 154</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 154</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 154</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3JZMK6BE" ref="dc:subject" type="subject">

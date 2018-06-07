@@ -72,42 +72,90 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bible 90</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bible 90</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, Bible 119</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">Bible 119</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, Bible 207</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">Bible 207</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library Or. 223</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library Or. 223</collection>
+                                <idno type="shelfmark">MS: Leiden, University Library Or. 223</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Or. 3382</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 3382</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Biblioteca Ambrosiana, Hammer 84</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Biblioteca Ambrosiana</collection>
+                                <idno type="shelfmark">Hammer 84</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 118</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 118</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="part">
@@ -115,6 +163,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="translator">
+                    <desc>al-Asʿad Hibbat Allāh b. al-ʿAssāl</desc>
                 </relation>
             </listRelation>
         </body>

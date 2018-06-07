@@ -71,7 +71,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/35N5M6I6" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/35N5M6I6" ref="dc:subject" type="section">

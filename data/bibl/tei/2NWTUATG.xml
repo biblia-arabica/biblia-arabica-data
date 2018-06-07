@@ -63,22 +63,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2NWTUATG" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2NWTUATG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2NWTUATG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 71</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg.ar. 71</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2NWTUATG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Copt. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2NWTUATG" ref="dc:subject" type="subject">

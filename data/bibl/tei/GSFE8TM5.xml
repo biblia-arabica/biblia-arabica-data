@@ -64,6 +64,9 @@
                 <relation active="http://biblia-arabica.com/bibl/GSFE8TM5" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/GSFE8TM5" ref="dc:subject" type="translator">
+                    <desc>al-Ḥārith b. Sinān</desc>
+                </relation>
             </listRelation>
         </body>
     </text>

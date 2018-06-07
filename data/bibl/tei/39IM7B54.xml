@@ -60,7 +60,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/39IM7B54" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 1571</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 1571</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/39IM7B54" ref="dc:subject" type="subject">

@@ -61,7 +61,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/K97UKTU5" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 11856</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 11856</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K97UKTU5" ref="dc:subject" type="subject">

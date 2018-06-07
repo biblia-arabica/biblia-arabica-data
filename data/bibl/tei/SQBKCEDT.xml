@@ -66,7 +66,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SQBKCEDT" ref="dcterms:references">
                     <desc>
-                        <bibl>Istanbul,  Topkapı Sarayı, Topkapı Sarayı</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Istanbul</settlement>
+                                <collection>Topkapı Sarayı</collection>
+                                <idno type="shelfmark">Topkapı Sarayı</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SQBKCEDT" ref="dc:subject" type="subject">

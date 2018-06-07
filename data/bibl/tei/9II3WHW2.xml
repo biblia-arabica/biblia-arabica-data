@@ -69,7 +69,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, RNL, Yevr. II</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">Yevr. II</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="part">

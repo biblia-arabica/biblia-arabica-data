@@ -61,47 +61,101 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>, Archive of the Cathedral of, Archive of the Cathedral of</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Archive of the Cathedral of</collection>
+                                <idno type="shelfmark">Archive of the Cathedral of</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Cod. 1059</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Cod. 1059</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 9060</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 9060</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 9061</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 9061</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 3706</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 3706</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, , BNE Ms. 4971 (pls. on pp. 24-25)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection/>
+                                <idno type="shelfmark">BNE Ms. 4971 (pls. on pp. 24-25)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, , Ms. 3484</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection/>
+                                <idno type="shelfmark">Ms. 3484</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek Ar. 238</collection>
+                                <idno type="shelfmark">MS: Munich, Bayrische Staatsbibliothek Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 5</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 5</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F2PH5JV3" ref="dc:subject" type="subject">

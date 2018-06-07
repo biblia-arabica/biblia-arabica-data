@@ -65,7 +65,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/UNQR8638" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Or. 251</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Or. 251</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UNQR8638" ref="dc:subject" type="part">

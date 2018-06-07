@@ -71,7 +71,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/JNV3VNB4" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JNV3VNB4" ref="dc:subject" type="section">

@@ -58,17 +58,35 @@ Arabic translations of the Pentateuch.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/KSTZKAEK" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Diez A quart. 106</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Diez A quart. 106</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/KSTZKAEK" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 377</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 377</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/KSTZKAEK" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 234.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 234.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/KSTZKAEK" ref="dc:subject" type="part">

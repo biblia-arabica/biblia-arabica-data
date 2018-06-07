@@ -57,17 +57,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2G7CQT8N" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 91</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 91</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2G7CQT8N" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarche, , Bibl. 196</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarche</settlement>
+                                <collection/>
+                                <idno type="shelfmark">Bibl. 196</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2G7CQT8N" ref="dcterms:references">
                     <desc>
-                        <bibl>Istanbul, Topkapı Sarayı Library, Ahmet III 3519.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Istanbul</settlement>
+                                <collection>Topkapı Sarayı Library</collection>
+                                <idno type="shelfmark">Ahmet III 3519.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2G7CQT8N" ref="dc:subject" type="subject">

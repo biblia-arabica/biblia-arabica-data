@@ -68,7 +68,13 @@ British Library, Add. 26116. Cf. [#, see below] von Baudissin and [#, see below]
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/5CGZS8HE" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/5CGZS8HE" ref="dc:subject" type="subject">

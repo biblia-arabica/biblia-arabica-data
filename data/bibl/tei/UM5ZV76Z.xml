@@ -70,7 +70,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/UM5ZV76Z" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 589</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 589</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 589</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UM5ZV76Z" ref="dc:subject" type="subject">

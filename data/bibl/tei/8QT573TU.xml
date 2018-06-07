@@ -70,7 +70,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/8QT573TU" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 217 (=Cod. 217 Scaliger)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 217 (=Cod. 217 Scaliger)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/8QT573TU" ref="dc:subject" type="part">

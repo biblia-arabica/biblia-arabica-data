@@ -68,12 +68,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3UC4X629" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. NF. Parch. 28</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. NF. Parch. 28</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. NF. Parch. 28</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3UC4X629" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. NF. Parch. 8</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. NF. Parch. 8</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. NF. Parch. 8</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3UC4X629" ref="dc:subject" type="part">

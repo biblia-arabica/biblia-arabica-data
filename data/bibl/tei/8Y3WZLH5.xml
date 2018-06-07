@@ -58,8 +58,17 @@
                 <relation active="http://biblia-arabica.com/bibl/8Y3WZLH5" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/8Y3WZLH5" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8Y3WZLH5" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/8Y3WZLH5" ref="dc:subject" type="subject">
                     <desc>Jonah</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/8Y3WZLH5" ref="dc:subject" type="translator">
+                    <desc>Yefet ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

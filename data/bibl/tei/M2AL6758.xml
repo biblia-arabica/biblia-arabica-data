@@ -72,92 +72,200 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 2376 (Cod. 225 Scaliger)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 2376 (Cod. 225 Scaliger)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 2377 (Cod. 1571)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 2377 (Cod. 1571)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Vollers 1059A (Cod. Tisch. 31A)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Vollers 1059A (Cod. Tisch. 31A)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Biblioteca Ambrosiana, 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Biblioteca Ambrosiana</collection>
+                                <idno type="shelfmark">95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Ar. 299 (Christ. Nicoll 15)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Ar. 299 (Christ. Nicoll 15)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 118 (Christ. Uri 25)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 118 (Christ. Uri 25)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque Nationale de France,  Ar. 58</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque Nationale de France</collection>
+                                <idno type="shelfmark">Ar. 58</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 106</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 106</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 16</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 16</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 467</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 467</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 71</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 71</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 201</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 201</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 250</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 250</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Copt. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Syr. 19</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Syr. 19</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Syr. 407</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Syr. 407</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M2AL6758" ref="dc:subject" type="part">

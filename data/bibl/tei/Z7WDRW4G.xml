@@ -68,7 +68,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/Z7WDRW4G" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl. Poc. 281, and ?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl. Poc. 281</collection>
+                                <idno type="shelfmark">and ?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/Z7WDRW4G" ref="dc:subject" type="section">

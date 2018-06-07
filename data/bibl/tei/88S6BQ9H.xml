@@ -61,27 +61,57 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dcterms:references">
                     <desc>
-                        <bibl>, Sbath 1020</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Sbath 1020</collection>
+                                <idno type="shelfmark">MS: , Sbath 1020</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate,  Bibl., Bibl.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl.</collection>
+                                <idno type="shelfmark">Bibl.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodlien Libraries, Ar. e. 163</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodlien Libraries</collection>
+                                <idno type="shelfmark">Ar. e. 163</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 14</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 14</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 250</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 250</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/88S6BQ9H" ref="dc:subject" type="subject">

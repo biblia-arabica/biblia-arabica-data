@@ -70,17 +70,35 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F3PGQS2D" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, 608</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">608</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F3PGQS2D" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, 666</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">666</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F3PGQS2D" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F3PGQS2D" ref="dc:subject" type="part">

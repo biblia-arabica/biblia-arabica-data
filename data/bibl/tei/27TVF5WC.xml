@@ -59,7 +59,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/27TVF5WC" ref="dcterms:references">
                     <desc>
-                        <bibl>Bryn Mawr, Bryn Mawr College Library, BV 47 (=Zurich, Or. 94)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bryn Mawr</settlement>
+                                <collection>Bryn Mawr College Library</collection>
+                                <idno type="shelfmark">BV 47 (=Zurich, Or. 94)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/27TVF5WC" ref="dc:subject" type="subject">

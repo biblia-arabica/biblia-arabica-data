@@ -63,7 +63,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/97II6TQU" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg,  Russian, Russian</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>Russian</collection>
+                                <idno type="shelfmark">Russian</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/97II6TQU" ref="dc:subject" type="subject">

@@ -74,27 +74,57 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Harley 5786</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Harley 5786</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dcterms:references">
                     <desc>
-                        <bibl>Naples, Biblioteca nazionale Vittorio Emanuele III, Gr. 20</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Naples</settlement>
+                                <collection>Biblioteca nazionale Vittorio Emanuele III</collection>
+                                <idno type="shelfmark">Gr. 20</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france,  Supp. Grec. 911</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Supp. Grec. 911</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice, Biblioteca Nazionale Marciana, Gr. 539 (1)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>Biblioteca Nazionale Marciana</collection>
+                                <idno type="shelfmark">Gr. 539 (1)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice, Biblioteca Nazionale Marciana, Gr. Z. 11 (379)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>Biblioteca Nazionale Marciana</collection>
+                                <idno type="shelfmark">Gr. Z. 11 (379)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4IKAMJ9G" ref="dc:subject" type="part">

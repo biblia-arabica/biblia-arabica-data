@@ -65,8 +65,17 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/5F54EMXU" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/5F54EMXU" ref="dc:subject" type="translator">
+                    <desc>al-ʿAlam</desc>
                 </relation>
             </listRelation>
         </body>

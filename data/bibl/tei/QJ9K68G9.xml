@@ -63,7 +63,13 @@ the possession of the Septuaginta-Unternehmen and has been used for collation.</
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/QJ9K68G9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QJ9K68G9" ref="dc:subject" type="subject">

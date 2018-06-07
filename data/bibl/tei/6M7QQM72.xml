@@ -65,37 +65,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 230</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 230</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 2364</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 2364</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Rich 7204</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Rich 7204</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 235</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 235</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl. Or. 324, Hunt. 84</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl. Or. 324</collection>
+                                <idno type="shelfmark">Hunt. 84</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Or. 324,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Or. 324,</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 17.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 17.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6M7QQM72" ref="dc:subject" type="section">

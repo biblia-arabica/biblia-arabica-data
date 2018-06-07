@@ -67,32 +67,68 @@ Petit dictionnaire de l'orient chrétien (Turnhout: Brepols, 1991), p.
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>,  an unspecified Ms. from the monastery of St. Matthew., an unspecified Ms. from the monastery of St. Matthew.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>an unspecified Ms. from the monastery of St. Matthew.</collection>
+                                <idno type="shelfmark">an unspecified Ms. from the monastery of St. Matthew.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, Mingana, Chr. Ar. 431</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>Mingana</collection>
+                                <idno type="shelfmark">Chr. Ar. 431</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate,  Bibl. 23, Bibl. 23</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 23</collection>
+                                <idno type="shelfmark">Bibl. 23</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BML, Or. 112 (formerly 21)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML</collection>
+                                <idno type="shelfmark">Or. 112 (formerly 21)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris,  BNF. Ar. 42, BNF. Ar. 42</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF. Ar. 42</collection>
+                                <idno type="shelfmark">BNF. Ar. 42</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 145</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 145</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2CKCGUWJ" ref="dc:subject" type="subject">

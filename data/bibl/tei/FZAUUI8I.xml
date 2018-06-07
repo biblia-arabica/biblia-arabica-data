@@ -69,17 +69,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/FZAUUI8I" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Or. 251</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Or. 251</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FZAUUI8I" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FZAUUI8I" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 462</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 462</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FZAUUI8I" ref="dc:subject" type="part">

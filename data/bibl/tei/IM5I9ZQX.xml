@@ -69,17 +69,35 @@ and [#] Krachkovksi).</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/IM5I9ZQX" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Institute of Oriental Manuscripts, D 226</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Institute of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">D 226</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IM5I9ZQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Vat.ar. 467</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Vat.ar. 467</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IM5I9ZQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Vat.ar. 468</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Vat.ar. 468</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IM5I9ZQX" ref="dc:subject" type="subject">

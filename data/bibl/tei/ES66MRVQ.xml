@@ -71,37 +71,79 @@ Harmonies</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>, Sbath 1020, Sbath 1020</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Sbath 1020</collection>
+                                <idno type="shelfmark">Sbath 1020</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Orthodox Patriarchate, 202</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Orthodox Patriarchate</collection>
+                                <idno type="shelfmark">202</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodlelien Library, Ar. e. 163</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodlelien Library</collection>
+                                <idno type="shelfmark">Ar. e. 163</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 14</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 14</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 250</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 250</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vienna, ÖNB, Or. 1544</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vienna</settlement>
+                                <collection>ÖNB</collection>
+                                <idno type="shelfmark">Or. 1544</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ES66MRVQ" ref="dc:subject" type="subject">

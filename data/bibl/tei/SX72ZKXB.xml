@@ -62,13 +62,28 @@ introduction to his translations. Contains an excerpt of the Arabic text.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SX72ZKXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl., Laud. A 146</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">Laud. A 146</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SX72ZKXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, A. 147</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">A. 147</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/SX72ZKXB" ref="dc:subject" type="translator">
+                    <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
             </listRelation>
         </body>

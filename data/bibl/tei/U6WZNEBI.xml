@@ -65,22 +65,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/U6WZNEBI" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 94 (pl. 5).</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 94 (pl. 5).</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/U6WZNEBI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  Copt. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/U6WZNEBI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, BNF</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">BNF</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/U6WZNEBI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1 (pls. 1-4)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1 (pls. 1-4)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/U6WZNEBI" ref="dc:subject" type="subject">

@@ -64,63 +64,141 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2401</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2401</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2502</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2502</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2548</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2548</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2550</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2550</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2554</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2554</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or. 2557</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or. 2557</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>New York, JTS, 3338</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>New York</settlement>
+                                <collection>JTS</collection>
+                                <idno type="shelfmark">3338</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl., Hunt. 206</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">Hunt. 206</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, héb. 293</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">héb. 293</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Evr. I 569, Evr.-Arab. I 1410</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Evr. I 569</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 1410</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Evr. I 569, Evr.-Arab. I 3523</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Evr. I 569</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 3523</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Evr. I 569, Evr.-Arab. I 3532</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Evr. I 569</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 3532</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Daniel</desc>
@@ -136,6 +214,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Zachariah</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="translator">
+                    <desc>Yefet ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

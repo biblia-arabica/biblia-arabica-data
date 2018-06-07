@@ -74,7 +74,13 @@ the Job (from a codex from Berlin and the Paris Polyglot); (3) Proverbs from the
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M9SU4J5X" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 589</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 589</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 589</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M9SU4J5X" ref="dc:subject" type="part">

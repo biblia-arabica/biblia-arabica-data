@@ -67,7 +67,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/VYRJNKC5" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Violet Fragment</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Violet Fragment</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/VYRJNKC5" ref="dc:subject" type="subject">

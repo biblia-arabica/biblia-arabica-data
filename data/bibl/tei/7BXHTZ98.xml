@@ -74,102 +74,222 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Do. 162</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Do. 162</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bible 11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bible 11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bible Sbath 1017</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bible Sbath 1017</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 156</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 156</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 254</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 254</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 26</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 26</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 260</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 260</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 29</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 29</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 328</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 328</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Patriarchate, Bible 338</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Patriarchate</collection>
+                                <idno type="shelfmark">Bible 338</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library, Or. 2380</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 2380</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1329</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1329</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 80</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 80</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 118</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 118</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 31</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 31</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 406</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 406</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 466</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 466</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7BXHTZ98" ref="dc:subject" type="part">

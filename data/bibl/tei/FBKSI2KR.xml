@@ -67,17 +67,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/FBKSI2KR" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, L'Escorial, Ar.1625</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>L'Escorial</collection>
+                                <idno type="shelfmark">Ar.1625</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FBKSI2KR" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FBKSI2KR" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 72</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 72</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 72</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FBKSI2KR" ref="dc:subject" type="part">

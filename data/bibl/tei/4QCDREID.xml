@@ -66,18 +66,39 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/4QCDREID" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 5503(5?)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 5503(5?)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4QCDREID" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Arch. Seld. A 67.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Arch. Seld. A 67.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4QCDREID" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/4QCDREID" ref="dc:subject" type="translator">
+                    <desc>al-ʿAlam</desc>
                 </relation>
             </listRelation>
         </body>

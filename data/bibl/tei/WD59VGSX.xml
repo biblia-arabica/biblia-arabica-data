@@ -63,7 +63,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/WD59VGSX" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 51</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 51</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/WD59VGSX" ref="dc:subject" type="part">

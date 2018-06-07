@@ -66,17 +66,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/UC4XCDU4" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Copt. 17</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 17</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UC4XCDU4" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Copt. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UC4XCDU4" ref="dcterms:references">
                     <desc>
-                        <bibl>Vienna, Nationalbibliothek, Or. 43</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vienna</settlement>
+                                <collection>Nationalbibliothek</collection>
+                                <idno type="shelfmark">Or. 43</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UC4XCDU4" ref="dc:subject" type="part">

@@ -72,27 +72,57 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo,  Coptic, Coptic</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic</collection>
+                                <idno type="shelfmark">Coptic</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 4785</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 4785</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dcterms:references">
                     <desc>
-                        <bibl>St Macarius,  Hag. 38, Hag. 38</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Macarius</settlement>
+                                <collection>Hag. 38</collection>
+                                <idno type="shelfmark">Hag. 38</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Syr. 199.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Syr. 199.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZQS663VT" ref="dc:subject" type="part">

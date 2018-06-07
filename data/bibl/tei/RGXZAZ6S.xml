@@ -64,32 +64,68 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 70</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 70</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 70</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Imperial Library,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Imperial Library</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Imperial Library,  Paris</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Imperial Library</collection>
+                                <idno type="shelfmark">Paris</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Imperial Library, Cod. 226</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Imperial Library</collection>
+                                <idno type="shelfmark">Cod. 226</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RGXZAZ6S" ref="dc:subject" type="subject">

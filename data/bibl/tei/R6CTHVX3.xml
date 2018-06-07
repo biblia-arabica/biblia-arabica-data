@@ -61,22 +61,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/R6CTHVX3" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 94</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 94</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R6CTHVX3" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R6CTHVX3" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, National Library of Russia, A.N.S. 327</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">A.N.S. 327</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R6CTHVX3" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Copt.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R6CTHVX3" ref="dc:subject" type="subject">

@@ -57,7 +57,14 @@
                 </monogr>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/46YU3FNJ" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/46YU3FNJ" ref="dc:subject" type="translator">
+                    <desc>Yefet ben ʿEli</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

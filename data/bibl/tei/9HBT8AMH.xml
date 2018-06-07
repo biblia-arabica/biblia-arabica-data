@@ -60,12 +60,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/9HBT8AMH" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Copt. 17</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 17</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9HBT8AMH" ref="dcterms:references">
                     <desc>
-                        <bibl>Vienna, Nationalbibliothek, Or. 43</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vienna</settlement>
+                                <collection>Nationalbibliothek</collection>
+                                <idno type="shelfmark">Or. 43</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9HBT8AMH" ref="dc:subject" type="subject">

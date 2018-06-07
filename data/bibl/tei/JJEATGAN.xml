@@ -73,6 +73,9 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/JJEATGAN" ref="dc:subject" type="provenance">
+                    <desc>Christian</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/JJEATGAN" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>

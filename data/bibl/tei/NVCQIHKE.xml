@@ -54,17 +54,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/NVCQIHKE" ref="dcterms:references">
                     <desc>
-                        <bibl>Copenhagen, Royal Library, Ar. 75</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Copenhagen</settlement>
+                                <collection>Royal Library</collection>
+                                <idno type="shelfmark">Ar. 75</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NVCQIHKE" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 230 (Scaliger Arab. 230).</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 230 (Scaliger Arab. 230).</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NVCQIHKE" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 377 (Warner 377)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 377 (Warner 377)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NVCQIHKE" ref="dc:subject" type="part">

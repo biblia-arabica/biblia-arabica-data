@@ -70,37 +70,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>, Cairo 202 (COP), Cairo 202 (COP)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Cairo 202 (COP)</collection>
+                                <idno type="shelfmark">Cairo 202 (COP)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>, Sbath, Sbath</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Sbath</collection>
+                                <idno type="shelfmark">Sbath</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL,  Beirut Fragments?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Beirut Fragments?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 3382</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 3382</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Ar. e. 163</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Ar. e. 163</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 14</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 14</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. Ar. 250</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 250</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SIE8RZGX" ref="dc:subject" type="subject">

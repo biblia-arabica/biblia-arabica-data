@@ -60,7 +60,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/PD958644" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BMF, Or. 387.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BMF</collection>
+                                <idno type="shelfmark">Or. 387.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/PD958644" ref="dc:subject" type="subject">

@@ -77,6 +77,9 @@
                 <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="section">
                     <desc>Prophets</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
             </listRelation>
         </body>
     </text>

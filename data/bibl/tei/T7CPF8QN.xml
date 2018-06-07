@@ -67,53 +67,116 @@ primary and secondary sources.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>, an unspecified, an unspecified</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>an unspecified</collection>
+                                <idno type="shelfmark">an unspecified</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, Mingana, Arab. Chr. 121.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>Mingana</collection>
+                                <idno type="shelfmark">Arab. Chr. 121.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 19</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 14</collection>
+                                <idno type="shelfmark">Bibl. 19</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 14, Bibl. 27</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 14</collection>
+                                <idno type="shelfmark">Bibl. 27</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Escurial, , Arabic 1857</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Escurial</settlement>
+                                <collection/>
+                                <idno type="shelfmark">Arabic 1857</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl., Laud. Or. 243 (formerly A 146)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">Laud. Or. 243 (formerly A 146)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl., Laud. Or. 258 (formerly A 147)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">Laud. Or. 258 (formerly A 147)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 13 and</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 13 and</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 10</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 10</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 10</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/T7CPF8QN" ref="dc:subject" type="translator">
+                    <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
             </listRelation>
         </body>

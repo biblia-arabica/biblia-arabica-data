@@ -70,11 +70,20 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BE2JHIZX" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Qu. 828</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Qu. 828</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BE2JHIZX" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/BE2JHIZX" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
                 </relation>
             </listRelation>
         </body>

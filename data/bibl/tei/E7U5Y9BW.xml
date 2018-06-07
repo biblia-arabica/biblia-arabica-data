@@ -58,17 +58,32 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, héb. 293</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">héb. 293</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="section">
                     <desc>Sapiential Books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="subject">
                     <desc>New Testament</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="subject">
                     <desc>Song of Songs</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/E7U5Y9BW" ref="dc:subject" type="translator">
+                    <desc>Yefert ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

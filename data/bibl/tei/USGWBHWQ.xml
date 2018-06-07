@@ -65,12 +65,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/USGWBHWQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek,  Speng.30?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Speng.30?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/USGWBHWQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 589</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 589</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 589</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/USGWBHWQ" ref="dc:subject" type="part">

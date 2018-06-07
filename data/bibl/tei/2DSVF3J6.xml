@@ -61,7 +61,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2DSVF3J6" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai Ar. 514</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai Ar. 514</settlement>
+                                <collection/>
+                                <idno type="shelfmark">MS: Sinai Ar. 514</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

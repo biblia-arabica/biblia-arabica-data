@@ -63,8 +63,17 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/SJ3H7UX9" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/SJ3H7UX9" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/SJ3H7UX9" ref="dc:subject" type="subject">
                     <desc>Old Testemant</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/SJ3H7UX9" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
                 </relation>
             </listRelation>
         </body>

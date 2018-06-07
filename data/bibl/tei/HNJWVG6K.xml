@@ -70,29 +70,68 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, T-S Ar. 1b.65</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">T-S Ar. 1b.65</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dcterms:references">
                     <desc>
-                        <bibl>Evr.-Arab. I 1345</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Evr.-Arab. I 1345</settlement>
+                                <collection/>
+                                <idno type="shelfmark">MS: Evr.-Arab. I 1345</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 2502</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 2502</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 2548</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 2548</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="subject">
                     <desc>Isaiah</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="translator">
+                    <desc>Salmon ben Yeruham</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/HNJWVG6K" ref="dc:subject" type="translator">
+                    <desc>Yefet ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

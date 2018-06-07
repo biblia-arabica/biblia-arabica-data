@@ -65,7 +65,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/54A4VH2A" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france, Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/54A4VH2A" ref="dc:subject" type="part">

@@ -66,7 +66,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/R4VVMJ2B" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 2</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R4VVMJ2B" ref="dc:subject" type="part">

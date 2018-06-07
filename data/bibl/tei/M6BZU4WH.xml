@@ -76,32 +76,68 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Oct. 1108</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Oct. 1108</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 54</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 54</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 54</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 72</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 72</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 72</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 74</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 74</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 74</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 97</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 97</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 97</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M6BZU4WH" ref="dc:subject" type="part">

@@ -118,12 +118,24 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg.ar. 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="part">
@@ -132,11 +144,23 @@
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="part">
                     <desc>Pseudepigrapha</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="provenance">
+                    <desc>Christian</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="source">
+                    <desc>Latin</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/6N7KWKFF" ref="dc:subject" type="translator">
+                    <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
                 </relation>
             </listRelation>
         </body>

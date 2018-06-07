@@ -60,22 +60,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/I3NW243T" ref="dcterms:references">
                     <desc>
-                        <bibl>, Greek monastery, Greek monastery</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Greek monastery</collection>
+                                <idno type="shelfmark">Greek monastery</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I3NW243T" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 243.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 243.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I3NW243T" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), 27 (Venet. 539)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>St. Mark 11 (Venet. 11) and 27 (Venet. 539)</collection>
+                                <idno type="shelfmark">27 (Venet. 539)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I3NW243T" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice,  St. Mark 11 (Venet. 11) and 27 (Venet. 539), St. Mark 11 (Venet. 11)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>St. Mark 11 (Venet. 11) and 27 (Venet. 539)</collection>
+                                <idno type="shelfmark">St. Mark 11 (Venet. 11)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I3NW243T" ref="dc:subject" type="subject">

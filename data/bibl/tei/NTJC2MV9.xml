@@ -64,42 +64,90 @@ Prophets which the author attributes to a certain priest named al-ʿAlam. This v
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1314</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1314</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1319</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1319</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Arch. Seld. A 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Arch. Seld. A 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 25</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 25</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Copt. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Ar. 445</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Ar. 445</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dc:subject" type="part">
@@ -110,6 +158,9 @@ Prophets which the author attributes to a certain priest named al-ʿAlam. This v
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dc:subject" type="subject">
                     <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/NTJC2MV9" ref="dc:subject" type="translator">
+                    <desc>al-ʿAlam</desc>
                 </relation>
             </listRelation>
         </body>

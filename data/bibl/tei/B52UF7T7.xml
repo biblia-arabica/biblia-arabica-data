@@ -77,12 +77,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/B52UF7T7" ref="dcterms:references">
                     <desc>
-                        <bibl>Fes, Al-Qarawiyyin University Library, Cod. 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fes</settlement>
+                                <collection>Al-Qarawiyyin University Library</collection>
+                                <idno type="shelfmark">Cod. 730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/B52UF7T7" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 238.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/B52UF7T7" ref="dc:subject" type="part">

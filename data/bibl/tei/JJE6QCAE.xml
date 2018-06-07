@@ -63,12 +63,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/JJE6QCAE" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france,  Supp. Grec. 911</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Supp. Grec. 911</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JJE6QCAE" ref="dcterms:references">
                     <desc>
-                        <bibl>Saint Petersburg, National Library of Russia, Gr. 290</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Saint Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">Gr. 290</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JJE6QCAE" ref="dc:subject" type="part">

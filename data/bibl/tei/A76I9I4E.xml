@@ -72,27 +72,57 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 1571</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 1571</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 225</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 225</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Institute of Oriental Manuscripts, D 226</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Institute of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">D 226</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg.ar. 71</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg.ar. 71</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Vat.ar. 467</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Vat.ar. 467</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/A76I9I4E" ref="dc:subject" type="section">

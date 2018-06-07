@@ -70,7 +70,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CAISVSPX" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, National Library of Russia, A.N.S. 327</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">A.N.S. 327</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CAISVSPX" ref="dc:subject" type="part">

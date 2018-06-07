@@ -77,12 +77,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/LRRG3SNV" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai Ar. NF. Parch. 28</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai Ar. NF. Parch. 28</settlement>
+                                <collection/>
+                                <idno type="shelfmark">MS: Sinai Ar. NF. Parch. 28</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/LRRG3SNV" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai Ar. NF. Parch. 8</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai Ar. NF. Parch. 8</settlement>
+                                <collection/>
+                                <idno type="shelfmark">MS: Sinai Ar. NF. Parch. 8</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/LRRG3SNV" ref="dc:subject" type="part">

@@ -54,7 +54,11 @@
                 </monogr>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/QZNDNYF9" ref="dc:subject" type="translator">
+                    <desc>ʿAlī b. Sulaymān the Qaraite</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

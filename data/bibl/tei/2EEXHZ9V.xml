@@ -70,7 +70,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2EEXHZ9V" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 206</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 206</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EEXHZ9V" ref="dc:subject" type="part">

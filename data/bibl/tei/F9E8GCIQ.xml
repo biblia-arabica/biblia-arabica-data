@@ -69,7 +69,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/F9E8GCIQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Bibliotheca Apostolica Vaticana, Copt. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Bibliotheca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/F9E8GCIQ" ref="dc:subject" type="part">

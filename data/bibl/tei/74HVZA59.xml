@@ -66,37 +66,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>COP,  Bibl. 185 and Hist. 54, Bibl. 185</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>COP</settlement>
+                                <collection>Bibl. 185 and Hist. 54</collection>
+                                <idno type="shelfmark">Bibl. 185</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>COP,  Bibl. 185 and Hist. 54, Hist. 54</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>COP</settlement>
+                                <collection>Bibl. 185 and Hist. 54</collection>
+                                <idno type="shelfmark">Hist. 54</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Hist. 485</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Hist. 485</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 132</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 132</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 4785</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 4785</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>St Macarius,  Hag. 38, Hag. 38</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Macarius</settlement>
+                                <collection>Hag. 38</collection>
+                                <idno type="shelfmark">Hag. 38</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Syr. 199.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Syr. 199.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74HVZA59" ref="dc:subject" type="part">

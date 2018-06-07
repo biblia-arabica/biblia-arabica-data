@@ -72,52 +72,112 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, Oxford,  Poc. 219</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>Oxford</collection>
+                                <idno type="shelfmark">Poc. 219</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, Oxford, Bodleian Library</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>Oxford</collection>
+                                <idno type="shelfmark">Bodleian Library</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, March. 440</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">March. 440</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,  11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france,  Ar. 10</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Ar. 10</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france, Ar. 11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Ar. 11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliotheque nationale france, Ar. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliotheque nationale france</collection>
+                                <idno type="shelfmark">Ar. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dcterms:references">
                     <desc>
-                        <bibl>University Library,  Or. 239, Or. 239</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>University Library</settlement>
+                                <collection>Or. 239</collection>
+                                <idno type="shelfmark">Or. 239</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CIM2RSAF" ref="dc:subject" type="part">

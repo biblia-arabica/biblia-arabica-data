@@ -77,22 +77,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, University Library, Vollers 1057—05 [olim SS 281—05]</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Vollers 1057—05 [olim SS 281—05]</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 588</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 588</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 588</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dc:subject" type="part">
@@ -100,6 +124,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dc:subject" type="section">
                     <desc>Book of Wisom</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/QAAA6AIW" ref="dc:subject" type="translator">
+                    <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
             </listRelation>
         </body>

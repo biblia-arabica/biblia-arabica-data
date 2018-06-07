@@ -58,7 +58,11 @@
                 </monogr>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/B5S5C4SS" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

@@ -71,7 +71,13 @@ furnishes an edition text in Arabic letters, as well as a German translation.</n
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/DVM2SEFS" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 206</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 206</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/DVM2SEFS" ref="dc:subject" type="part">

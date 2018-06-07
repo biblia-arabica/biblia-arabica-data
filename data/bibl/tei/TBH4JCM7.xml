@@ -77,7 +77,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/TBH4JCM7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 116</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 116</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 116</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/TBH4JCM7" ref="dc:subject" type="part">

@@ -65,6 +65,12 @@
                 <relation active="http://biblia-arabica.com/bibl/L7SRWYTF" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/L7SRWYTF" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/L7SRWYTF" ref="dc:subject" type="translator">
+                    <desc>ʿAlī b. Sulaymān the Qaraite</desc>
+                </relation>
             </listRelation>
         </body>
     </text>

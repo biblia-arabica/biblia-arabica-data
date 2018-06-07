@@ -71,7 +71,13 @@ copy of the Psalms in Arabic [mentioned in GCAL:1, p. 114, #].</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/KHE6MB7H" ref="dcterms:references">
                     <desc>
-                        <bibl>Bryn Mawr, Bryn Mawr College Library, BV 47 (=Zurich, Or. 94)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Bryn Mawr</settlement>
+                                <collection>Bryn Mawr College Library</collection>
+                                <idno type="shelfmark">BV 47 (=Zurich, Or. 94)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/KHE6MB7H" ref="dc:subject" type="subject">

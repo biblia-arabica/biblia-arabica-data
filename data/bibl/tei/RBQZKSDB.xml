@@ -70,7 +70,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RBQZKSDB" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Lat. 12900</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Lat. 12900</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RBQZKSDB" ref="dc:subject" type="part">
@@ -81,6 +87,12 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RBQZKSDB" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/RBQZKSDB" ref="dc:subject" type="source">
+                    <desc>Latin</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/RBQZKSDB" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>
         </body>

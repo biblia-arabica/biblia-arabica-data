@@ -61,7 +61,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/NMJUAS8L" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Ar. 6725</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 6725</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

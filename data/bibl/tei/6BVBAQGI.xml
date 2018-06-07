@@ -62,47 +62,101 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, Biblioteca Medicea Laurenziana, Or., 112 (=21)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>Biblioteca Medicea Laurenziana</collection>
+                                <idno type="shelfmark">Or., 112 (=21)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, Biblioteca Medicea Laurenziana, Or., 57 (=12)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>Biblioteca Medicea Laurenziana</collection>
+                                <idno type="shelfmark">Or., 57 (=12)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Ar., 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar., 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Barberini, Or. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Barberini, Or. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg.ar., 129</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg.ar., 129</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Syr. 10</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Syr. 10</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Ar., 5</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Ar., 5</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice, St. Mark, Cod. 11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>St. Mark</collection>
+                                <idno type="shelfmark">Cod. 11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dcterms:references">
                     <desc>
-                        <bibl>Vienna, Österreichische Nationalbibliothek, NF., 97</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vienna</settlement>
+                                <collection>Österreichische Nationalbibliothek</collection>
+                                <idno type="shelfmark">NF., 97</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6BVBAQGI" ref="dc:subject" type="subject">

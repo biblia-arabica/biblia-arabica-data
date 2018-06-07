@@ -59,27 +59,57 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Violet Fragment</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Violet Fragment</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1316</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1316</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 1</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 74</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 74</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 74</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/2EWJS38A" ref="dc:subject" type="subject">

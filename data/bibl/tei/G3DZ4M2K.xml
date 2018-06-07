@@ -71,7 +71,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G3DZ4M2K" ref="dcterms:references">
                     <desc>
-                        <bibl>Hamburg, Staats- und Universitätsbibliothek, Frag. copt. Suppl. 26</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Hamburg</settlement>
+                                <collection>Staats- und Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Frag. copt. Suppl. 26</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G3DZ4M2K" ref="dc:subject" type="part">

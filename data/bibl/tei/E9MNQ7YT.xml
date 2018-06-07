@@ -65,14 +65,29 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, héb. 292</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">héb. 292</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dc:subject" type="subject">
                     <desc>Proverbs</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/E9MNQ7YT" ref="dc:subject" type="translator">
+                    <desc>Yefet ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

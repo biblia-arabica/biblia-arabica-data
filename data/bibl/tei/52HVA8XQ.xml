@@ -67,42 +67,90 @@ Arabic, based on Ms. Cambridge, CUL, Or. 1287.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, Or. 1287</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">Or. 1287</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodleian Libraries, Nicoll. 49</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Nicoll. 49</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 397</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 397</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 397</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 469</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 469</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 469</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 553</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 553</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 553</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 68</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 68</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 694</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 694</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Sbath.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Sbath.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/52HVA8XQ" ref="dc:subject" type="part">

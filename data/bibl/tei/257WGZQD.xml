@@ -71,17 +71,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Cod. Tisch. 31</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Cod. Tisch. 31</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Vollers 1058 (=Codex Tischendorf 37)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Vollers 1058 (=Codex Tischendorf 37)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, National Library of Russia, A.N.S. 327</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">A.N.S. 327</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="part">

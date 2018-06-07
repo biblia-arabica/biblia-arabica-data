@@ -65,7 +65,13 @@ On Sinai, Ar. 155, assigned to the ninth century CE. The Arabic translation was 
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 155</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 155</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 155</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="part">

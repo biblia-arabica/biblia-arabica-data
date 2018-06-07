@@ -60,7 +60,13 @@ Studies, University of Oxford.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/PMMVBDEB" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 84</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 84</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/PMMVBDEB" ref="dc:subject" type="section">

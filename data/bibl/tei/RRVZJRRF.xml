@@ -64,7 +64,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/RRVZJRRF" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Institut of Oriental Manuscripts, A</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Institut of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">A</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RRVZJRRF" ref="dc:subject" type="subject">

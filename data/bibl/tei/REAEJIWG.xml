@@ -112,77 +112,167 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Diez A fol. 41</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, Biblioteca Medicea Laurenziana, Or. 59</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>Biblioteca Medicea Laurenziana</collection>
+                                <idno type="shelfmark">Or. 59</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1314</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1314</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1319</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1319</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 5918</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 5918</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Bibliotheca Ambrosiana, C58</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Bibliotheca Ambrosiana</collection>
+                                <idno type="shelfmark">C58</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodleian Libraries, Arch. Seld. A. 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Arch. Seld. A. 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Ar. 25</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 25</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France,  Copt. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Rome, Biblioteca Casanatense, 169</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Rome</settlement>
+                                <collection>Biblioteca Casanatense</collection>
+                                <idno type="shelfmark">169</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 495</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 495</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 503</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 503</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Ar. 445</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Ar. 445</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="part">

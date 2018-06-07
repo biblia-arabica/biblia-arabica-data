@@ -75,7 +75,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EMQPBWZ7" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Lat. 12900</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Lat. 12900</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EMQPBWZ7" ref="dc:subject" type="part">

@@ -65,77 +65,167 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum,  Bibl. 94 (p. 128</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 94 (p. 128</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum,  pls. 15-16)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">pls. 15-16)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 93</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 93</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library,  pls. 17-18)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">pls. 17-18)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 17 (p. 131</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 17 (p. 131</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  pl. 7</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">pl. 7</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1 (p. 120</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1 (p. 120</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Copt. 8</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Copt. 8</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 123,  pl., pl.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 123</settlement>
+                                <collection>pl.</collection>
+                                <idno type="shelfmark">pl.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 124, pl. 9,  p. 126</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 124</settlement>
+                                <collection>pl. 9</collection>
+                                <idno type="shelfmark">p. 126</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 124, pl. 9,  pls. 10-11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 124</settlement>
+                                <collection>pl. 9</collection>
+                                <idno type="shelfmark">pls. 10-11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 124, pl. 9,  pls. 12-13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 124</settlement>
+                                <collection>pl. 9</collection>
+                                <idno type="shelfmark">pls. 12-13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 124, pl. 9, p. 125</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 124</settlement>
+                                <collection>pl. 9</collection>
+                                <idno type="shelfmark">p. 125</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/APAN6ACW" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 127,  pl. 14), pl. 14)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 127</settlement>
+                                <collection>pl. 14)</collection>
+                                <idno type="shelfmark">pl. 14)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

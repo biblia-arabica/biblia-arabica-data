@@ -68,16 +68,37 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Bibliothèque nationale de France, Copt. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Bibliothèque nationale de France</collection>
+                                <idno type="shelfmark">Copt. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, EBP. II C.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>EBP. II C.</collection>
+                                <idno type="shelfmark">MS: St. Petersburg, EBP. II C.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dc:subject" type="provenance">
+                    <desc>Christian</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dc:subject" type="source">
+                    <desc>Coptic</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/D6ECSM4N" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
             </listRelation>
         </body>

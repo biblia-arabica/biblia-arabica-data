@@ -62,7 +62,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/K6TJR452" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, Mingana, Chr.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>Mingana</collection>
+                                <idno type="shelfmark">Chr.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K6TJR452" ref="dc:subject" type="part">

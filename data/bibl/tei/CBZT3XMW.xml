@@ -66,7 +66,11 @@ Pentateuchs. Cod. Leid. arab. 377 nachgeprüft,“ in Leipziger semitische
 Studien 7,3 (Leipzig: 1920).</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
-            <listRelation/>
+            <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/CBZT3XMW" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
+            </listRelation>
         </body>
     </text>
 </TEI>

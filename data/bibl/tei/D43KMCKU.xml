@@ -67,7 +67,13 @@ Sira, as based on Ms. Sinai, Ar. 155.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/D43KMCKU" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 155</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 155</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 155</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/D43KMCKU" ref="dc:subject" type="subject">

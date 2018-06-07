@@ -60,67 +60,145 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Beirut, Bibliothèque Orientale, Ms. 419</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Beirut</settlement>
+                                <collection>Bibliothèque Orientale</collection>
+                                <idno type="shelfmark">Ms. 419</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, ?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75,  86</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 75</collection>
+                                <idno type="shelfmark">86</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75,  89</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 75</collection>
+                                <idno type="shelfmark">89</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75, 77</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 75</collection>
+                                <idno type="shelfmark">77</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Coptic Orthodox Patriarchate, Bibl. 75, Theol. 286</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Coptic Orthodox Patriarchate</settlement>
+                                <collection>Bibl. 75</collection>
+                                <idno type="shelfmark">Theol. 286</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 260</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 260</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Or. 251</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Or. 251</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 51.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 51.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 589</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 589</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 589</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 7</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 7</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 7</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 462</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 462</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G6PTPZV3" ref="dc:subject" type="subject">

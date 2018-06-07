@@ -71,7 +71,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/BU7SPKS2" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 4950</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 4950</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BU7SPKS2" ref="dc:subject" type="subject">

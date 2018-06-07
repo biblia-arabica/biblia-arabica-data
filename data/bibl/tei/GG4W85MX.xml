@@ -65,7 +65,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/GG4W85MX" ref="dcterms:references">
                     <desc>
-                        <bibl>,  What is the current shelfmark?, What is the current shelfmark?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>What is the current shelfmark?</collection>
+                                <idno type="shelfmark">What is the current shelfmark?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/GG4W85MX" ref="dc:subject" type="section">

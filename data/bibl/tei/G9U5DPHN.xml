@@ -68,7 +68,13 @@ Which one?</note>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G9U5DPHN" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BML, Or. 387 (p.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML</collection>
+                                <idno type="shelfmark">Or. 387 (p.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/G9U5DPHN" ref="dc:subject" type="part">

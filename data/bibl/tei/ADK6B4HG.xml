@@ -61,17 +61,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Add. 9060</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 9060</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Biblioteca Ambrosiana, Cod. &amp; 120 sup.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Biblioteca Ambrosiana</collection>
+                                <idno type="shelfmark">Cod. &amp; 120 sup.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 5</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 5</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dc:subject" type="part">
@@ -79,6 +97,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dc:subject" type="section">
                     <desc>Psalms</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/ADK6B4HG" ref="dc:subject" type="translator">
+                    <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
                 </relation>
             </listRelation>
         </body>

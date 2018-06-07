@@ -61,12 +61,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SVNNBV33" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Hist. 485.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Hist. 485.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SVNNBV33" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 4785.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 4785.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SVNNBV33" ref="dc:subject" type="part">

@@ -72,17 +72,35 @@ texte et lexique, Ph.D. dissertation, Université Michel de Montaigne, Bordeaux,
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/THDFK36D" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Oct. 1108</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Oct. 1108</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/THDFK36D" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, , (Tischendorf 31??).</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection/>
+                                <idno type="shelfmark">(Tischendorf 31??).</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/THDFK36D" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Borg. ar. 95</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. ar. 95</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/THDFK36D" ref="dc:subject" type="part">

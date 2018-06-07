@@ -65,7 +65,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/C3TVN5C7" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Diez A. Fol. 41.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Diez A. Fol. 41.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/C3TVN5C7" ref="dc:subject" type="subject">

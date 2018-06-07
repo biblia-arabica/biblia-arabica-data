@@ -64,17 +64,35 @@ them containing early biblical books in Arabic.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/K8EUQKST" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Vollers 1059A (Cod. Tisch. 31A)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Vollers 1059A (Cod. Tisch. 31A)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K8EUQKST" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Vollers 1059B (Cod. Tisch. 31B)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Vollers 1059B (Cod. Tisch. 31B)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K8EUQKST" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg, RNL, A. N.S.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">A. N.S.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/K8EUQKST" ref="dc:subject" type="subject">

@@ -62,12 +62,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/XA3NVS9A" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 236</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 236</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/XA3NVS9A" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayrische Staatsbibliothek, Ar. 233</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 233</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/XA3NVS9A" ref="dc:subject" type="subject">

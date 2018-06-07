@@ -65,22 +65,46 @@ Reprints the Raimondi print.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/BGHR4MDJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, University Library, G. 5. 27</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">G. 5. 27</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BGHR4MDJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, University Library, G. 5. 33</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">G. 5. 33</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BGHR4MDJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 217 (=Cod. 217 Scaliger)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 217 (=Cod. 217 Scaliger)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BGHR4MDJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Or. 2369 (? = Cambridge, University Library, G. 5. 33 and G. 5. 27)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Or. 2369 (? = Cambridge</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">G. 5. 33 and G. 5. 27)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BGHR4MDJ" ref="dc:subject" type="part">

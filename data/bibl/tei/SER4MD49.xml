@@ -67,37 +67,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Fol. 534</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Fol. 534</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Petersmann A3</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Petersmann A3</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Gotha, Forschungsbibliothek, Ar. 1088.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Gotha</settlement>
+                                <collection>Forschungsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 1088.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Kiel, Universitätsbibliothek, Ms. 14</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Kiel</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Ms. 14</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library, Or. 1222</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 1222</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 5</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 5</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Barberini, Or. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Barberini, Or. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SER4MD49" ref="dc:subject" type="subject">

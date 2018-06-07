@@ -72,7 +72,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/9BMPEGJ2" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Ar.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Ar.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9BMPEGJ2" ref="dc:subject" type="subject">

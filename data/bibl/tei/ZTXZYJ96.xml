@@ -71,8 +71,17 @@
                 <relation active="http://biblia-arabica.com/bibl/ZTXZYJ96" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/ZTXZYJ96" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/ZTXZYJ96" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZTXZYJ96" ref="dc:subject" type="subject">
                     <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/ZTXZYJ96" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
                 </relation>
             </listRelation>
         </body>

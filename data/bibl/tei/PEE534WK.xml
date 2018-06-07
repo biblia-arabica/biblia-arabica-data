@@ -66,7 +66,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/PEE534WK" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg, Russian National Library, Ar. NS</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>Russian National Library</collection>
+                                <idno type="shelfmark">Ar. NS</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/PEE534WK" ref="dc:subject" type="part">

@@ -69,12 +69,24 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L7VZ2XVC" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 3382</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 3382</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L7VZ2XVC" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 118</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 118</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L7VZ2XVC" ref="dc:subject" type="part">
@@ -85,6 +97,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/L7VZ2XVC" ref="dc:subject" type="subject">
                     <desc>Qur'anic/Islamic Terminology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/L7VZ2XVC" ref="dc:subject" type="translator">
+                    <desc>al-Asʿad Hibbat Allāh b. al-ʿAssāl</desc>
                 </relation>
             </listRelation>
         </body>

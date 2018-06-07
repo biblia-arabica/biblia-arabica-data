@@ -77,52 +77,112 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>BCT, 11.4</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>BCT</settlement>
+                                <collection>11.4</collection>
+                                <idno type="shelfmark">MS: BCT, 11.4</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Fes, Al-Qarawiyyin University Library, 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fes</settlement>
+                                <collection>Al-Qarawiyyin University Library</collection>
+                                <idno type="shelfmark">730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Or. 1059B</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Or. 1059B</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, BBiblioteca Nacional de España, 10.031</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>BBiblioteca Nacional de España</collection>
+                                <idno type="shelfmark">10.031</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Vit 13.1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Vit 13.1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>RBE, &amp; I.14 Page 193</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>RBE</settlement>
+                                <collection>&amp; I.14 Page 193</collection>
+                                <idno type="shelfmark">MS: RBE, &amp; I.14 Page 193</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 151</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 151</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 151</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Lat. 12900</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Lat. 12900</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dc:subject" type="part">
@@ -142,6 +202,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dc:subject" type="subject">
                     <desc>Pauline Epistles</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/R38H2FBD" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>
         </body>

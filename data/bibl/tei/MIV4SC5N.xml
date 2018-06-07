@@ -63,147 +63,321 @@ in the Polyglots.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>, Bibliothek Paul Sbath: Ms. 920, Bibliothek Paul Sbath: Ms. 920</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Bibliothek Paul Sbath: Ms. 920</collection>
+                                <idno type="shelfmark">Bibliothek Paul Sbath: Ms. 920</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Diez A fol. 41</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham,  University, University</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>University</collection>
+                                <idno type="shelfmark">University</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>COP Bibl. 13, Bibl. 55,  Bibl.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>COP Bibl. 13</settlement>
+                                <collection>Bibl. 55</collection>
+                                <idno type="shelfmark">Bibl.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>COP Bibl. 13, Bibl. 55,  Bibl. 79</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>COP Bibl. 13</settlement>
+                                <collection>Bibl. 55</collection>
+                                <idno type="shelfmark">Bibl. 79</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>COP Bibl. 13, Bibl. 55, Bibl. 77</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>COP Bibl. 13</settlement>
+                                <collection>Bibl. 55</collection>
+                                <idno type="shelfmark">Bibl. 77</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BML, Or. 59</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML</collection>
+                                <idno type="shelfmark">Or. 59</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Istanbul,  Aya, Aya</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Istanbul</settlement>
+                                <collection>Aya</collection>
+                                <idno type="shelfmark">Aya</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 5918</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 5918</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Or. 8745</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 8745</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Harl. 5505</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Harl. 5505</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1314</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1314</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1326</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1326</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Manchester,  John, John</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Manchester</settlement>
+                                <collection>John</collection>
+                                <idno type="shelfmark">John</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Biblioteca Ambrosiana, C 58 inf.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Biblioteca Ambrosiana</collection>
+                                <idno type="shelfmark">C 58 inf.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodleian, Bodleian</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian</collection>
+                                <idno type="shelfmark">Bodleian</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,  Ar. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,  Ar. 25</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 25</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,  Copt. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Copt. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,  Copt. 96</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Copt. 96</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Rome, Biblioteca Casanatense,  2108</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Rome</settlement>
+                                <collection>Biblioteca Casanatense</collection>
+                                <idno type="shelfmark">2108</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Rome, Biblioteca Casanatense, 169</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Rome</settlement>
+                                <collection>Biblioteca Casanatense</collection>
+                                <idno type="shelfmark">169</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 1</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 539</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 539</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 539</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 597</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 597</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 597</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 468</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 468</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 503</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 503</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca apostolica vaticana, Ar. 445</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca apostolica vaticana</collection>
+                                <idno type="shelfmark">Ar. 445</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MIV4SC5N" ref="dc:subject" type="section">

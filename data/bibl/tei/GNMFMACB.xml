@@ -60,6 +60,9 @@
                 <relation active="http://biblia-arabica.com/bibl/GNMFMACB" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/GNMFMACB" ref="dc:subject" type="translator">
+                    <desc>Marqus b. al-Qunbar</desc>
+                </relation>
             </listRelation>
         </body>
     </text>

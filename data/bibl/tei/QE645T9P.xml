@@ -76,7 +76,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/QE645T9P" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library Or. 454</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library Or. 454</collection>
+                                <idno type="shelfmark">MS: Leiden, University Library Or. 454</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QE645T9P" ref="dc:subject" type="part">
@@ -84,6 +90,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QE645T9P" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/QE645T9P" ref="dc:subject" type="translator">
+                    <desc>Ibn al-Ṭayyib</desc>
                 </relation>
             </listRelation>
         </body>

@@ -66,7 +66,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/MJ9ZC49C" ref="dcterms:references">
                     <desc>
-                        <bibl>Moscow, State Library, Ms. 432.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Moscow</settlement>
+                                <collection>State Library</collection>
+                                <idno type="shelfmark">Ms. 432.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/MJ9ZC49C" ref="dc:subject" type="section">

@@ -79,7 +79,13 @@ Fragmentary quotes of #######.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/QU5257QG" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, RNL, Yevr. II</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">Yevr. II</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QU5257QG" ref="dc:subject" type="subject">

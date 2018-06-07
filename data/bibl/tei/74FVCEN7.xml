@@ -61,42 +61,90 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>, 14, 14</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>14</collection>
+                                <idno type="shelfmark">14</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>, 154, 154</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>154</collection>
+                                <idno type="shelfmark">154</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>, 155, 155</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>155</collection>
+                                <idno type="shelfmark">155</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>Borg,  K II 31, K II 31</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Borg</settlement>
+                                <collection>K II 31</collection>
+                                <idno type="shelfmark">K II 31</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, UBL, Tischend.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>UBL</collection>
+                                <idno type="shelfmark">Tischend.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayrische Staatsbibliothek, Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 75</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 75</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 75</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, National Library of Russia, A.N.S. 327</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">A.N.S. 327</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/74FVCEN7" ref="dc:subject" type="subject">

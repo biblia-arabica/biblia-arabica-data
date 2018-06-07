@@ -70,37 +70,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library, Or. 230</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 230</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library, Or. 377</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Or. 377</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, March. 440</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">March. 440</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Poc. 219</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Poc. 219</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 9,  11</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 9</collection>
+                                <idno type="shelfmark">11</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 9, 10</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 9</collection>
+                                <idno type="shelfmark">10</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 9, 16</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 9</collection>
+                                <idno type="shelfmark">16</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/588FNSQI" ref="dc:subject" type="part">

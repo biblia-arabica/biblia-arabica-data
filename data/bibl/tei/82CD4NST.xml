@@ -74,7 +74,13 @@ Matt 13:46-52 in Greek and Arabic.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/82CD4NST" ref="dcterms:references">
                     <desc>
-                        <bibl>,  What is the current shelfmark?, What is the current shelfmark?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>What is the current shelfmark?</collection>
+                                <idno type="shelfmark">What is the current shelfmark?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/82CD4NST" ref="dc:subject" type="section">

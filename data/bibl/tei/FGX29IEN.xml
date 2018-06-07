@@ -69,57 +69,123 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>, Bodl. Cod. II Usserii, Bodl. Cod. II Usserii</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Bodl. Cod. II Usserii</collection>
+                                <idno type="shelfmark">Bodl. Cod. II Usserii</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Fol. 534</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Fol. 534</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Or. Qu. 828</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Or. Qu. 828</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge,  UL Ms. 714, UL Ms. 714</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>UL Ms. 714</collection>
+                                <idno type="shelfmark">UL Ms. 714</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence,  BML Or. 112 (formerly 21)., BML Or. 112 (formerly 21).</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML Or. 112 (formerly 21).</collection>
+                                <idno type="shelfmark">BML Or. 112 (formerly 21).</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden,  University Library Or. 377, University Library Or. 377</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library Or. 377</collection>
+                                <idno type="shelfmark">University Library Or. 377</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 1, Ar. 5</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 1</collection>
+                                <idno type="shelfmark">Ar. 5</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 1, Ar. 6</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 1</collection>
+                                <idno type="shelfmark">Ar. 6</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg,  179, 179</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>179</collection>
+                                <idno type="shelfmark">179</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Barberini, Or. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Barberini, Or. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dcterms:references">
                     <desc>
-                        <bibl>Wolfenb,  Oxford, Oxford</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Wolfenb</settlement>
+                                <collection>Oxford</collection>
+                                <idno type="shelfmark">Oxford</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/FGX29IEN" ref="dc:subject" type="subject">

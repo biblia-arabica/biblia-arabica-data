@@ -60,17 +60,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/CF3CCDG6" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 75 (pp. 412-413, pls. 6-7)Bibl. 90 (pp. 410-411, pls. 4-5) and Bibl. 94 (pp. 408-</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 75 (pp. 412-413, pls. 6-7)Bibl. 90 (pp. 410-411, pls. 4-5) and Bibl. 94 (pp. 408-</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CF3CCDG6" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 94; Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 94; Berlin, Staatsbibliothek, Diez A fol. 41</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CF3CCDG6" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/CF3CCDG6" ref="dc:subject" type="subject">

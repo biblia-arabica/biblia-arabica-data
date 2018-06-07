@@ -60,12 +60,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/M82695V6" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg,  Institute of, Institute of</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>Institute of</collection>
+                                <idno type="shelfmark">Institute of</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M82695V6" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, Institute of Oriental Manuscripts, D 226</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>Institute of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">D 226</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/M82695V6" ref="dc:subject" type="subject">

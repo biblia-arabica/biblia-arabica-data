@@ -57,12 +57,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SID6Z7A7" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Harl.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Harl.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SID6Z7A7" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Poc. 289</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Poc. 289</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SID6Z7A7" ref="dc:subject" type="subject">

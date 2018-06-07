@@ -77,22 +77,46 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 90</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 90</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 93</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 93</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dcterms:references">
                     <desc>
-                        <bibl>Istanbul, Topkapı Sarayı, Ahmet III, 3159</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Istanbul</settlement>
+                                <collection>Topkapı Sarayı</collection>
+                                <idno type="shelfmark">Ahmet III, 3159</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt. Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt. Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dc:subject" type="part">
@@ -103,6 +127,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dc:subject" type="subject">
                     <desc>Art, paleography, codicology</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3G653V92" ref="dc:subject" type="translator">
+                    <desc>al-Asʿad Hibbat Allāh b. al-ʿAssāl</desc>
                 </relation>
             </listRelation>
         </body>

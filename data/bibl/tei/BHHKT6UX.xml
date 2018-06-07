@@ -62,37 +62,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Violet Fragment</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Violet Fragment</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL,  45</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">45</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, Ar. 53.8</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">Ar. 53.8</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, Mosseri vi</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">Mosseri vi</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, T-S Ar. 21.183</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">T-S Ar. 21.183</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. ?</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. ?</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. ?</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg, RNL, Ebr. II</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">Ebr. II</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BHHKT6UX" ref="dc:subject" type="subject">

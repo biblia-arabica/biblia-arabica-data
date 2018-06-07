@@ -65,27 +65,57 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo, Coptic Museum, Bibl. 94; Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic Museum</collection>
+                                <idno type="shelfmark">Bibl. 94; Berlin, Staatsbibliothek, Diez A fol. 41</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dcterms:references">
                     <desc>
-                        <bibl>Istanbul, Topkapı Sarayı Library, Ahmet III 3519 (p. 20, pls. 6-7)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Istanbul</settlement>
+                                <collection>Topkapı Sarayı Library</collection>
+                                <idno type="shelfmark">Ahmet III 3519 (p. 20, pls. 6-7)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 11856</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 11856</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 17 (p. 18, pl. 4)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 17 (p. 18, pl. 4)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NBURPEWF" ref="dc:subject" type="subject">

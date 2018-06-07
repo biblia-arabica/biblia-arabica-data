@@ -61,12 +61,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/9JPGB5RD" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 1,  BML Or. 112 (formerly</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 1</collection>
+                                <idno type="shelfmark">BML Or. 112 (formerly</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9JPGB5RD" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF Ar. 1, Florence</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF Ar. 1</collection>
+                                <idno type="shelfmark">Florence</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9JPGB5RD" ref="dc:subject" type="part">

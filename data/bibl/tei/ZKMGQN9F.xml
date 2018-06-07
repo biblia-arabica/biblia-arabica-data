@@ -68,7 +68,13 @@ Oxford, Bodleian Library, Or. 251.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ZKMGQN9F" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Or.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Or.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZKMGQN9F" ref="dc:subject" type="part">

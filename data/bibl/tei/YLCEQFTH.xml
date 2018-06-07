@@ -65,19 +65,40 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, NLR, Evr. I 555</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>NLR</collection>
+                                <idno type="shelfmark">Evr. I 555</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, NLR, Evr.-Arab. I 1345</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>NLR</collection>
+                                <idno type="shelfmark">Evr.-Arab. I 1345</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="subject">
                     <desc>Psalms</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="translator">
+                    <desc>Salmon ben Yeruham</desc>
                 </relation>
             </listRelation>
         </body>

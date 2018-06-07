@@ -56,7 +56,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/6SHZ25W8" ref="dcterms:references">
                     <desc>
-                        <bibl>Venice, Biblioteca Nazionale Marciana, Gr. Z. 11 (379)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Venice</settlement>
+                                <collection>Biblioteca Nazionale Marciana</collection>
+                                <idno type="shelfmark">Gr. Z. 11 (379)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

@@ -65,28 +65,61 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 1330.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 1330.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl.,  BAV</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">BAV</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodl.,  Vatican</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodl.</collection>
+                                <idno type="shelfmark">Vatican</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Ar. 33</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Ar. 33</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 112</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 112</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/IGSJ8XVW" ref="dc:subject" type="translator">
+                    <desc>Marqus b. al-Qunbar</desc>
                 </relation>
             </listRelation>
         </body>

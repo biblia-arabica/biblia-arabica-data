@@ -67,7 +67,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/SE4X25MH" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BML, Or. 387.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML</collection>
+                                <idno type="shelfmark">Or. 387.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/SE4X25MH" ref="dc:subject" type="subject">

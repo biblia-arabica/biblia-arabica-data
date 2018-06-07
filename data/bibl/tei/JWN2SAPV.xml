@@ -68,57 +68,123 @@ and translation techniques, as well as a reproduction of Jeremiah 1-6.</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Berlin, Staatsbibliothek, Diez A fol. 41</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Berlin</settlement>
+                                <collection>Staatsbibliothek</collection>
+                                <idno type="shelfmark">Diez A fol. 41</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, University Library,  Syr. 624</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Syr. 624</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, University Library, Mingana</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">Mingana</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BML, Or. 59</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BML</collection>
+                                <idno type="shelfmark">Or. 59</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 5918</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 5918</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Bibliotheca Ambrosiana, C58</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Bibliotheca Ambrosiana</collection>
+                                <idno type="shelfmark">C58</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Seld. Arch. 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Seld. Arch. 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Rome,  Bibliotheca, Bibliotheca</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Rome</settlement>
+                                <collection>Bibliotheca</collection>
+                                <idno type="shelfmark">Bibliotheca</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Rome, Biblioteca Casanatense, 169</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Rome</settlement>
+                                <collection>Biblioteca Casanatense</collection>
+                                <idno type="shelfmark">169</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 495</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 495</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 503</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 503</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dc:subject" type="section">
@@ -126,6 +192,9 @@ and translation techniques, as well as a reproduction of Jeremiah 1-6.</note>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dc:subject" type="subject">
                     <desc>Prophets</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/JWN2SAPV" ref="dc:subject" type="translator">
+                    <desc>Pethion b. Ayyūb</desc>
                 </relation>
             </listRelation>
         </body>

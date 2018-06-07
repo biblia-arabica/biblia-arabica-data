@@ -67,47 +67,101 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Beirut, Bibliothèque Orientale,  Bibl. 32.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Beirut</settlement>
+                                <collection>Bibliothèque Orientale</collection>
+                                <idno type="shelfmark">Bibl. 32.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Beirut, Bibliothèque Orientale,  Coptic Orthodox Patriarchate</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Beirut</settlement>
+                                <collection>Bibliothèque Orientale</collection>
+                                <idno type="shelfmark">Coptic Orthodox Patriarchate</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Beirut, Bibliothèque Orientale, Ms. 419</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Beirut</settlement>
+                                <collection>Bibliothèque Orientale</collection>
+                                <idno type="shelfmark">Ms. 419</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Cambridge, CUL, Add. 3044 and</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cambridge</settlement>
+                                <collection>CUL</collection>
+                                <idno type="shelfmark">Add. 3044 and</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 23</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 23</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>St Petersburg, Institute of Oriental Manuscripts, D</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St Petersburg</settlement>
+                                <collection>Institute of Oriental Manuscripts</collection>
+                                <idno type="shelfmark">D</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 449</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 449</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 468</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 468</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HDA2B8JT" ref="dc:subject" type="section">

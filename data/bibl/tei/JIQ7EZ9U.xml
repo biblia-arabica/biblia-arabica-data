@@ -65,12 +65,24 @@ Monferrer Sala.)</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/JIQ7EZ9U" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL,  mentions several unspecified</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">mentions several unspecified</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JIQ7EZ9U" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 26116</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 26116</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/JIQ7EZ9U" ref="dc:subject" type="section">

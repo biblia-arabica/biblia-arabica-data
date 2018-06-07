@@ -80,12 +80,24 @@ Luke, dated 1043 CE, which is today divided between Paris, BNF and St Petersburg
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/7CKSHQV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7CKSHQV9" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Supp. Grec. 911</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Supp. Grec. 911</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7CKSHQV9" ref="dc:subject" type="part">

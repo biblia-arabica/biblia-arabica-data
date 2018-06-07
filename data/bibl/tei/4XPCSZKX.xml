@@ -65,17 +65,35 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/4XPCSZKX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL,  Greek</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Greek</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4XPCSZKX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Jerusalem</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Jerusalem</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4XPCSZKX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 11850</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 11850</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/4XPCSZKX" ref="dc:subject" type="subject">

@@ -65,6 +65,12 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
+                <relation active="http://biblia-arabica.com/bibl/6VKB5WN8" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/6VKB5WN8" ref="dc:subject" type="provenance">
+                    <desc>Samaritan</desc>
+                </relation>
                 <relation active="http://biblia-arabica.com/bibl/6VKB5WN8" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>

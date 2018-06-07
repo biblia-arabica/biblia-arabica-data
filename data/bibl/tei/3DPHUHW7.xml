@@ -63,17 +63,32 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, héb. 293</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">héb. 293</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="provenance">
+                    <desc>Qaraite</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="section">
                     <desc>Sapiential Books</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="source">
+                    <desc>Hebrew</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="subject">
                     <desc>Old Testemant</desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="subject">
                     <desc>Psalms</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/3DPHUHW7" ref="dc:subject" type="translator">
+                    <desc>Yefert ben Eli</desc>
                 </relation>
             </listRelation>
         </body>

@@ -63,7 +63,13 @@ edition [#].</note>
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/6KK9APTN" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 132.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 132.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KK9APTN" ref="dc:subject" type="part">

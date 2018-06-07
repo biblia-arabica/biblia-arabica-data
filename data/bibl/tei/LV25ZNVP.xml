@@ -85,6 +85,9 @@
                 <relation active="http://biblia-arabica.com/bibl/LV25ZNVP" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
+                <relation active="http://biblia-arabica.com/bibl/LV25ZNVP" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
             </listRelation>
         </body>
     </text>

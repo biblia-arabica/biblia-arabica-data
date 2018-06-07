@@ -80,77 +80,167 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Fez, Qarawiyyin Library, 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fez</settlement>
+                                <collection>Qarawiyyin Library</collection>
+                                <idno type="shelfmark">730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Or. 1059B</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Or. 1059B</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library,  Add. 9061</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 9061</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Léon, Cathedral of Léon, cod. 35</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Léon</settlement>
+                                <collection>Cathedral of Léon</collection>
+                                <idno type="shelfmark">cod. 35</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 234</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 234</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 238</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 238</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodleian Libraries, Arch. Seld. 3202 A.69</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Arch. Seld. 3202 A.69</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford,  Bodleian Libraries, Hunt. 17</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 17</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, Hunt. 118</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Hunt. 118</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 2</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 2</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 2</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 513</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 513</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 513</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 517</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 517</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 517</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 72</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 72</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 72</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 74</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 74</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 74</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="part">
@@ -164,6 +254,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="subject">
                     <desc>Muslim reception</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>
         </body>

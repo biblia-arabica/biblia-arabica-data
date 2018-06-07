@@ -60,37 +60,79 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  Bibl. 75 (pp. 412-413</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Bibl. 75 (pp. 412-413</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  Bibl. 90 (pp. 410-411</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Bibl. 90 (pp. 410-411</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  Coptic Museum</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Coptic Museum</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  pls.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">pls.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  pls. 6-7)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">pls. 6-7)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Cairo</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Cairo</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EXE38TXB" ref="dc:subject" type="subject">

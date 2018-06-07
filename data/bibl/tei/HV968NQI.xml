@@ -65,52 +65,112 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>, p., p.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>p.</collection>
+                                <idno type="shelfmark">p.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Florence, BMF, Or. 387 (p.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Florence</settlement>
+                                <collection>BMF</collection>
+                                <idno type="shelfmark">Or. 387 (p.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University Library,  pl. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">pl. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Leiden, University of Leiden Library, Or. 1571</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leiden</settlement>
+                                <collection>University of Leiden Library</collection>
+                                <idno type="shelfmark">Or. 1571</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 92</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 92</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 92</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 319,  pl. 10, pl. 10</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 319</settlement>
+                                <collection>pl. 10</collection>
+                                <idno type="shelfmark">pl. 10</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 321,  pl. 13, pl. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 321</settlement>
+                                <collection>pl. 13</collection>
+                                <idno type="shelfmark">pl. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 327,  pl. 19, pl. 19</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 327</settlement>
+                                <collection>pl. 19</collection>
+                                <idno type="shelfmark">pl. 19</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 3287,  pl. 20, pl. 20</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 3287</settlement>
+                                <collection>pl. 20</collection>
+                                <idno type="shelfmark">pl. 20</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dcterms:references">
                     <desc>
-                        <bibl>p. 329,  pls. 22-23), pls. 22-23)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>p. 329</settlement>
+                                <collection>pls. 22-23)</collection>
+                                <idno type="shelfmark">pls. 22-23)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/HV968NQI" ref="dc:subject" type="subject">

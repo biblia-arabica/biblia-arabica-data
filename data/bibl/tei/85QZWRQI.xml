@@ -66,17 +66,35 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/85QZWRQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 69</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 69</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 69</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/85QZWRQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 72</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 72</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 72</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/85QZWRQI" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 97</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 97</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 97</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/85QZWRQI" ref="dc:subject" type="part">

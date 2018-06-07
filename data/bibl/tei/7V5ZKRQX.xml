@@ -60,52 +60,112 @@ manuscripts.</note>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Add. 26116</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 26116</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries,  Arch. Seld. A 67</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">Arch. Seld. A 67</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Libraries, (Or.) Fraser 257</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Libraries</collection>
+                                <idno type="shelfmark">(Or.) Fraser 257</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 1</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 1</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 1</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 448</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 448</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 448</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 513</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 513</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 513</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 539</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 539</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 539</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 597</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 597</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 597</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 9</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 9</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 9</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Ar. 503</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 503</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/7V5ZKRQX" ref="dc:subject" type="part">

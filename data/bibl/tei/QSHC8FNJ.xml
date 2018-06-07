@@ -61,12 +61,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/QSHC8FNJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Ar. 12 (p. 57)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Ar. 12 (p. 57)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QSHC8FNJ" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Copt. 1 (pp.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Copt. 1 (pp.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/QSHC8FNJ" ref="dc:subject" type="subject">

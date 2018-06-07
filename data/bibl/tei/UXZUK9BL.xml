@@ -68,7 +68,13 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/UXZUK9BL" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Real Biblioteca del Monasterio de San Lorenzo de El Escorial, Codex Ar. 1625</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Real Biblioteca del Monasterio de San Lorenzo de El Escorial</collection>
+                                <idno type="shelfmark">Codex Ar. 1625</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

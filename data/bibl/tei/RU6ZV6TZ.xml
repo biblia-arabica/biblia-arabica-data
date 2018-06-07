@@ -77,12 +77,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/RU6ZV6TZ" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai, Ar. 154</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 154</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 154</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RU6ZV6TZ" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, RNL, Yevr. II</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>RNL</collection>
+                                <idno type="shelfmark">Yevr. II</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/RU6ZV6TZ" ref="dc:subject" type="subject">

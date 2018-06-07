@@ -66,12 +66,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ZEIKDTRB" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 8605</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 8605</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZEIKDTRB" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 8612</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 8612</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/ZEIKDTRB" ref="dc:subject" type="part">

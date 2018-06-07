@@ -65,47 +65,101 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>, Ar. 431, Ar. 431</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Ar. 431</collection>
+                                <idno type="shelfmark">Ar. 431</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>, Ar. 448, Ar. 448</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Ar. 448</collection>
+                                <idno type="shelfmark">Ar. 448</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>, Ar. 483, Ar. 483</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement/>
+                                <collection>Ar. 483</collection>
+                                <idno type="shelfmark">Ar. 483</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>Beirut, Bibliothèque orientale, Ar. 552</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Beirut</settlement>
+                                <collection>Bibliothèque orientale</collection>
+                                <idno type="shelfmark">Ar. 552</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, Mingana, Chr. Ar. 170 (= Chr. Add. 140)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>Mingana</collection>
+                                <idno type="shelfmark">Chr. Ar. 170 (= Chr. Add. 140)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>London, British Library, Or. 4950</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Or. 4950</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich, Bayrische Staatsbibliothek, Ar. 1071</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayrische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 1071</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>Sinai,  Ar. 330</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Sinai</settlement>
+                                <collection>Ar. 330</collection>
+                                <idno type="shelfmark">MS: Sinai, Ar. 330</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/BM6PX94N" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Andrews, University Library, 14.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Andrews</settlement>
+                                <collection>University Library</collection>
+                                <idno type="shelfmark">14.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

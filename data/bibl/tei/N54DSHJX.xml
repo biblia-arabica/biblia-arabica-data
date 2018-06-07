@@ -71,7 +71,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/N54DSHJX" ref="dcterms:references">
                     <desc>
-                        <bibl>Toledo,  Biblioteca Regional, Biblioteca Regional</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Toledo</settlement>
+                                <collection>Biblioteca Regional</collection>
+                                <idno type="shelfmark">Biblioteca Regional</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/N54DSHJX" ref="dc:subject" type="section">

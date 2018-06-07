@@ -71,12 +71,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/D65E7PUF" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, 37.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">37.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/D65E7PUF" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, Cod. Tisch. 31</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">Cod. Tisch. 31</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/D65E7PUF" ref="dc:subject" type="part">

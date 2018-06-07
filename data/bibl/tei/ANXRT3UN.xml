@@ -58,7 +58,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/ANXRT3UN" ref="dcterms:references">
                     <desc>
-                        <bibl>Birmingham, Mingana, Chr.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Birmingham</settlement>
+                                <collection>Mingana</collection>
+                                <idno type="shelfmark">Chr.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
             </listRelation>

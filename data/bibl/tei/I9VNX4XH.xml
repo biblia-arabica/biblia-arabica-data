@@ -76,12 +76,24 @@ French translation of Gal. 1:1-15 with commentary.</note>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
                     <desc>
-                        <bibl>Cathedral of Sigünze, Ms. 150</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cathedral of Sigünze</settlement>
+                                <collection>Ms. 150</collection>
+                                <idno type="shelfmark">MS: Cathedral of Sigünze, Ms. 150</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana, Lat. 129000</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Lat. 129000</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="part">

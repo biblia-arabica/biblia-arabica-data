@@ -60,42 +60,90 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Cairo,  Coptic, Coptic</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Cairo</settlement>
+                                <collection>Coptic</collection>
+                                <idno type="shelfmark">Coptic</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Hunt. 17</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Hunt. 17</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, BNF, Copt. 13</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>BNF</collection>
+                                <idno type="shelfmark">Copt. 13</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique,  pl. 1-2)</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">pl. 1-2)</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Paris, Institut Catholique, Copt.-Ar. 1 (p. 133-134</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Paris</settlement>
+                                <collection>Institut Catholique</collection>
+                                <idno type="shelfmark">Copt.-Ar. 1 (p. 133-134</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>St. Petersburg, National Library of Russia, A.N.S. 327</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">A.N.S. 327</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Washington, Freer Gallery,</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Washington</settlement>
+                                <collection>Freer Gallery</collection>
+                                <idno type="shelfmark"/>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dcterms:references">
                     <desc>
-                        <bibl>Washington, Freer Gallery, No. 55 (p. 135</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Washington</settlement>
+                                <collection>Freer Gallery</collection>
+                                <idno type="shelfmark">No. 55 (p. 135</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/6KMA2IGH" ref="dc:subject" type="subject">

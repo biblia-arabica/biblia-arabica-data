@@ -73,62 +73,134 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Fes, Al-Qarawiyyin University Library, 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fes</settlement>
+                                <collection>Al-Qarawiyyin University Library</collection>
+                                <idno type="shelfmark">730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Leipzig, Universitätsbibliothek, 1059B</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Leipzig</settlement>
+                                <collection>Universitätsbibliothek</collection>
+                                <idno type="shelfmark">1059B</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Add. 9061</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Add. 9061</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>London,  British Library, Harley 5786</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>British Library</collection>
+                                <idno type="shelfmark">Harley 5786</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Léon, Cathedral of Léon, cod. 35</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Léon</settlement>
+                                <collection>Cathedral of Léon</collection>
+                                <idno type="shelfmark">cod. 35</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Madrid, Biblioteca Nacional de España, Or. 4971</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Madrid</settlement>
+                                <collection>Biblioteca Nacional de España</collection>
+                                <idno type="shelfmark">Or. 4971</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Milan, Biblioteca Ambrosiana, Cod. &amp; 120 sup.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Milan</settlement>
+                                <collection>Biblioteca Ambrosiana</collection>
+                                <idno type="shelfmark">Cod. &amp; 120 sup.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 233</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 233</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Munich,  Bayerische Staatsbibliothek, Ar. 234</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Munich</settlement>
+                                <collection>Bayerische Staatsbibliothek</collection>
+                                <idno type="shelfmark">Ar. 234</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Naples, Biblioteca nazionale Vittorio Emanuele III, Gr. 20</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Naples</settlement>
+                                <collection>Biblioteca nazionale Vittorio Emanuele III</collection>
+                                <idno type="shelfmark">Gr. 20</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Ar. 525</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Ar. 525</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dcterms:references">
                     <desc>
-                        <bibl>Vatican, Biblioteca Apostolica Vaticana,  Borg. Ar. 129</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Vatican</settlement>
+                                <collection>Biblioteca Apostolica Vaticana</collection>
+                                <idno type="shelfmark">Borg. Ar. 129</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dc:subject" type="part">
@@ -142,6 +214,15 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dc:subject" type="translator">
+                    <desc>Isaak Velasquez</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dc:subject" type="translator">
+                    <desc>Saadiah Gaon</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/NIP8WTTH" ref="dc:subject" type="translator">
+                    <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
                 </relation>
             </listRelation>
         </body>

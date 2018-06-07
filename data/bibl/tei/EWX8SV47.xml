@@ -60,7 +60,13 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/EWX8SV47" ref="dcterms:references">
                     <desc>
-                        <bibl>Fes, Al-Qarawiyyin University Library, 730</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Fes</settlement>
+                                <collection>Al-Qarawiyyin University Library</collection>
+                                <idno type="shelfmark">730</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EWX8SV47" ref="dc:subject" type="part">
@@ -68,6 +74,9 @@
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/EWX8SV47" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
+                </relation>
+                <relation active="http://biblia-arabica.com/bibl/EWX8SV47" ref="dc:subject" type="source">
+                    <desc>Latin</desc>
                 </relation>
             </listRelation>
         </body>

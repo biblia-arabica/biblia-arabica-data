@@ -63,12 +63,24 @@
             <listRelation>
                 <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
                     <desc>
-                        <bibl>London, BL, Or.</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>London</settlement>
+                                <collection>BL</collection>
+                                <idno type="shelfmark">Or.</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
                     <desc>
-                        <bibl>Oxford, Bodleian Library, Poc. 289</bibl>
+                        <msDesc>
+                            <msIdentifier>
+                                <settlement>Oxford</settlement>
+                                <collection>Bodleian Library</collection>
+                                <idno type="shelfmark">Poc. 289</idno>
+                            </msIdentifier>
+                        </msDesc>
                     </desc>
                 </relation>
                 <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dc:subject" type="subject">
