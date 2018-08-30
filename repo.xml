@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <meta xmlns="http://exist-db.org/xquery/repo">
-    <description>TEI data used by Biblia Arabica srophe-eXist-app</description>
+    <description>TEI data used by Biblia Arabica srophe-eXist-app (development version)</description>
     <author>Biblia Arabica</author>
     <website>http://biblia-arabica.com/</website>
     <status>alpha</status>
     <license>?</license>
     <copyright>true</copyright>
     <type>application</type>
-    <target>ba-data</target>
+    <target>ba-data-dev</target>
     <prepare>pre-install.xql</prepare>
     <finish/>
     
