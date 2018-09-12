@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sara_schulthess">Sara Schulthess</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/6MWRJ9A2/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/6MWRJ9A2/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname>Bonhome Pulido</surname>
                     </author>
                     <title level="a">An Arabic Fragmentary Epistle to the Galatians Preserved in El Escorial Cod. Ar. 1625</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/6MWRJ9A2</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/6MWRJ9A2</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/6MWRJ9A2</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/6MWRJ9A2</idno>
                     <ref target="https://www.zotero.org/groups/974181/humarec/items/collectionKey/AKUC3KMN/itemKey/X346ES4U"/>
@@ -67,12 +67,12 @@
                 </monogr>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/6MWRJ9A2" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/6MWRJ9A2" ref="dcterms:references">
                     <desc>
                         <bibl>Escurial,  Ms. Ar. 1625 and Ms. Ar. 1626, Ms. Ar. 1625</bibl>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/6MWRJ9A2" ref="dc:subject">
+                <relation active="https://biblia-arabica.com/bibl/6MWRJ9A2" ref="dc:subject">
                     <desc>Galatians</desc>
                 </relation>
             </listRelation>

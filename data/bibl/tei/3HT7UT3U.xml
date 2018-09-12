@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <editor role="creator" ref="https://www.zotero.org/Robert">Robert</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3HT7UT3U/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3HT7UT3U/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Garland</surname>
                     </author>
                     <title level="m">An Arabic Version of the Gospel According to Mark [Sin. ar. 72]</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3HT7UT3U</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3HT7UT3U</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3HT7UT3U</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3HT7UT3U</idno>
                     <imprint>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,7 +75,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -86,7 +86,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -97,7 +97,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -108,10 +108,10 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3HT7UT3U" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/3HT7UT3U" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
                 </relation>
             </listRelation>

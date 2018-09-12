@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/PPD2K3VH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Arnold</surname>
                     </author>
                     <title level="m">The Old and New Testaments in Muslim religious art</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/PPD2K3VH</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PPD2K3VH</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/PPD2K3VH</idno>
                     <ref target="https://archive.org/details/in.ernet.dli.2015.283572"/>
@@ -60,7 +60,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/PPD2K3VH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -71,7 +71,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPD2K3VH" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dc:subject" type="subject">
                     <desc>Art, paleography, codicology</desc>
                 </relation>
             </listRelation>

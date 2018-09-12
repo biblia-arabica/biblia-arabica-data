@@ -64,7 +64,7 @@
             <publicationStmt>
                 <pubPlace/>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/manuscript/1/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/manuscript/1/tei</idno>
                 <availability>
                     <p/>
                     <licence target="http://creativecommons.org/licenses/by/3.0/">
@@ -82,7 +82,7 @@
                         <settlement>Berlin</settlement>
                         <repository>Staatsbibliothek</repository>
                         <collection>Mss. Orient.</collection>
-                        <idno type="URI">http://biblia-arabica.com/manuscript/1</idno>
+                        <idno type="URI">https://biblia-arabica.com/manuscript/1</idno>
                         <altIdentifier>
                             <idno type="shelfmark">Fol. 534</idno>
                         </altIdentifier>

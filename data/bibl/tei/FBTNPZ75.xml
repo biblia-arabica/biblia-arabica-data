@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sara_schulthess">Sara Schulthess</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/FBTNPZ75/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/FBTNPZ75/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Monferrer-Sala</surname>
                     </author>
                     <title level="a">An Arabic Fragment of the Gospel of Mark Preserved in Ms 4971 BNM</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/FBTNPZ75</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/FBTNPZ75</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/FBTNPZ75</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/FBTNPZ75</idno>
                 </analytic>
@@ -59,10 +59,10 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="book">
                     <desc>Mark</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/FBTNPZ75" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -73,13 +73,13 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="source">
+                <relation active="https://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="source">
                     <desc>Latin</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/FBTNPZ75" ref="dc:subject" type="translator">
                     <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>

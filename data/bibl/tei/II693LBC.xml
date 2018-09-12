@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/II693LBC/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/II693LBC/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Gibson</surname>
                     </author>
                     <title level="m">How The Codex Was Found</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/II693LBC</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/II693LBC</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/II693LBC</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/II693LBC</idno>
                     <imprint>

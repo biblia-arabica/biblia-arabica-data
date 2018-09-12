@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/Q99DDZ9X/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/Q99DDZ9X/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Ciasca</surname>
                     </author>
                     <title level="m">Tatiani Evangeliorum Harmoniae Arabice</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/Q99DDZ9X</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/Q99DDZ9X</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/Q99DDZ9X</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/Q99DDZ9X</idno>
                     <ref target="https://archive.org/stream/Ciasca1888TatianiEvangeliorumHarmoniae.../Ciasca%201888_Tatiani%20Evangeliorum%20Harmoniae...#page/n5/mode/2up"/>
@@ -60,7 +60,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/Q99DDZ9X" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Q99DDZ9X" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -71,7 +71,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q99DDZ9X" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q99DDZ9X" ref="dc:subject" type="subject">
                     <desc>Diatesseron</desc>
                 </relation>
             </listRelation>

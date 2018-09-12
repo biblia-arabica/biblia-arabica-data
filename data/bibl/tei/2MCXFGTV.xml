@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/ioppolo">Ioppolo</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/2MCXFGTV/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/2MCXFGTV/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Ben-Shammai</surname>
                     </author>
                     <title level="a">הקדמת ר' סעדיה גאון לישעיה - מבוא לספרי הנביאים ||  Saadya's Introduction to Isaiah as an Introduction to the Books of the Prophets</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/2MCXFGTV</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/2MCXFGTV</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/2MCXFGTV</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/2MCXFGTV</idno>
                     <ref target="http://www.jstor.org/stable/23598322"/>
@@ -68,16 +68,16 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="book">
                     <desc>Isaiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="section">
                     <desc>Prophets</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/2MCXFGTV" ref="dc:subject" type="translator">
                     <desc>Saadiah Gaon</desc>
                 </relation>
             </listRelation>

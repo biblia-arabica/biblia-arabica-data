@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/Peter">Peter</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/T9ANSMUZ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/T9ANSMUZ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Griffith</surname>
                     </author>
                     <title level="m">The Church in the Shadow of the Mosque: Christians and Muslims in the World of Islam</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/T9ANSMUZ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/T9ANSMUZ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/T9ANSMUZ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/T9ANSMUZ</idno>
                     <ref target="https://books.google.de/books?id=jn-tiP0b-PYC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"/>
@@ -65,7 +65,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/T9ANSMUZ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/T9ANSMUZ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -76,16 +76,16 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
                     <desc>Fī Tathlīth Allāh al-Wāḥid (On the Triune Nature of God)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
                     <desc>Peter of Bayt Raʾs (Kitāb al-Burhān)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/T9ANSMUZ" ref="dc:subject" type="subject">
                     <desc>Summa Theologiae Arabica</desc>
                 </relation>
             </listRelation>

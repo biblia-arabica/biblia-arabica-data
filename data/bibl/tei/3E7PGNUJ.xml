@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sara_schulthess">Sara Schulthess</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3E7PGNUJ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3E7PGNUJ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname>Teule</surname>
                     </editor>
                     <title level="a">A Neglected Witness to the East Syriac New Testament Commentary Tradition: Sinai Arabic MS 151</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3E7PGNUJ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3E7PGNUJ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3E7PGNUJ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3E7PGNUJ</idno>
                     <ref target="https://www.zotero.org/groups/974181/humarec/items/collectionKey/AKUC3KMN/itemKey/KV2UPK72"/>
@@ -67,12 +67,12 @@
                 </monogr>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3E7PGNUJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3E7PGNUJ" ref="dcterms:references">
                     <desc>
                         <bibl>Sinai Ar. 151</bibl>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3E7PGNUJ" ref="dc:subject">
+                <relation active="https://biblia-arabica.com/bibl/3E7PGNUJ" ref="dc:subject">
                     <desc>New Testament</desc>
                 </relation>
             </listRelation>

@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3NHHNSSR/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3NHHNSSR/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Delcor</surname>
                     </author>
                     <title level="a">Testaments d’Abraham. Introduction, traduction du texte grec et commentaire de la recension grecque longue, suivie de la traduction des Testaments d’Abraham, d’Isaac et de Jacob d’après les versions orientales</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3NHHNSSR</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3NHHNSSR</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3NHHNSSR</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3NHHNSSR</idno>
                 </analytic>
@@ -64,7 +64,7 @@ Ar. 132 (by Marius Chaîne).</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3NHHNSSR" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3NHHNSSR" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,10 +75,10 @@ Ar. 132 (by Marius Chaîne).</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3NHHNSSR" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/3NHHNSSR" ref="dc:subject" type="part">
                     <desc>Apocrypha</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3NHHNSSR" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/3NHHNSSR" ref="dc:subject" type="part">
                     <desc>Pseudepigrapha</desc>
                 </relation>
             </listRelation>

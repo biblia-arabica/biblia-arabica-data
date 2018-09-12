@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/Robert">Robert</editor>
@@ -28,7 +28,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/257WGZQD/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/257WGZQD/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -53,7 +53,7 @@
                         <surname>Fleischer</surname>
                     </author>
                     <title level="a">Beschreibung der von Prof. Dr. Tischendorf im J. 1853 aus dem Morgenlande zurückgebrachten christlich-arabischen Handschriften</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/257WGZQD</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/257WGZQD</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/257WGZQD</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/257WGZQD</idno>
                 </analytic>
@@ -69,7 +69,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -80,7 +80,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -91,7 +91,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -102,13 +102,13 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/257WGZQD" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

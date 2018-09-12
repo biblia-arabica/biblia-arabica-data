@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Robert">Robert</editor>
                 <editor role="creator" ref="https://www.zotero.org/Vevian">Vevian</editor>
@@ -28,7 +28,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/9ZWPDCH7/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/9ZWPDCH7/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -57,7 +57,7 @@
                         <surname>Hjälm</surname>
                     </editor>
                     <title level="a">What Hath Rome to do with Seville? Exploring the Latin-to-Arabic Translation of the Gospel of Matthew in Ibn Barrajān’s (d. 536/1141) Qurʾān Commentary</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/9ZWPDCH7</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/9ZWPDCH7</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/9ZWPDCH7</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/9ZWPDCH7</idno>
                     <ref target="http://doi.org/10.1163/9789004347403_011"/>
@@ -75,10 +75,10 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="book">
                     <desc>Matthew</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -89,7 +89,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -100,7 +100,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -111,7 +111,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -122,7 +122,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -133,7 +133,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -144,7 +144,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -155,7 +155,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -166,7 +166,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -177,7 +177,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -188,7 +188,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -199,7 +199,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -210,7 +210,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -221,7 +221,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -232,7 +232,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -243,19 +243,19 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="subject">
                     <desc>Ibn Barrajān</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="subject">
                     <desc>Muslim reception</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/9ZWPDCH7" ref="dc:subject" type="translator">
                     <desc>Isaak Velasquez</desc>
                 </relation>
             </listRelation>

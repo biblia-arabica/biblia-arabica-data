@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <editor role="creator" ref="https://www.zotero.org/Ronny">Ronny</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/NEPDMG3G/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/NEPDMG3G/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -56,7 +56,7 @@
                         <surname>Zaborski</surname>
                     </editor>
                     <title level="a">Energicus in Saadya Gaon’s Translation of the Pentateuch</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/NEPDMG3G</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/NEPDMG3G</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/NEPDMG3G</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/NEPDMG3G</idno>
                     <ref target="https://books.google.de/books?id=r5ZsP-b3670C&amp;lpg=PA223&amp;ots=dR6oVqtWUD&amp;dq=energicus%20zewi%202001&amp;lr&amp;hl=de&amp;pg=PA223#v=onepage&amp;q&amp;f=false"/>
@@ -72,10 +72,10 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/NEPDMG3G" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/NEPDMG3G" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NEPDMG3G" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/NEPDMG3G" ref="dc:subject" type="translator">
                     <desc>Saadiah Gaon</desc>
                 </relation>
             </listRelation>

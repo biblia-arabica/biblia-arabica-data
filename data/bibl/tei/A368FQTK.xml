@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/A368FQTK/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/A368FQTK/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Peters</surname>
                     </author>
                     <title level="a">Von arabischen Evangelientexten in Handschriften des Universitäts-Bibliothek Leiden</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/A368FQTK</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/A368FQTK</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/A368FQTK</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/A368FQTK</idno>
                 </analytic>
@@ -56,12 +56,12 @@
                 </monogr>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/A368FQTK" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/A368FQTK" ref="dcterms:references">
                     <desc>
                         <bibl>Paris, BNF, Suppl. Grec. 911</bibl>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/A368FQTK" ref="dc:subject">
+                <relation active="https://biblia-arabica.com/bibl/A368FQTK" ref="dc:subject">
                     <desc>Gospels</desc>
                 </relation>
             </listRelation>

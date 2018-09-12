@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/Miriam">Miriam</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/REAEJIWG/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/REAEJIWG/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Vaccari</surname>
                     </author>
                     <title level="a">Le versioni arabe dei Profeti</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/REAEJIWG</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/REAEJIWG</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/REAEJIWG</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/REAEJIWG</idno>
                     <ref target="https://www.jstor.org/stable/i40096903"/>
@@ -65,52 +65,52 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Amos</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Daniel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Ezekiel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Habakkuk</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Haggai</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Isaiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Jeremiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Joel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Jonah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Malachi</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Micah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Nahum</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Obadiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Zechariah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="book">
                     <desc>Zephaniah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -121,7 +121,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -132,7 +132,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -143,7 +143,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -154,7 +154,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -165,7 +165,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -176,7 +176,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -187,7 +187,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -198,7 +198,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -209,7 +209,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -220,7 +220,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -231,7 +231,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -242,7 +242,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -253,7 +253,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -264,7 +264,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -275,13 +275,13 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="section">
                     <desc>Prophets</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/REAEJIWG" ref="dc:subject" type="subject">
                     <desc>Prophets</desc>
                 </relation>
             </listRelation>

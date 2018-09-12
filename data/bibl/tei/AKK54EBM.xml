@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/AKK54EBM/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/AKK54EBM/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Davidson</surname>
                     </author>
                     <title level="m">A treatise on Biblical criticism: exhibiting a systematic view of that science</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/AKK54EBM</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/AKK54EBM</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/AKK54EBM</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/AKK54EBM</idno>
                     <ref target="https://books.google.de/books?id=0_E_AAAAYAAJ&amp;printsec=frontcover&amp;dq=A+treatise+on+Biblical+criticism:+exhibiting+a+systematic+view+of+that+science&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=A%20treatise%20on%20Biblical%20criticism%3A%20exhibiting%20a%20systematic%20view%20of%20that%20science&amp;f=true"/>
@@ -61,7 +61,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -72,7 +72,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AKK54EBM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -83,7 +83,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AKK54EBM" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/AKK54EBM" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

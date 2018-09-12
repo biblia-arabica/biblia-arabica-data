@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/XC2P5G3C/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/XC2P5G3C/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -55,7 +55,7 @@
                         <surname>Brunner, Earleen</surname>
                     </author>
                     <title level="m">St. Catherine's Monastery at Mount Sinai: It's Manuscripts and their Conservation: Papers Given in Memory of Professor Ihor Ševčenko</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/XC2P5G3C</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/XC2P5G3C</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/XC2P5G3C</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/XC2P5G3C</idno>
                     <imprint>
@@ -69,7 +69,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/XC2P5G3C" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XC2P5G3C" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -80,7 +80,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XC2P5G3C" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/XC2P5G3C" ref="dc:subject" type="subject">
                     <desc>Art, paleography, codicology</desc>
                 </relation>
             </listRelation>

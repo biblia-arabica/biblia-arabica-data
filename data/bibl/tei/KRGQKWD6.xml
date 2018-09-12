@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/Miriam">Miriam</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/KRGQKWD6/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/KRGQKWD6/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Löfgren</surname>
                     </author>
                     <title level="m">Studien zu den arabischen Danielübersetzungen mit besonderer Berücksichtigung der christlichen Texte. Nebst einem Beitrag zur Kritik des Peschittatextes</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/KRGQKWD6</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/KRGQKWD6</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/KRGQKWD6</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/KRGQKWD6</idno>
                     <imprint>
@@ -65,10 +65,10 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="book">
                     <desc>Daniel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -79,7 +79,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -90,7 +90,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -101,7 +101,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -112,7 +112,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -123,7 +123,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -134,7 +134,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -145,7 +145,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -156,7 +156,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -167,7 +167,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -178,7 +178,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -189,7 +189,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -200,7 +200,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -211,7 +211,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -222,7 +222,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -233,7 +233,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -244,7 +244,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -255,7 +255,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -266,7 +266,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -277,7 +277,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -288,7 +288,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -299,7 +299,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -310,7 +310,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -321,7 +321,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -332,7 +332,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -343,7 +343,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -354,7 +354,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -365,7 +365,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -376,7 +376,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -387,7 +387,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -398,7 +398,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -409,7 +409,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -420,7 +420,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -431,7 +431,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -442,7 +442,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -453,7 +453,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -464,7 +464,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -475,7 +475,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -486,7 +486,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -497,7 +497,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -508,7 +508,7 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -519,19 +519,19 @@ translations of Daniel, extracts from Daniel chapters 1 and 3 from several versi
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="section">
                     <desc>Prophets</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="subject">
                     <desc>Prophets</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="translator">
                     <desc>Pethion b. Ayyūb</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/KRGQKWD6" ref="dc:subject" type="translator">
                     <desc>al-ʿAlam</desc>
                 </relation>
             </listRelation>

@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/JSHNRAHZ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/JSHNRAHZ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Drint</surname>
                     </author>
                     <title level="a">Some Notes on the Arabic Versions of IV Ezra and the Apocalypse of Baruch in Ms Mount Sinai Arabic 589</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/JSHNRAHZ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/JSHNRAHZ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/JSHNRAHZ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/JSHNRAHZ</idno>
                     <ref target="http://hdl.handle.net/2042/35316"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/JSHNRAHZ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/JSHNRAHZ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,10 +75,10 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/JSHNRAHZ" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/JSHNRAHZ" ref="dc:subject" type="part">
                     <desc>Apocrypha</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/JSHNRAHZ" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/JSHNRAHZ" ref="dc:subject" type="part">
                     <desc>Pseudepigrapha</desc>
                 </relation>
             </listRelation>

@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/tarras">Tarras</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/NMVEUBSN/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/NMVEUBSN/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Hjälm</surname>
                     </editor>
                     <title level="a">The Spirit Before the Letter: Theodore Abū Qurra’s Use of Biblical Quotations in the Context of Early Christian Arabic Apologetics</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/NMVEUBSN</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/NMVEUBSN</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/NMVEUBSN</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/NMVEUBSN</idno>
                     <ref target="https://doi.org/10.1163/9789004347403_005"/>
@@ -69,7 +69,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -80,7 +80,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -91,7 +91,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -102,7 +102,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -113,7 +113,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -124,7 +124,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/NMVEUBSN" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/NMVEUBSN" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
             </listRelation>

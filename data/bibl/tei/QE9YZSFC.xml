@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/QE9YZSFC/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/QE9YZSFC/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Polliack</surname>
                     </author>
                     <title level="a">Alternate Renderings and Additions in Yeshu‘ah ben Yehudah’s Arabic Translation of the Pentateuch</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/QE9YZSFC</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/QE9YZSFC</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/QE9YZSFC</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/QE9YZSFC</idno>
                     <ref target="http://www.jstor.org.0011f5no0116.emedia1.bsb-muenchen.de/stable/1455354?origin=crossref&amp;seq=1#page_scan_tab_contents"/>
@@ -59,7 +59,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/QE9YZSFC" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/QE9YZSFC" ref="dc:subject" type="subject">
                     <desc>YbY</desc>
                 </relation>
             </listRelation>

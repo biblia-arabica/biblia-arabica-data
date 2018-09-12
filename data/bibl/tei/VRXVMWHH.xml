@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/VRXVMWHH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/VRXVMWHH/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Saliba</surname>
                     </author>
                     <title level="a">The Bible in Arabic: The 19th Century Protestant Translation</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/VRXVMWHH</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/VRXVMWHH</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/VRXVMWHH</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/VRXVMWHH</idno>
                     <ref target="http://onlinelibrary.wiley.com.0013900a0389.emedia1.bsb-muenchen.de/doi/10.1111/j.1478-1913.1975.tb03175.x/epdf"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,7 +75,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -86,7 +86,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -97,7 +97,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -108,7 +108,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -119,7 +119,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -130,7 +130,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -141,7 +141,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VRXVMWHH" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/VRXVMWHH" ref="dc:subject" type="subject">
                     <desc>London Polyglot</desc>
                 </relation>
             </listRelation>

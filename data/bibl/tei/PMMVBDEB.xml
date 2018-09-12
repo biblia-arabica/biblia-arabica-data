@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/PMMVBDEB/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/PMMVBDEB/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Fabricius</surname>
                     </author>
                     <title level="m">S. Hippolyti Episcopi et Martyris Operum Volum. II. inedita hactenus nonnulla illius complexum, Græce alia cum latina interpretatione: alia Arabice, litteris descripta syriacis ex catena in Pentateuchum MS. Bibl. Bodlej. cum versione V. C. Joann Gagnierii. Accedit Spicilegium Patrum, quorundam aliorum tertii a Christo nato sæculi atque in hoc Leonis Allatii Diatriba de Methodiis ac Methodiorum scriptis et Claudii Salmasii commentarius inchoatus in Arnobium nunc primum editus. Denique Appendicis loco Chalcidius in Timæum Platonis Philosophi</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/PMMVBDEB</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/PMMVBDEB</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PMMVBDEB</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/PMMVBDEB</idno>
                     <imprint>
@@ -58,7 +58,7 @@ Studies, University of Oxford.</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/PMMVBDEB" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/PMMVBDEB" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -69,10 +69,10 @@ Studies, University of Oxford.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PMMVBDEB" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/PMMVBDEB" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PMMVBDEB" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/PMMVBDEB" ref="dc:subject" type="subject">
                     <desc>Pentateuch Catena</desc>
                 </relation>
             </listRelation>

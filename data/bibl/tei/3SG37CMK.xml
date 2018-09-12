@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/sara_schulthess">Sara Schulthess</editor>
                 <editor role="creator" ref="https://www.zotero.org/Vevian">Vevian</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3SG37CMK/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3SG37CMK/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Schulthess</surname>
                     </author>
                     <title level="m">Les manuscrits arabes des lettres de Paul. La reprise d'un champ de recherche négligé.</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3SG37CMK</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3SG37CMK</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3SG37CMK</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3SG37CMK</idno>
                     <ref target="http://repository.ubn.ru.nl/handle/2066/159141"/>
@@ -64,13 +64,13 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/3SG37CMK" ref="dc:subject" type="subject">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

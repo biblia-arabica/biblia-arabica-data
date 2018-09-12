@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/B8H5Z78N/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/B8H5Z78N/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>White</surname>
                     </author>
                     <title level="m">A letter to the Right Reverend the Lord Bishop of London, Suggesting a Plan for a New Edition of the LXX. To which are added Specimens of some inedited Eastern Versions made from the Greek, and a Sketch of a Chart of Greek Mss. By the Rev. Joseph White, B.D. Fellow of Wadham College, Laudian Professor of Arabic, one of His Majesty's Preachers at Whitehall; and Editor and Translator of the Syriac Philoxenian Version of the Gospels</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/B8H5Z78N</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/B8H5Z78N</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/B8H5Z78N</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/B8H5Z78N</idno>
                     <imprint>
@@ -62,7 +62,7 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/B8H5Z78N" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8H5Z78N" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -73,7 +73,7 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8H5Z78N" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8H5Z78N" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -84,10 +84,10 @@ al-Ḥārith’s introduction, as preserved in the two copies of the Bodleian Li
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8H5Z78N" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/B8H5Z78N" ref="dc:subject" type="subject">
                     <desc>Pentateuch Catena</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8H5Z78N" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/B8H5Z78N" ref="dc:subject" type="translator">
                     <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
             </listRelation>

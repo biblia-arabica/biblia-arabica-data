@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/D43KMCKU/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/D43KMCKU/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Frank</surname>
                     </author>
                     <title level="m">The Wisdom of Jesus Ben Sirach (Sinai ar. 155 IX-X cent.)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/D43KMCKU</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/D43KMCKU</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/D43KMCKU</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/D43KMCKU</idno>
                     <imprint>
@@ -65,7 +65,7 @@ Sira, as based on Ms. Sinai, Ar. 155.</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/D43KMCKU" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/D43KMCKU" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -76,7 +76,7 @@ Sira, as based on Ms. Sinai, Ar. 155.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/D43KMCKU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/D43KMCKU" ref="dc:subject" type="subject">
                     <desc>Editions, Chrestomathies</desc>
                 </relation>
             </listRelation>
