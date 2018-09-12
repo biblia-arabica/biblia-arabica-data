@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/L3WIUU5W/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/L3WIUU5W/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Hjälm</surname>
                     </editor>
                     <title level="a">Ismāʿīl Qazvīnī: A Twelfth/Eighteenth-Century Jewish Convert to Imāmī Šīʿism and His Critique of Ibn Ezra’s Commentary on the Four Kingdoms (Daniel 2:31–45)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/L3WIUU5W</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/L3WIUU5W</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/L3WIUU5W</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/L3WIUU5W</idno>
                     <ref target="http://doi.org/10.1163/9789004347403_013"/>

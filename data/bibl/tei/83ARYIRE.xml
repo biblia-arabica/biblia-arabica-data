@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/83ARYIRE/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/83ARYIRE/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Morozov</surname>
                     </author>
                     <title level="a">Aleksandrijskaja Era v Ierusalime IX v.: K datirovke Porfirjevskoj Psaltiri” [The Alexandrian Era in Jerusalem in the Ninth Century and the Date of Porfirij Uspenskij’s Psalter]</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/83ARYIRE</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/83ARYIRE</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/83ARYIRE</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/83ARYIRE</idno>
                 </analytic>
@@ -59,7 +59,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/83ARYIRE" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/83ARYIRE" ref="dc:subject" type="section">
                     <desc>Sapiential Books</desc>
                 </relation>
             </listRelation>

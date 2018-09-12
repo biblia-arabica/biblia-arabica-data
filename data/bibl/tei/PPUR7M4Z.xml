@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/Vevian">Vevian</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/PPUR7M4Z/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/PPUR7M4Z/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname/>
                     </editor>
                     <title level="m">Philippians - Philemon</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/PPUR7M4Z</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/PPUR7M4Z</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PPUR7M4Z</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/PPUR7M4Z</idno>
                     <imprint>
@@ -63,34 +63,34 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
                     <desc>Colossians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
                     <desc>Philemon</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
                     <desc>Philippians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="book">
                     <desc>Titus</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
                     <desc>1-2 Thessalonians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
                     <desc>1-2 Timothy</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Jesuit Bible (1876-1880)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/PPUR7M4Z" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Reed and Swanson (1925)</desc>
                 </relation>
             </listRelation>

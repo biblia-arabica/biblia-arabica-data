@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/VQ5A6QAR/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/VQ5A6QAR/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>North</surname>
                     </editor>
                     <title level="m">The Book of Thousand Tongues. Being Some Account of the Translation and Publication of All or Part of the Holy Scriptures into more than Thousand Languages and Dialects with over 1100 Examples from the Text</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/VQ5A6QAR</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/VQ5A6QAR</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/VQ5A6QAR</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/VQ5A6QAR</idno>
                     <imprint>
@@ -55,7 +55,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/VQ5A6QAR" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VQ5A6QAR" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -66,7 +66,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VQ5A6QAR" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/VQ5A6QAR" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

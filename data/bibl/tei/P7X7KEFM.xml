@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Peter">Peter</editor>
@@ -28,7 +28,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/P7X7KEFM/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/P7X7KEFM/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -53,7 +53,7 @@
                         <surname>Graf</surname>
                     </author>
                     <title level="a">Ein bisher unbekanntes Werk des Patriarchen Eutychios von Alexandrien</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/P7X7KEFM</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/P7X7KEFM</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/P7X7KEFM</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/P7X7KEFM</idno>
                 </analytic>
@@ -68,7 +68,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -79,7 +79,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -90,7 +90,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -101,7 +101,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -112,7 +112,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -123,7 +123,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -134,7 +134,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -145,7 +145,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -156,7 +156,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -167,10 +167,10 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/P7X7KEFM" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/P7X7KEFM" ref="dc:subject" type="subject">
                     <desc>Peter of Bayt Raʾs (Kitāb al-Burhān)</desc>
                 </relation>
             </listRelation>

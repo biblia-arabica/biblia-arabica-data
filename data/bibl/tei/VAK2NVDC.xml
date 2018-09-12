@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/VAK2NVDC/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/VAK2NVDC/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Breydy</surname>
                     </author>
                     <title level="a">Les commentaires bibliques de Marcos Ibn Qanbar n'appartiennent ni à St. Ephrem ni au patrimoine liturgique des Maronites</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/VAK2NVDC</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/VAK2NVDC</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/VAK2NVDC</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/VAK2NVDC</idno>
                 </analytic>
@@ -63,7 +63,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -74,7 +74,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -85,7 +85,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -96,7 +96,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -107,7 +107,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -118,7 +118,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/VAK2NVDC" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/VAK2NVDC" ref="dc:subject" type="translator">
                     <desc>Marqus b. al-Qunbar</desc>
                 </relation>
             </listRelation>

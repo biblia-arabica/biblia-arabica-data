@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/Z3UCZR6S/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/Z3UCZR6S/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -55,7 +55,7 @@
                         <surname>Castillo</surname>
                     </editor>
                     <title level="a">Manuscritos árabes cristianos en España: Notas preleminares</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/Z3UCZR6S</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/Z3UCZR6S</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/Z3UCZR6S</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/Z3UCZR6S</idno>
                 </analytic>
@@ -71,7 +71,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -82,7 +82,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -93,7 +93,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -104,7 +104,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -115,7 +115,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -126,7 +126,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -137,7 +137,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -148,7 +148,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -159,19 +159,19 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
                     <desc>Isaak Velasquez</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
                     <desc>Saadiah Gaon</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
                     <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/Z3UCZR6S" ref="dc:subject" type="translator">
                     <desc>Ḥafṣ ibn Albar al-Qūṭī al-Qurṭubī</desc>
                 </relation>
             </listRelation>

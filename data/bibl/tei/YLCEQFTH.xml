@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/YLCEQFTH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/YLCEQFTH/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Ben-Shammai</surname>
                     </author>
                     <title level="a">[Review of: Alobaidi, Joseph, Le commentaire des Psaumes par le qaraïte Salmon ben Yeruham: Psaumes 1–10; introduction, édition, traduction, La Bible dans l’histoire: Textes et études 1 (1996)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/YLCEQFTH</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/YLCEQFTH</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/YLCEQFTH</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/YLCEQFTH</idno>
                 </analytic>
@@ -63,7 +63,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -74,7 +74,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -85,19 +85,19 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="provenance">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="provenance">
                     <desc>Qaraite</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="source">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="source">
                     <desc>Hebrew</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="subject">
                     <desc>Psalms</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/YLCEQFTH" ref="dc:subject" type="translator">
                     <desc>Salmon ben Yeruham</desc>
                 </relation>
             </listRelation>

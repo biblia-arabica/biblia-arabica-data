@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/XZ8IC63B/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/XZ8IC63B/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Klostermann</surname>
                     </author>
                     <title level="a">Ezra und Nehemia</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/XZ8IC63B</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/XZ8IC63B</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/XZ8IC63B</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/XZ8IC63B</idno>
                 </analytic>
@@ -65,7 +65,7 @@ Nehemia, as found in the Polyglots.</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -76,7 +76,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -87,7 +87,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -98,7 +98,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -109,7 +109,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -120,7 +120,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -131,7 +131,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -142,7 +142,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -153,7 +153,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -164,7 +164,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -175,7 +175,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -186,7 +186,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -197,7 +197,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -208,7 +208,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -219,7 +219,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -230,7 +230,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -241,7 +241,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -252,7 +252,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -263,7 +263,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -274,7 +274,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -285,7 +285,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -296,7 +296,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -307,7 +307,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -318,7 +318,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -329,7 +329,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -340,7 +340,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -351,7 +351,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -362,7 +362,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -373,7 +373,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -384,7 +384,7 @@ Nehemia, as found in the Polyglots.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XZ8IC63B" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/XZ8IC63B" ref="dc:subject" type="section">
                     <desc>Historical Books</desc>
                 </relation>
             </listRelation>

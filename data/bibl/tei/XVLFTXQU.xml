@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/XVLFTXQU/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/XVLFTXQU/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -79,7 +79,7 @@
                         <surname>Tarin</surname>
                     </editor>
                     <title level="m">Biblia 1. hebraica, 2. samaritana, 3. chaldaica, 4. graeca, 5. syriaca, 6. latina, 7. arabica . Quibus textus originales totius Scripturae sacrae, quorum pars in editione complutensi, deinde in Antverpiensi regiis sumptibus extat, nunc integri, ex manuscriptis toto ferè orbe quaesitis exemplaribus, exhibentur...</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/XVLFTXQU</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/XVLFTXQU</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/XVLFTXQU</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/XVLFTXQU</idno>
                     <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k314413n/f10.image"/>
@@ -91,13 +91,13 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/XVLFTXQU" ref="dc:subject" type="subject">
                     <desc>Historic Printings: de Jay et al. (1629-45)</desc>
                 </relation>
             </listRelation>

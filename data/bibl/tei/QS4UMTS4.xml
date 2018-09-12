@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/rvollandt">rvollandt</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/QS4UMTS4/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/QS4UMTS4/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -55,7 +55,7 @@
                         <surname>48-49</surname>
                     </author>
                     <title level="m">The Mount Sinai Arabic Version of IV Ezra</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/QS4UMTS4</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/QS4UMTS4</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/QS4UMTS4</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/QS4UMTS4</idno>
                     <imprint>
@@ -68,7 +68,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -79,7 +79,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -90,7 +90,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -101,7 +101,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -112,7 +112,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -123,7 +123,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -134,7 +134,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -145,7 +145,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -156,7 +156,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -167,7 +167,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -178,7 +178,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -189,7 +189,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -200,7 +200,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -211,7 +211,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/QS4UMTS4" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/QS4UMTS4" ref="dc:subject" type="subject">
                     <desc>Editions, Chrestomathies</desc>
                 </relation>
             </listRelation>

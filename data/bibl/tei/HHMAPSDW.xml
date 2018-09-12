@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/HHMAPSDW/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/HHMAPSDW/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -46,7 +46,7 @@
                         <surname>Ben-Shammai</surname>
                     </editor>
                     <title level="a">“עיונים במסורת הנוסח של תרגומי יפת בן עלי למקרא” [Reflections on the Transmission Tradition of Yefet ben ʿEli’s Bible Translations]</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/HHMAPSDW</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/HHMAPSDW</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/HHMAPSDW</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/HHMAPSDW</idno>
                 </analytic>
@@ -62,7 +62,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -73,7 +73,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -84,7 +84,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -95,7 +95,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -106,7 +106,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -117,7 +117,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -128,7 +128,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -139,7 +139,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -150,7 +150,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -161,7 +161,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -172,7 +172,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -183,7 +183,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -194,28 +194,28 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="provenance">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="provenance">
                     <desc>Qaraite</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="source">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="source">
                     <desc>Hebrew</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Daniel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Isaiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Old Testemant</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Song of Songs</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="subject">
                     <desc>Zachariah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/HHMAPSDW" ref="dc:subject" type="translator">
                     <desc>Yefet ben Eli</desc>
                 </relation>
             </listRelation>

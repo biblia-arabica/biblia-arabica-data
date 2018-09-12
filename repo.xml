@@ -2,7 +2,7 @@
 <meta xmlns="http://exist-db.org/xquery/repo">
     <description>TEI data used by Biblia Arabica srophe-eXist-app</description>
     <author>Biblia Arabica</author>
-    <website>http://biblia-arabica.com/</website>
+    <website>https://biblia-arabica.com/</website>
     <status>alpha</status>
     <license>?</license>
     <copyright>true</copyright>

@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3R3ZY84N/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3R3ZY84N/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname>Macbride</surname>
                     </author>
                     <title level="m">The Psalter</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3R3ZY84N</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3R3ZY84N</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3R3ZY84N</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3R3ZY84N</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/266071605</idno>
@@ -64,16 +64,16 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="book">
                     <desc>Psalms</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="subject">
                     <desc>Historic Printings: al-Anṭākī and Macbride (1819)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/3R3ZY84N" ref="dc:subject" type="subject">
                     <desc>Psalms</desc>
                 </relation>
             </listRelation>

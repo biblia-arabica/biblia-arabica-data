@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Peter">Peter</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/IMXCU2DV/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/IMXCU2DV/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -56,7 +56,7 @@
                         <surname>Thomas</surname>
                     </editor>
                     <title level="a">The Development of Testimony Collections in Early Christian Apologetics with Islam</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/IMXCU2DV</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/IMXCU2DV</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/IMXCU2DV</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/IMXCU2DV</idno>
                     <ref target="https://books.google.de/books?id=NdM-kRoTzxEC&amp;printsec=frontcover&amp;hl=de&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false"/>
@@ -73,7 +73,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/IMXCU2DV" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/IMXCU2DV" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -84,10 +84,10 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IMXCU2DV" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/IMXCU2DV" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IMXCU2DV" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/IMXCU2DV" ref="dc:subject" type="subject">
                     <desc>Testimonia</desc>
                 </relation>
             </listRelation>

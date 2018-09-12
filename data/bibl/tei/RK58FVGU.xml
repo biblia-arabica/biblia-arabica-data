@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/paula.lucia.rail1995">Paula.Lucia.Rail1995</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/RK58FVGU/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/RK58FVGU/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Adler</surname>
                     </author>
                     <title level="m">Bibliotheca Biblica. Serenissimi Würtenbergensium Ducis olim Lorckiana</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/RK58FVGU</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/RK58FVGU</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/RK58FVGU</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/RK58FVGU</idno>
                     <ref target="https://books.google.de/books?id=54b46CzohmUC&amp;printsec=frontcover&amp;dq=Bibliotheca+Biblica.+Serenissimi+W%C3%BCrtenbergensium+Ducis+olim+Lorckiana&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=Bibliotheca%20Biblica.%20Serenissimi%20W%C3%BCrtenbergensium%20Ducis%20olim%20Lorckiana&amp;f=true"/>

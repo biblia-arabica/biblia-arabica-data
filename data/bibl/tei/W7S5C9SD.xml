@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/W7S5C9SD/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/W7S5C9SD/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Hwiid</surname>
                     </editor>
                     <title level="m">Specimen ineditae versionis Arabico-Samaritanae, Pentateuchi e codice manuscripto Bibliothecae Barberinae edidit et animadversiones adjecit Andreas Christianus Hwiid Hauniensis</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/W7S5C9SD</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/W7S5C9SD</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/W7S5C9SD</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/W7S5C9SD</idno>
                     <ref target="https://books.google.de/books?id=o5EjZ3Ul-iEC&amp;pg=PA1&amp;lpg=PA1&amp;dq=Specimen+ineditae+versionis+Arabico-Samaritanae,+Pentateuchi+e+codice+manuscripto+Bibliothecae+Barberinae+edidit+et+animadversiones+adjecit+Andreas+Christianus+Hwiid+Hauniensis&amp;source=bl&amp;ots=lhtxAJZCH-&amp;sig=E-OJf_MPqvGTfIRkCKQ9QnVf_2w&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwi74d_ml_HXAhXKvRQKHUgkBNgQ6AEILzAC#v=onepage&amp;q=Specimen%20ineditae%20versionis%20Arabico-Samaritanae%2C%20Pentateuchi%20e%20codice%20manuscripto%20Bibliothecae%20Barberinae%20edidit%20et%20animadversiones%20adjecit%20Andreas%20Christianus%20Hwiid%20Hauniensis&amp;f=false"/>
@@ -56,31 +56,31 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
                     <desc>Deuteronomy</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
                     <desc>Exodus</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
                     <desc>Genesis</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
                     <desc>Leviticus</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="book">
                     <desc>Numbers</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Hwiid (1750)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/W7S5C9SD" ref="dc:subject" type="subject">
                     <desc>Samaritan</desc>
                 </relation>
             </listRelation>

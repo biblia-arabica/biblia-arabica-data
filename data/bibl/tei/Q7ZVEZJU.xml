@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/Q7ZVEZJU/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/Q7ZVEZJU/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Avishur</surname>
                     </author>
                     <title level="m">תרגום קדום לנביאים אחרונים בערבית־יהודית בבלית וסורית כתב־יד בודליאנה (206 .Hunt .Ms) עם מבוא והערות [A Medieval Translation of the Latter Prophets into Iraqi and Syrian Judaeo-Arabic: The Text of Bodleian Manuscript Hunt. 206 with Introduction and Notes]. vol. 2: Ezekiel and the Minor Prophets</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/Q7ZVEZJU</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/Q7ZVEZJU</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/Q7ZVEZJU</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/Q7ZVEZJU</idno>
                     <imprint>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,58 +75,58 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="provenance">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="provenance">
                     <desc>Qaraite</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="source">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="source">
                     <desc>Hebrew</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Amos</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Ezekiel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Habakkuk</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Haggai</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Hosea</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Isaiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Jeremiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Joel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Jonah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Malachi</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Micah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Nahum</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Obadiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Zachariah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/Q7ZVEZJU" ref="dc:subject" type="subject">
                     <desc>Zephaniah</desc>
                 </relation>
             </listRelation>

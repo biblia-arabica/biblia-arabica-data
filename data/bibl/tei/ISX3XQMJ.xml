@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Peter">Peter</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/ISX3XQMJ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/ISX3XQMJ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -56,7 +56,7 @@
                         <surname>Günter</surname>
                     </editor>
                     <title level="a">Refuting the charge of taḥrīf: Abū Rāʾiṭa (d. ca. 835) and His ‘First Risāla On the Holy Trinity’</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/ISX3XQMJ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/ISX3XQMJ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/ISX3XQMJ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/ISX3XQMJ</idno>
                 </analytic>
@@ -71,7 +71,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -82,7 +82,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -93,7 +93,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -104,7 +104,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -115,7 +115,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -126,7 +126,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -137,7 +137,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -148,7 +148,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ISX3XQMJ" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/ISX3XQMJ" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
             </listRelation>

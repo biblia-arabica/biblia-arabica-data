@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/AMJNDFGQ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/AMJNDFGQ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Bailey</surname>
                     </author>
                     <title level="m">Paul through the Mediterranean Eye: Cultural Studies in I Corinthians</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/AMJNDFGQ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/AMJNDFGQ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/AMJNDFGQ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/AMJNDFGQ</idno>
                     <imprint>
@@ -61,10 +61,10 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="book">
                     <desc>1 Corinthians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,7 +75,7 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -86,7 +86,7 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -97,7 +97,7 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -108,7 +108,7 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -119,7 +119,7 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -130,10 +130,10 @@ from the Hebrew Bible. The Middle Eastern Culture is used to explain some vague 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/AMJNDFGQ" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

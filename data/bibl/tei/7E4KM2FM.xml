@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/7E4KM2FM/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/7E4KM2FM/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Hjälm</surname>
                     </editor>
                     <title level="a">Samaritan Bible Exegesis and its Significance for Judeo-Arabic Studies</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/7E4KM2FM</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/7E4KM2FM</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/7E4KM2FM</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/7E4KM2FM</idno>
                     <ref target="http://doi.org/10.1163/9789004347403_010"/>

@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/Peter">Peter</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/XUIKC7I6/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/XUIKC7I6/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -56,7 +56,7 @@
                         <surname>Tamcke</surname>
                     </editor>
                     <title level="a">Apologetics, catechesis, and the question of audience in 'On the triune nature of God' and three treatises of Theodore Abū Qurrah</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/XUIKC7I6</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/XUIKC7I6</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/XUIKC7I6</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/XUIKC7I6</idno>
                     <ref target="http://menadoc.bibliothek.uni-halle.de/inhouse/content/titleinfo/2374005"/>
@@ -73,13 +73,13 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
                     <desc>Biblical quotations in Christian Arabic writings</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
                     <desc>Fī Tathlīth Allāh al-Wāḥid (On the Triune Nature of God)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/XUIKC7I6" ref="dc:subject" type="subject">
                     <desc>Theodore Abū Qurra</desc>
                 </relation>
             </listRelation>

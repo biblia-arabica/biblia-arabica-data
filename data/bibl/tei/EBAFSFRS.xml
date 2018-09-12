@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/EBAFSFRS/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/EBAFSFRS/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Thacher</surname>
                     </author>
                     <title level="m">Christopher Columbus: his life, his work, his remains</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/EBAFSFRS</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/EBAFSFRS</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/EBAFSFRS</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/EBAFSFRS</idno>
                     <ref target="https://archive.org/details/christophercolu02thacgoog"/>
@@ -63,7 +63,7 @@ the famous gloss on Ps 18:5 that contains the first mention of Christopher Colum
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/EBAFSFRS" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/EBAFSFRS" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Giustiniani (1516)</desc>
                 </relation>
             </listRelation>

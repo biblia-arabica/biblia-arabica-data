@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/IUESJBNM/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/IUESJBNM/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -55,7 +55,7 @@
                         <surname/>
                     </editor>
                     <title level="m">Œuvres complètes de R. Saadia Ben Josef Al-Fayyoûmî. Publiées sous la direction de J. Derenbourg...</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/IUESJBNM</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/IUESJBNM</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/IUESJBNM</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/IUESJBNM</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/4795850472</idno>
@@ -64,52 +64,52 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Daniel</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Deuteronomy</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Exodus</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Genesis</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Isaiah</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Job</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Leviticus</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Numbers</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Proverbs</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="book">
                     <desc>Psalms</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
                     <desc>Historical Books</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
                     <desc>Pentateuch</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
                     <desc>Prophets</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="section">
                     <desc>Sapiential Books</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/IUESJBNM" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Derenbourg et al. (190-)</desc>
                 </relation>
             </listRelation>

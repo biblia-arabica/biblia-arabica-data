@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Vevian">Vevian</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/DB5XZVHD/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/DB5XZVHD/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname>Proverbio</surname>
                     </author>
                     <title level="a">Barb. or. 2 (Psalteriumm pentaglottum)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/DB5XZVHD</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/DB5XZVHD</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/DB5XZVHD</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/DB5XZVHD</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/815950099</idno>
@@ -67,13 +67,13 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="book">
                     <desc>Psalms</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="part">
                     <desc>Old Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/DB5XZVHD" ref="dc:subject" type="subject">
                     <desc>Psalms</desc>
                 </relation>
             </listRelation>

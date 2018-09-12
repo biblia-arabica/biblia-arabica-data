@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/I9VNX4XH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/I9VNX4XH/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -52,7 +52,7 @@
                         <surname>Tisserant</surname>
                     </author>
                     <title level="a">Une feuille arabo-latine de l’épître aux Galates</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/I9VNX4XH</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/I9VNX4XH</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/I9VNX4XH</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/I9VNX4XH</idno>
                     <ref target="http://www-1jstor-1org-10012e5lz05a2.emedia1.bsb-muenchen.de/stable/pdf/44101196.pdf?refreqid=excelsior:a1410edd1696476e3da63df1713839a2"/>
@@ -71,10 +71,10 @@ French translation of Gal. 1:1-15 with commentary.</note>
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="book">
                     <desc>Galatians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -85,7 +85,7 @@ French translation of Gal. 1:1-15 with commentary.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/I9VNX4XH" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -96,10 +96,10 @@ French translation of Gal. 1:1-15 with commentary.</note>
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/I9VNX4XH" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

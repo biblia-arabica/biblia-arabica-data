@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/PCDX2XKE/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/PCDX2XKE/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Wechsler</surname>
                     </author>
                     <title level="a">The Arabic Translation and Commentary of Yefet ben ‘Eli on Proverbs 31:1–9</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/PCDX2XKE</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/PCDX2XKE</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PCDX2XKE</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/PCDX2XKE</idno>
                     <ref target="http://poj.peeters-leuven.be.0012d1no058f.emedia1.bsb-muenchen.de/content.php?url=article&amp;id=234&amp;journal_code=REJ"/>
@@ -59,7 +59,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/PCDX2XKE" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/PCDX2XKE" ref="dc:subject" type="section">
                     <desc>Sapiential Books</desc>
                 </relation>
             </listRelation>

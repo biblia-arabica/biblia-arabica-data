@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sara_schulthess">Sara Schulthess</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/ZEDR43X3/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/ZEDR43X3/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Schulthess</surname>
                     </author>
                     <title level="m">Les manuscrits arabes des lettres de Paul. État de la question et étude de cas (1 Corinthiens dans le Vat. Ar. 13)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/ZEDR43X3</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/ZEDR43X3</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/ZEDR43X3</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/ZEDR43X3</idno>
                     <imprint>
@@ -65,10 +65,10 @@ This work provides an insight into the transmission of the Letters of Paul into 
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="book">
                     <desc>1 Corinthians</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -79,7 +79,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -90,7 +90,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -101,7 +101,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -112,7 +112,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -123,7 +123,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -134,7 +134,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -145,7 +145,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -156,7 +156,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -167,7 +167,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -178,7 +178,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -189,7 +189,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -200,7 +200,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -211,7 +211,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -222,7 +222,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -233,7 +233,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -244,7 +244,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -255,7 +255,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -266,7 +266,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -277,7 +277,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -288,7 +288,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -299,7 +299,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -310,7 +310,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -321,7 +321,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -332,7 +332,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -343,7 +343,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -354,7 +354,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -365,7 +365,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -376,7 +376,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -387,7 +387,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -398,7 +398,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -409,7 +409,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -420,7 +420,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -431,7 +431,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -442,7 +442,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -453,7 +453,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -464,7 +464,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -475,7 +475,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -486,7 +486,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -497,7 +497,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -508,7 +508,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -519,7 +519,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -530,7 +530,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -541,7 +541,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -552,7 +552,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -563,7 +563,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -574,7 +574,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -585,7 +585,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -596,7 +596,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -607,7 +607,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -618,7 +618,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -629,7 +629,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -640,7 +640,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -651,7 +651,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -662,7 +662,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -673,7 +673,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -684,7 +684,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -695,7 +695,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -706,7 +706,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -717,7 +717,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -728,7 +728,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -739,7 +739,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -750,7 +750,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -761,7 +761,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -772,7 +772,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -783,7 +783,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -794,7 +794,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -805,7 +805,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -816,7 +816,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -827,7 +827,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -838,7 +838,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -849,7 +849,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -860,7 +860,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -871,7 +871,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -882,7 +882,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -893,7 +893,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -904,7 +904,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -915,7 +915,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -926,7 +926,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -937,7 +937,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -948,7 +948,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -959,7 +959,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -970,7 +970,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -981,7 +981,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -992,7 +992,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1003,7 +1003,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1014,7 +1014,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1025,7 +1025,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1036,7 +1036,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1047,7 +1047,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1058,7 +1058,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1069,7 +1069,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1080,7 +1080,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1091,7 +1091,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1102,7 +1102,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1113,7 +1113,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1124,7 +1124,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1135,7 +1135,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1146,7 +1146,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1157,7 +1157,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1168,7 +1168,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1179,7 +1179,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1190,7 +1190,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1201,7 +1201,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1212,7 +1212,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1223,7 +1223,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1234,7 +1234,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1245,7 +1245,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1256,7 +1256,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1267,7 +1267,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1278,7 +1278,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1289,7 +1289,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1300,7 +1300,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1311,7 +1311,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1322,7 +1322,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1333,7 +1333,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1344,7 +1344,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1355,7 +1355,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1366,7 +1366,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1377,7 +1377,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1388,7 +1388,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1399,7 +1399,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1410,7 +1410,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1421,7 +1421,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1432,7 +1432,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1443,7 +1443,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1454,7 +1454,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1465,7 +1465,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1476,7 +1476,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1487,7 +1487,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1498,7 +1498,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1509,7 +1509,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1520,7 +1520,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1531,7 +1531,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1542,7 +1542,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1553,7 +1553,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1564,7 +1564,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1575,7 +1575,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1586,7 +1586,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1597,7 +1597,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1608,7 +1608,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1619,7 +1619,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1630,7 +1630,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1641,7 +1641,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1652,7 +1652,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1663,7 +1663,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1674,7 +1674,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1685,7 +1685,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1696,7 +1696,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1707,7 +1707,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1718,7 +1718,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1729,7 +1729,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1740,7 +1740,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1751,7 +1751,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1762,7 +1762,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1773,7 +1773,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1784,7 +1784,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1795,7 +1795,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1806,7 +1806,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1817,7 +1817,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1828,7 +1828,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1839,7 +1839,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1850,7 +1850,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1861,7 +1861,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1872,7 +1872,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1883,7 +1883,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1894,7 +1894,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1905,7 +1905,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1916,7 +1916,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1927,7 +1927,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1938,7 +1938,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1949,7 +1949,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1960,7 +1960,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1971,7 +1971,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1982,7 +1982,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -1993,7 +1993,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2004,7 +2004,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2015,7 +2015,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2026,7 +2026,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2037,7 +2037,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2048,7 +2048,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2059,7 +2059,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2070,7 +2070,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2081,7 +2081,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2092,7 +2092,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2103,7 +2103,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2114,7 +2114,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2125,7 +2125,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2136,7 +2136,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2147,7 +2147,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2158,7 +2158,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2169,7 +2169,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2180,7 +2180,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2191,7 +2191,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2202,7 +2202,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2213,7 +2213,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2224,7 +2224,7 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -2235,13 +2235,13 @@ This work provides an insight into the transmission of the Letters of Paul into 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/ZEDR43X3" ref="dc:subject" type="subject">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/BK7FTKET/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/BK7FTKET/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Violet</surname>
                     </author>
                     <title level="a">Ein zweisprachiges Psalmenfragment aus Damascus</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/BK7FTKET</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/BK7FTKET</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/BK7FTKET</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/BK7FTKET</idno>
                     <ref target="https://search-1proquest-1com-10012e5t0033f.emedia1.bsb-muenchen.de/docview/1299175477/fulltextPDF/395CF439A3FF49F3PQ/1?accountid=8514"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/BK7FTKET" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/BK7FTKET" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>

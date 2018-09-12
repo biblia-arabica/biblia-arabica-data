@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/K6G37MNV/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/K6G37MNV/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Gibson</surname>
                     </editor>
                     <title level="m">An Arabic Version of the Epistles of St Paul to the Romans, Corinthians, Galatians, with Part of the Epistle to the Ephesians from a Ninth Century MS. in the Convent of St Catharine on Mount Sinai</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/K6G37MNV</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/K6G37MNV</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/K6G37MNV</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/K6G37MNV</idno>
                     <ref target="https://books.google.de/books?id=HSDAeaidiQQC&amp;printsec=frontcover&amp;dq=An+Arabic+Version+of+the+Epistles+of+St+Paul+to+the+Romans,+Corinthians,+Galatians,+with+Part+of+the+Epistle+to+the+Ephesians+from+a+Ninth+Century+MS.+in+the+Convent+of+St+Catharine+on+Mount+Sinai&amp;hl=en&amp;sa=X&amp;redir_esc=y#v=onepage&amp;q=An%20Arabic%20Version%20of%20the%20Epistles%20of%20St%20Paul%20to%20the%20Romans%2C%20Corinthians%2C%20Galatians%2C%20with%20Part%20of%20the%20Epistle%20to%20the%20Ephesians%20from%20a%20Ninth%20Century%20MS.%20in%20the%20Convent%20of%20St%20Catharine%20on%20Mount%20Sinai&amp;f=true"/>
@@ -63,7 +63,7 @@ On Sinai, Ar. 155, assigned to the ninth century CE. The Arabic translation was 
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -74,19 +74,19 @@ On Sinai, Ar. 155, assigned to the ninth century CE. The Arabic translation was 
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="section">
                     <desc>Pauline Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
                     <desc>Fī Tathlīth Allāh al-Wāḥid (On the Triune Nature of God)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Gibson (1894)</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/K6G37MNV" ref="dc:subject" type="subject">
                     <desc>Pauline Epistles</desc>
                 </relation>
             </listRelation>

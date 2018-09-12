@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/9II3WHW2/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/9II3WHW2/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Gibson</surname>
                     </editor>
                     <title level="a">An Arabic Version of the Acts of the Apostles and the Seven Catholic Epistles from an eighth or ninth Century MS. in the Convent of St Catherine on Mount Sinai, with a treatise on the Triune Nature of God, with translation, from the same codex</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/9II3WHW2</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/9II3WHW2</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/9II3WHW2</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/9II3WHW2</idno>
                     <ref target="https://www-1cambridge-1org-10082c15z08ad.emedia1.bsb-muenchen.de/core/books/an-arabic-version-of-the-acts-of-the-apostles-and-the-seven-catholic-epistles/17FF96184B1E3F95AC22EDF1AAEA94B0"/>
@@ -58,16 +58,16 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
                     <desc>Acts</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
                     <desc>James</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="book">
                     <desc>Jude</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -78,19 +78,19 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
                     <desc>1-2 Peter</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
                     <desc>Catholic Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="section">
                     <desc>Johannine Epistles</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/9II3WHW2" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Gibson (1899)</desc>
                 </relation>
             </listRelation>

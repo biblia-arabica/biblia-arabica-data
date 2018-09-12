@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/DWWBBG38/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/DWWBBG38/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,7 +47,7 @@
                         <surname>Rödiger</surname>
                     </author>
                     <title level="m">De origine et indole arabicae librorum V.T. historicorum interpretationis libri duo</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/DWWBBG38</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/DWWBBG38</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/DWWBBG38</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/DWWBBG38</idno>
                     <ref target="https://babel.hathitrust.org/cgi/pt?id=uc1.$c34323;view=2up;seq=8"/>
@@ -62,7 +62,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -73,7 +73,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -84,7 +84,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -95,7 +95,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -106,7 +106,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -117,7 +117,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -128,7 +128,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -139,7 +139,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -150,7 +150,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -161,7 +161,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -172,7 +172,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -183,7 +183,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -194,7 +194,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -205,7 +205,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -216,7 +216,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -227,7 +227,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -238,7 +238,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -249,7 +249,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -260,7 +260,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -271,7 +271,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -282,7 +282,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -293,7 +293,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -304,7 +304,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -315,7 +315,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -326,7 +326,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -337,7 +337,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -348,7 +348,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -359,7 +359,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -370,7 +370,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -381,7 +381,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/DWWBBG38" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/DWWBBG38" ref="dc:subject" type="section">
                     <desc>Historical Books</desc>
                 </relation>
             </listRelation>

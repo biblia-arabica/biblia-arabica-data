@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/B8ESAV7W/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/B8ESAV7W/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Féghali</surname>
                     </author>
                     <title level="a">Versions arabes de Ben Sira</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/B8ESAV7W</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/B8ESAV7W</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/B8ESAV7W</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/B8ESAV7W</idno>
                     <ref target="http://documents.irevues.inist.fr/bitstream/handle/2042/35387/po2005_65.pdf;jsessionid=B831D60228DA300C4985BE8511C92AC1?sequence=1"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,7 +75,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -86,7 +86,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -97,7 +97,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -108,7 +108,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -119,10 +119,10 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dc:subject" type="part">
                     <desc>Apocrypha</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/B8ESAV7W" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/B8ESAV7W" ref="dc:subject" type="part">
                     <desc>Pseudepigrapha</desc>
                 </relation>
             </listRelation>

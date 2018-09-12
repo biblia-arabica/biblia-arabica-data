@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/V7DZ9658/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/V7DZ9658/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Simonsohn</surname>
                     </author>
                     <title level="a">The Biblical Narrative in the Annales of Sa‘īd ibn Baṭrīq and the Question of Medieval Byzantine-Orthodox Identity</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/V7DZ9658</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/V7DZ9658</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/V7DZ9658</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/V7DZ9658</idno>
                 </analytic>
@@ -62,7 +62,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -73,7 +73,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -84,7 +84,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -95,7 +95,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -106,7 +106,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -117,7 +117,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/V7DZ9658" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/V7DZ9658" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

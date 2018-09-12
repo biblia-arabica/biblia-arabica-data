@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/SMW9WE2B/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/SMW9WE2B/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Sadan</surname>
                     </author>
                     <title level="a">In the eyes of the Christian writer al-Ḥārit̲ ibn Sinān: poetics and eloquence as a platform of inter-cultural contacts and contrasts</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/SMW9WE2B</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/SMW9WE2B</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/SMW9WE2B</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/SMW9WE2B</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/912673703</idno>
@@ -61,7 +61,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/SMW9WE2B" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/SMW9WE2B" ref="dc:subject" type="translator">
                     <desc>al-Ḥārith b. Sinān</desc>
                 </relation>
             </listRelation>

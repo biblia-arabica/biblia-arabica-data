@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <editor role="creator" ref="https://www.zotero.org/Robert">Robert</editor>
                 <editor role="creator" ref="https://www.zotero.org/Vevian">Vevian</editor>
@@ -27,7 +27,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/SQN8AVUI/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/SQN8AVUI/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -56,7 +56,7 @@
                         <surname>صموئيل قزمان</surname>
                     </author>
                     <title level="m">Al-Asʿad Abū al-Faraǧ Hibat Allāh ibn al-ʿAssāl: Die arabische Übersetzung der vier Evangelien || الأسعد أبو الفرج هبة الله بن العسال: الترجمة العربية للأناجيل الأربعة</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/SQN8AVUI</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/SQN8AVUI</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/SQN8AVUI</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/SQN8AVUI</idno>
                     <ref target="https://www.academia.edu/10859665/Al-As%CA%BFad_Ab%C5%AB_al-Fara%C7%A7_Hibat_All%C4%81h_ibn_al-%CA%BFAss%C4%81l_Die_arabische_%C3%9Cbersetzung_der_vier_Evangelien._Kairo_Alexandria_School_2014._%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%AF_%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%81%D8%B1%D8%AC_%D9%87%D8%A8%D8%A9_%D8%A7%D9%84%D9%84%D9%87_%D8%A8%D9%86_%D8%A7%D9%84%D8%B9%D8%B3%D8%A7%D9%84_%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%85%D8%A9_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%84%D9%84%D8%A3%D9%86%D8%A7%D8%AC%D9%8A%D9%84_%D8%A7%D9%84%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9_%D8%AA%D8%AD%D9%82%D9%8A%D9%82_%D9%88%D9%85%D9%82%D8%AF%D9%85%D8%A9._%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9_%D9%85%D8%AF%D8%B1%D8%B3%D8%A9_%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9_%D9%A2%D9%A0%D9%A1%D9%A4"/>
@@ -70,7 +70,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -81,7 +81,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -92,7 +92,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -103,7 +103,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -114,7 +114,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -125,7 +125,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -136,7 +136,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -147,7 +147,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -158,13 +158,13 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="part">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="part">
                     <desc>New Testament</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="section">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="section">
                     <desc>Gospels</desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="translator">
+                <relation active="https://biblia-arabica.com/bibl/SQN8AVUI" ref="dc:subject" type="translator">
                     <desc>al-Asʿad Hibbat Allāh b. al-ʿAssāl</desc>
                 </relation>
             </listRelation>

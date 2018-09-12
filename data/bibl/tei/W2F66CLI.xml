@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/W2F66CLI/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/W2F66CLI/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -38,7 +38,7 @@
             <biblStruct>
                 <monogr>
                     <title level="m">Exodus in Egyptian Arabic</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/W2F66CLI</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/W2F66CLI</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/W2F66CLI</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/W2F66CLI</idno>
                     <imprint>
@@ -48,7 +48,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/W2F66CLI" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/W2F66CLI" ref="dc:subject" type="subject">
                     <desc>Historic Printings: Jesuit Bible (1876-1880)</desc>
                 </relation>
             </listRelation>

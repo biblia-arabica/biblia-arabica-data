@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
@@ -22,7 +22,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/TA7P8WGD/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/TA7P8WGD/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -51,7 +51,7 @@
                         <surname>Gesenius</surname>
                     </author>
                     <title level="m">Commentatio qua vulgata opinio de interpretatione Arabica librorum V. T. historicorum ex Graeca, Alexandrina ducta refutatur</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/TA7P8WGD</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/TA7P8WGD</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/TA7P8WGD</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/TA7P8WGD</idno>
                     <ref target="https://books.google.de/books?id=MnVSAAAAcAAJ&amp;pg=PT2&amp;dq=Commentatio+qua+vulgata+opinio+de+interpretatione+Arabica+librorum+V.+T.+historicorum+ex+Graeca,+Alexandrina+ducta+refutatur&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwjH29qRlLPQAhWHAcAKHbytDBwQ6AEIGzAA#v=onepage&amp;q=Commentatio%20qua%20vulgata%20opinio%20de%20interpretatione%20Arabica%20librorum%20V.%20T.%20historicorum%20ex%20Graeca%2C%20Alexandrina%20ducta%20refutatur&amp;f=true"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -75,7 +75,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -86,7 +86,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -97,7 +97,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/TA7P8WGD" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -108,7 +108,7 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="http://biblia-arabica.com/bibl/TA7P8WGD" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/TA7P8WGD" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

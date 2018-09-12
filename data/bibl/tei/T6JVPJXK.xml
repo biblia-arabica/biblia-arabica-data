@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/T6JVPJXK/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/T6JVPJXK/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Krachkovskii</surname>
                     </author>
                     <title level="a">Original vatikanskoj rukopisi arabskogo perevoda Biblii (L’original du manuscrit de Vatican de la traduction arabe de la Bible)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/T6JVPJXK</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/T6JVPJXK</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/T6JVPJXK</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/T6JVPJXK</idno>
                 </analytic>
@@ -57,7 +57,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/T6JVPJXK" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/T6JVPJXK" ref="dc:subject" type="subject">
                     <desc>Christian-Arabic Generalia</desc>
                 </relation>
             </listRelation>

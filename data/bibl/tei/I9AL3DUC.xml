@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/I9AL3DUC/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/I9AL3DUC/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Peters</surname>
                     </author>
                     <title level="a">Grundsätzliche Bemerkungen zur Frage der arabischen Bibeltexte</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/I9AL3DUC</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/I9AL3DUC</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/I9AL3DUC</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/I9AL3DUC</idno>
                     <ref target="http://www.jstor.org/stable/41863948"/>
@@ -59,7 +59,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/I9AL3DUC" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/I9AL3DUC" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

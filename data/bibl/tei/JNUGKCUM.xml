@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/seya">seya</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/JNUGKCUM/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/JNUGKCUM/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Accad</surname>
                     </author>
                     <title level="a">The Gospels in the Muslim Discourse of the Ninth to the Fourteenth Centuries: An Exegetical Inventorial Table (Part II)</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/JNUGKCUM</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/JNUGKCUM</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/JNUGKCUM</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/JNUGKCUM</idno>
                     <ref target="https://www.tandfonline.com/doi/abs/10.1080/0959641032000085585"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/JNUGKCUM" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/JNUGKCUM" ref="dc:subject" type="subject">
                     <desc>Muslim reception</desc>
                 </relation>
             </listRelation>

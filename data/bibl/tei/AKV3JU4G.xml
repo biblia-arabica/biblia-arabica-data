@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/vevian_zaki">vevian zaki</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -18,7 +18,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/AKV3JU4G/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/AKV3JU4G/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -43,7 +43,7 @@
                         <surname>Feodorov</surname>
                     </author>
                     <title level="a">The Arabic Psalter, facsimile edition of Manuscript A 187, The Petersburg Arabic Illuminated Psalter from the collections of the Institute of Oriental Studies of the Russian Academy of Sciences (St. Petersburg Branch), 2005</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/AKV3JU4G</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/AKV3JU4G</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/AKV3JU4G</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/AKV3JU4G</idno>
                     <ref target="https://www.academia.edu/7281830/The_Arabic_Psalter_facsimile_edition_of_Manuscript_A_187_The_Petersburg_Arabic_Illuminated_Psalter_from_the_collections_of_the_Institute_of_Oriental_Studies_of_the_Russian_Academy_of_Sciences_St._Petersburg_Branch_2005"/>

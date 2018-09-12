@@ -8,8 +8,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/mili1154">mili1154</editor>
                 <respStmt>
@@ -23,7 +23,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/3FI7WW46/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3FI7WW46/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -48,7 +48,7 @@
                         <surname>Troupeau</surname>
                     </author>
                     <title level="a">La Littérature Arabe Chrétienne</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/3FI7WW46</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3FI7WW46</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3FI7WW46</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/3FI7WW46</idno>
                     <ref target="http://www.persee.fr/doc/ccmed_0007-9731_1971_num_14_53_1878"/>
@@ -64,7 +64,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/3FI7WW46" ref="dc:subject" type="subject">
+                <relation active="https://biblia-arabica.com/bibl/3FI7WW46" ref="dc:subject" type="subject">
                     <desc>Generalia</desc>
                 </relation>
             </listRelation>

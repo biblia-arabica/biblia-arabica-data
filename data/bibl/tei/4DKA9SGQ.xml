@@ -7,8 +7,8 @@
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
-                <editor role="general" ref="http://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
@@ -17,7 +17,7 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">http://biblia-arabica.com/bibl/4DKA9SGQ/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/4DKA9SGQ/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -42,7 +42,7 @@
                         <surname>Abbott</surname>
                     </author>
                     <title level="m">Studies in Arabic literary papyri</title>
-                    <idno type="URI">http://biblia-arabica.com/bibl/4DKA9SGQ</idno>
+                    <idno type="URI">https://biblia-arabica.com/bibl/4DKA9SGQ</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/4DKA9SGQ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/4DKA9SGQ</idno>
                     <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015058009542;view=2up;seq=6"/>
@@ -56,7 +56,7 @@
                 <citedRange>Hey, this one has kids!</citedRange>
             </biblStruct>
             <listRelation>
-                <relation active="http://biblia-arabica.com/bibl/4DKA9SGQ" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/4DKA9SGQ" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
