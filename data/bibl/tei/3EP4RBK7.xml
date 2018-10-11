@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m">The Old and New Testaments in Muslim religious art</title>
+                <title level="m">The Book of Jonah in Four Oriental Versions, namely Chaldee, Syriac, Aethiopic and Arabic, with Glossaries</title>
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
@@ -11,7 +11,6 @@
                 <editor role="associate" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/adrian.binder">Adrian Binder</editor>
-                <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
                     <name ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</name>
@@ -20,14 +19,10 @@
                     <resp>Record edited in Zotero by</resp>
                     <name ref="https://www.zotero.org/adrian.binder">Adrian Binder</name>
                 </respStmt>
-                <respStmt>
-                    <resp>Record edited in Zotero by</resp>
-                    <name ref="https://www.zotero.org/sophiakroesche">SophiaK</name>
-                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/3EP4RBK7/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -47,27 +42,28 @@
         <body>
             <biblStruct>
                 <monogr>
-                    <author>
-                        <forename>Thomas Walker</forename>
-                        <surname>Arnold</surname>
-                    </author>
-                    <title level="m">The Old and New Testaments in Muslim religious art</title>
-                    <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH</idno>
-                    <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PPD2K3VH</idno>
-                    <idno type="URI">https://www.zotero.org/groups/538215/items/PPD2K3VH</idno>
-                    <ref target="https://archive.org/details/in.ernet.dli.2015.283572"/>
+                    <editor>
+                        <forename/>
+                        <surname/>
+                    </editor>
+                    <title level="m">The Book of Jonah in Four Oriental Versions, namely Chaldee, Syriac, Aethiopic and Arabic, with Glossaries</title>
+                    <idno type="URI">https://biblia-arabica.com/bibl/3EP4RBK7</idno>
+                    <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/3EP4RBK7</idno>
+                    <idno type="URI">https://www.zotero.org/groups/538215/items/3EP4RBK7</idno>
                     <imprint>
-                        <pubPlace>London</pubPlace>
-                        <publisher>British Acad. by Oxford Univ. Press</publisher>
-                        <date>1932</date>
+                        <pubPlace>London/Leipzig</pubPlace>
+                        <publisher>Williams and Norgate</publisher>
+                        <date>1857</date>
                     </imprint>
                 </monogr>
+                <note type="abstract">Based on a Ms. In the Bodleian.
+Which one?</note>
             </biblStruct>
             <bibl type="formatted" subtype="https://www.zotero.org/styles/chicago-note-bibliography-16th-edition">
-  Arnold, Thomas Walker. <title level="m">The Old and New Testaments in Muslim Religious Art</title>. London: British Acad. by Oxford Univ. Press, 1932. https://archive.org/details/in.ernet.dli.2015.283572.
+  William Wright, ed. <title level="m">The Book of Jonah in Four Oriental Versions, Namely Chaldee, Syriac, Aethiopic and Arabic, with Glossaries</title>. London/Leipzig: Williams and Norgate, 1857.
 </bibl>
             <listRelation>
-                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/3EP4RBK7" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
@@ -78,8 +74,8 @@
                         </msDesc>
                     </desc>
                 </relation>
-                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dc:subject" type="subject">
-                    <desc>Art, paleography, codicology</desc>
+                <relation active="https://biblia-arabica.com/bibl/3EP4RBK7" ref="dc:subject" type="subject">
+                    <desc>Editions, Chrestomathies</desc>
                 </relation>
             </listRelation>
         </body>

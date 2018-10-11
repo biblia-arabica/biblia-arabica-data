@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="m">The Old and New Testaments in Muslim religious art</title>
+                <title level="a"/>
                 <sponsor>Biblia Arabica</sponsor>
                 <funder>Deutsche Forschungsgemeinschaft</funder>
                 <principal>Ronny Vollandt</principal>
@@ -11,7 +11,6 @@
                 <editor role="associate" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
                 <editor role="creator" ref="https://www.zotero.org/adrian.binder">Adrian Binder</editor>
-                <editor role="creator" ref="https://www.zotero.org/sophiakroesche">SophiaK</editor>
                 <respStmt>
                     <resp>Record added to Zotero by</resp>
                     <name ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</name>
@@ -20,14 +19,10 @@
                     <resp>Record edited in Zotero by</resp>
                     <name ref="https://www.zotero.org/adrian.binder">Adrian Binder</name>
                 </respStmt>
-                <respStmt>
-                    <resp>Record edited in Zotero by</resp>
-                    <name ref="https://www.zotero.org/sophiakroesche">SophiaK</name>
-                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>Biblia Arabica</authority>
-                <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH/tei</idno>
+                <idno type="URI">https://biblia-arabica.com/bibl/APFRHZ9S/tei</idno>
                 <availability>
         <licence target="http://creativecommons.org/licenses/by/3.0/">
             <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
@@ -46,40 +41,39 @@
     <text>
         <body>
             <biblStruct>
-                <monogr>
+                <analytic>
                     <author>
-                        <forename>Thomas Walker</forename>
-                        <surname>Arnold</surname>
+                        <forename>Sidney Harrison</forename>
+                        <surname>Griffith</surname>
                     </author>
-                    <title level="m">The Old and New Testaments in Muslim religious art</title>
-                    <idno type="URI">https://biblia-arabica.com/bibl/PPD2K3VH</idno>
-                    <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/PPD2K3VH</idno>
-                    <idno type="URI">https://www.zotero.org/groups/538215/items/PPD2K3VH</idno>
-                    <ref target="https://archive.org/details/in.ernet.dli.2015.283572"/>
+                    <title level="a"/>
+                    <idno type="URI">https://biblia-arabica.com/bibl/APFRHZ9S</idno>
+                    <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/APFRHZ9S</idno>
+                    <idno type="URI">https://www.zotero.org/groups/538215/items/APFRHZ9S</idno>
+                </analytic>
+                <monogr>
                     <imprint>
-                        <pubPlace>London</pubPlace>
-                        <publisher>British Acad. by Oxford Univ. Press</publisher>
-                        <date>1932</date>
+                        <pubPlace>Princeton/Oxford</pubPlace>
+                        <publisher>Princeton University Press</publisher>
+                        <date>2013</date>
                     </imprint>
                 </monogr>
+                <note type="abstract">PP. ###### on [#].</note>
             </biblStruct>
             <bibl type="formatted" subtype="https://www.zotero.org/styles/chicago-note-bibliography-16th-edition">
-  Arnold, Thomas Walker. <title level="m">The Old and New Testaments in Muslim Religious Art</title>. London: British Acad. by Oxford Univ. Press, 1932. https://archive.org/details/in.ernet.dli.2015.283572.
+  Griffith, Sidney Harrison. In <title level="m">The Bible in Arabic. The Scripture of the “People of the Book” in the Language of Islam</title>. Princeton/Oxford: Princeton University Press, 2013.
 </bibl>
             <listRelation>
-                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dcterms:references">
+                <relation active="https://biblia-arabica.com/bibl/APFRHZ9S" ref="dcterms:references">
                     <desc>
                         <msDesc>
                             <msIdentifier>
-                                <settlement>Florence</settlement>
-                                <collection>Biblioteca Medicea Laurenziana</collection>
-                                <idno type="shelfmark">Or. 387 (p.</idno>
+                                <settlement>St. Petersburg</settlement>
+                                <collection>National Library of Russia</collection>
+                                <idno type="shelfmark">Yevr. II</idno>
                             </msIdentifier>
                         </msDesc>
                     </desc>
-                </relation>
-                <relation active="https://biblia-arabica.com/bibl/PPD2K3VH" ref="dc:subject" type="subject">
-                    <desc>Art, paleography, codicology</desc>
                 </relation>
             </listRelation>
         </body>
