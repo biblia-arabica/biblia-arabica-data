@@ -18,6 +18,8 @@
             <text qname="tei:event"/>
             <text qname="tei:note"/>
             <text qname="tei:term"/>
+            <text qname="tei:pubPlace"/>
+            <text qname="tei:publisher"/>
         </lucene>
         
         <!-- Range indexes -->
