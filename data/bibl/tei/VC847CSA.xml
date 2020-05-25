@@ -51,6 +51,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/VC847CSA</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/VC847CSA</idno>
                     <ref target="http://reader.digitale-sammlungen.de/resolve/display/bsb10815059.html"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10815059/manifest"/>
                     <textLang mainLang="la" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Neapoli Nemetum (Neustadt an der Weinstrasse)</pubPlace>
