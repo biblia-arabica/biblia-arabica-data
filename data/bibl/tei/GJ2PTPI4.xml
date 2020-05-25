@@ -57,6 +57,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/GJ2PTPI4</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/236215149</idno>
                     <ref target="http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11315948-5"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11315948/manifest"/>
                     <textLang mainLang="ru"/>
                     <imprint>
                         <pubPlace>Санкт Петербург || St. Petersburg</pubPlace>

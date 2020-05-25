@@ -52,6 +52,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/G9U5DPHN</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/912691904</idno>
                     <ref target="https://archive.org/details/bookofjonahinfo00wrig/page/n5"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/bookofjonahinfo00wrig/page/n5"/>
                     <textLang mainLang="en" otherLangs="ar syr gez cld"/>
                     <imprint>
                         <pubPlace>London</pubPlace>

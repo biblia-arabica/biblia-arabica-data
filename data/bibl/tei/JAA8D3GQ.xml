@@ -51,6 +51,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/JAA8D3GQ</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/JAA8D3GQ</idno>
                     <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10184168-2"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10184168/manifest"/>
                     <textLang mainLang="la" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Leiden</pubPlace>

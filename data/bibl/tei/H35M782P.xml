@@ -52,6 +52,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/H35M782P</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/863733950</idno>
                     <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11129546-1"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11129546/manifest"/>
                     <textLang mainLang="la" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Breslau</pubPlace>

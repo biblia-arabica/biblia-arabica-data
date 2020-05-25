@@ -56,6 +56,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/DPPBMW6G</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/922354518</idno>
                     <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11230213-0"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11230213/manifest"/>
                     <textLang mainLang="la" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Heidelberg</pubPlace>

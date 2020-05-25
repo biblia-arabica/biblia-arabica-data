@@ -51,6 +51,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/2BDN6J2S</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/2BDN6J2S</idno>
                     <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11202420-5"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11202420/manifest"/>
                     <textLang mainLang="la" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Breslau</pubPlace>

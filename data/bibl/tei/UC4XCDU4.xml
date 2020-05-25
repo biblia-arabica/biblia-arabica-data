@@ -49,7 +49,8 @@
                     <idno type="URI">https://biblia-arabica.com/bibl/UC4XCDU4</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/UC4XCDU4</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/UC4XCDU4</idno>
-                    <ref target="http://archive.org/details/introductiontone00hugj"/>
+                    <ref target="https://archive.org/details/introductiontone00hugj"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/introductiontone00hugj"/>
                     <textLang mainLang="en"/>
                     <imprint>
                         <publisher>Andover, Gould and Newman</publisher>

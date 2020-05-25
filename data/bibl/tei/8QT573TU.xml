@@ -47,6 +47,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/8QT573TU</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/123491204</idno>
                     <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb11069141-7"/>
+<ref type="IIIF" target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11069141/manifest"/>
                     <textLang mainLang="ar" otherLangs="la"/>
                     <imprint>
                         <pubPlace>Leiden</pubPlace>

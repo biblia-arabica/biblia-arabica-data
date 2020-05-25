@@ -65,6 +65,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/JR39UDLB</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/JR39UDLB</idno>
                     <ref target="https://archive.org/details/MN41901ucmf_1"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/MN41901ucmf_1"/>
                     <textLang mainLang="de" otherLangs="ar-Hebr"/>
                     <imprint>
                         <pubPlace>Berlin</pubPlace>

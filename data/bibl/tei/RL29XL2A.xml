@@ -66,6 +66,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/RL29XL2A</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/RL29XL2A</idno>
                     <ref target="https://archive.org/details/commentaryonbook00japhuoft"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/commentaryonbook00japhuoft"/>
                     <textLang mainLang="en" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Oxford</pubPlace>
