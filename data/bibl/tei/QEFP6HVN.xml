@@ -78,6 +78,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/QEFP6HVN</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/67596481</idno>
                     <ref target="https://archive.org/details/fiftythirdchapte02neub"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/fiftythirdchapte02neub"/>
                     <textLang mainLang="en" otherLangs="ar"/>
                     <imprint>
                         <pubPlace>Oxford, London</pubPlace>

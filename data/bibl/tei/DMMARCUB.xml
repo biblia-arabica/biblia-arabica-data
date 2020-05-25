@@ -56,6 +56,7 @@
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/DMMARCUB</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/DMMARCUB</idno>
                     <ref target="https://archive.org/details/textkritikdesne01greggoog/page/n112"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/textkritikdesne01greggoog/page/n112"/>
                     <textLang mainLang="de"/>
                     <imprint>
                         <pubPlace>Leipzig</pubPlace>

@@ -57,6 +57,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/T9IJJFQ3</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/614266697</idno>
                     <ref target="https://archive.org/details/derhebrischepent01gall"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/derhebrischepent01gall"/>
                     <textLang mainLang="de" otherLangs="he"/>
                     <imprint>
                         <pubPlace>Gießen</pubPlace>

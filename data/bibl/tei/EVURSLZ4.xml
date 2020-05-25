@@ -41,7 +41,8 @@
                     <idno type="URI">https://biblia-arabica.com/bibl/EVURSLZ4</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/EVURSLZ4</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/EVURSLZ4</idno>
-                    <ref target="http://archive.org/details/b30542704"/>
+                    <ref target="https://archive.org/details/b30542704"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/b30542704"/>
                     <textLang mainLang="lat"/>
                     <imprint>
                         <publisher>Romæ : Typis Sacræ Cong. de Propag. Fide</publisher>

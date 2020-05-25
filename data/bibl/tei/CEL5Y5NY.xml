@@ -57,6 +57,7 @@
                     <idno type="URI">https://www.zotero.org/groups/538215/items/CEL5Y5NY</idno>
                     <idno type="URI">http://www.worldcat.org/oclc/264998311</idno>
                     <ref target="https://archive.org/details/MN41551ucmf_0"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/MN41551ucmf_0"/>
                     <textLang mainLang="la" otherLangs="syr ar gez cop hy ka grc"/>
                     <imprint>
                         <pubPlace>Berlin</pubPlace>

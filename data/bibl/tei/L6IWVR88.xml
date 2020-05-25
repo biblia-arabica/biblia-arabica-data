@@ -50,7 +50,8 @@
                     <idno type="URI">https://biblia-arabica.com/bibl/L6IWVR88</idno>
                     <idno type="URI">https://www.zotero.org/groups/biblia_arabica/items/L6IWVR88</idno>
                     <idno type="URI">https://www.zotero.org/groups/538215/items/L6IWVR88</idno>
-                    <ref target="http://archive.org/details/cataloguscodicu00sinagoog"/>
+                    <ref target="https://archive.org/details/cataloguscodicu00sinagoog"/>
+<ref type="IIIF" target="https://iiif.archivelab.org/iiif/cataloguscodicu00sinagoog"/>
                     <textLang mainLang="la" otherLangs="grc ar"/>
                     <imprint>
                         <publisher>e typographeo Clarendoniano</publisher>
