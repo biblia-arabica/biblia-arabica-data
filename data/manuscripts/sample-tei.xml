@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng"
+schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/BetaMasaheft/schema/master/tei-betamesaheft.rng"
+type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="AG00001" xml:lang="en" type="mss">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sinai, St. Catherine's Monastery, Ar. 3</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xml:id="ms">
+                    <msIdentifier>
+                        <country>Egypt</country>
+                        <region>Sinai</region>
+                        <repository>St. Catherine's Monastery</repository>
+                        <collection type="main">Arabic</collection>
+                        <idno>Sinai, St. Catherine's Monastery, Ar. 3</idno>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Arabic Pentateuch and Joshua, with introduction</summary>
+                        <msItem xml:id="p1_i1">
+                            <locus from="2r" to="23v">2r–23v</locus>
+                            <title type="complete" ref="LIT2705Introd"> Introduction, with summary
+                                of chapters </title>
+                            <textLang mainLang="ar">Arabic</textLang>
+                        </msItem>
+                        <msItem xml:id="p1_i2">
+                            <locus from="24v" to="330v">24v-330v</locus>
+                            <title type="complete" ref="LIT2477Penta"> Pentateuch </title>
+                            <textLang mainLang="ar">Arabic</textLang>
+                            <msItem xml:id="p1_i2.1">
+                                <locus from="24v" to="104r">24v-104r</locus>
+                                <title type="complete" ref="LIT1546Genesi">Genesis</title>
+                            </msItem>
+                            <msItem xml:id="p1_i2.2">
+                                <locus from="104v" to="175r">104v-175r</locus>
+                                <title type="complete" ref="LIT1367Exodus">Exodus</title>
+                            </msItem>
+                            <msItem xml:id="p1_i2.3">
+                                <locus from="175r" to="207v">175r-207v</locus>
+                                <title type="complete" ref="LIT1793Leviti">Leviticus</title>
+                            </msItem>
+                            <msItem xml:id="p1_i2.4">
+                                <locus from="208v" to="272r">208v-272r</locus>
+                                <title type="complete" ref="LIT2075Number">Numbers</title>
+                            </msItem>
+                            <msItem xml:id="p1_i2.5">
+                                <locus from="272v" to="330v">272v-330v</locus>
+                                <title type="complete" ref="LIT2637Deuteronomy">Deuteronomy</title>
+                            </msItem>
+                        </msItem>
+                        <msItem xml:id="p1_i3">
+                            <locus from="331v" to="372r">331v-372r</locus>
+                            <title type="complete" ref="LIT1696Joshua">Joshua</title>
+                            <textLang mainLang="ar">Arabic</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="Codex">
+                            <supportDesc>
+                                <support>
+                                    <material key="paper">oriental paper</material>
+                                </support>
+                                <extent>
+                                    <measure unit="ff">373 fols.</measure>
+                                    <dimensions type="outer" unit="cm">
+                                        <height quantity="25">25 cm</height>
+                                        <width quantity="17.5">17.5 cm</width>
+                                    </dimensions>
+                                </extent>
+                                <foliation>
+                                    <p>rūmī numerals</p>
+                                </foliation>
+                                <collation>
+                                    <p>5 bifolia per quire</p>
+                                    <signatures> The quire order is indicated by signatures in the
+                                        form of spelled-out numbers on the top margin. </signatures>
+                                </collation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" writtenLines="17">
+                                    <ab type="lines">17 lines per page</ab>
+                                    <ab type="chapter-rubrication"> Chapter headings are rubricated.
+                                    </ab>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote xml:id="h1" script="Arabic">
+                                <desc>naskh, sporadically vocalized</desc>
+                            </handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origDate when="1358">9 Kānūn II 1670 of the Seleucid Era, 6868 of the
+                                Creation and 1358 CE</origDate>
+                        </origin>
+                        <provenance/>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>A born-digital TEI file</p>
+        </encodingDesc>
+        <profileDesc>
+            <creation/>
+            <abstract>
+                <p/>
+            </abstract>
+            <textClass>
+                <keywords>
+                    <term key="Bible"/>
+                    <term key="OldTestament"/>
+                </keywords>
+            </textClass>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change who="ngibson" when="2020-09-28">Adapted record from Beta Masaheft</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
