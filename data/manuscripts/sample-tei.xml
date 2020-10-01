@@ -9,7 +9,11 @@ type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
                 <title>Sinai, St. Catherine's Monastery, Ar. 3</title>
             </titleStmt>
             <publicationStmt>
-                <p>Publication Information</p>
+                <p>This is an example Arabic Bible manuscript record 
+                    using the conventions of the Beta Masaheft project. 
+                    Detailed codicological information, scribal additions,
+                    and links to authority data are not included here. 
+                    This record should not be cited.</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc xml:id="ms">
