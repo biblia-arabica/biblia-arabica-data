@@ -443,7 +443,7 @@
             <!--
             <module id="index-stats" file="stats.dbx" class="org.exist.storage.statistics.IndexStatistics" />
             -->
-            <module id="rdf-index" class="org.exist.indexing.rdf.TDBRDFIndex"/>
+            <!-- <module id="rdf-index" class="org.exist.indexing.rdf.TDBRDFIndex"/> -->
         </modules>
 
         <!--
@@ -771,7 +771,7 @@
                 XML resource can not be retrieved. 
     -->
     <!-- TODO: add attribute 'enabled="yes/no"' -->
-    <xquery enable-java-binding="no" disable-deprecated-functions="no" 
+    <xquery enable-java-binding="no" disable-deprecated-functions="yes" 
             enable-query-rewriting="yes" backwardCompatible="no" 
             enforce-index-use="always"
             raise-error-on-failed-retrieval="no">
