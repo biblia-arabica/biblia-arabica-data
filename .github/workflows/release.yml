@@ -86,8 +86,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./build/biblia-arabica-data-${{ steps.set-version-variables.outputs.result }}.xar
-          asset_name: biblia-arabica-data-${{ steps.set-version-variables.outputs.result }}.xar
+          asset_path: ./build/ba-data-${{ steps.set-version-variables.outputs.result }}.xar
+          asset_name: ba-data-${{ steps.set-version-variables.outputs.result }}.xar
           asset_content_type: application/x-xar
       - name: Report failure
         if: ${{ failure() }}

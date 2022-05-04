@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://expath.org/ns/pkg" name="https://biblia-arabica.com/ba-data" abbrev="biblia-arabica-data" version="0.38.0" spec="1.0">
+<package xmlns="http://expath.org/ns/pkg" name="https://biblia-arabica.com/ba-data" abbrev="ba-data" version="0.38.0" spec="1.0">
     <title>Biblia-Arabica.com data</title>
 </package>
