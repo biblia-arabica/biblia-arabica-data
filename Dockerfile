@@ -18,3 +18,5 @@ EXPOSE 8080 8443
 
 # Start eXist-db
 CMD [ "java", "-jar", "start.jar", "jetty" ]
+
+LABEL org.opencontainers.image.source=https://github.com/biblia-arabica/biblia-arabica-data
