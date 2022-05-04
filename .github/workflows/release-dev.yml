@@ -86,8 +86,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }} 
-          asset_path: ./build/usaybia-data-${{ steps.set-version-variables.outputs.result }}.xar
-          asset_name: usaybia-data-${{ steps.set-version-variables.outputs.result }}.xar
+          asset_path: ./build/biblia-arabica-data-${{ steps.set-version-variables.outputs.result }}.xar
+          asset_name: biblia-arabica-data-${{ steps.set-version-variables.outputs.result }}.xar
           asset_content_type: application/x-xar
       - name: Report failure
         if: ${{ failure() }}
@@ -124,5 +124,5 @@ jobs:
         pull: true
         push: true
         tags: |
-          ghcr.io/usaybia/usaybia-data:latest
-          ghcr.io/usaybia/usaybia-data:${{needs.update_release_draft.outputs.release_tag}}
+          ghcr.io/biblia-arabica/biblia-arabica-data:latest
+          ghcr.io/biblia-arabica/biblia-arabica-data:${{needs.update_release_draft.outputs.release_tag}}
