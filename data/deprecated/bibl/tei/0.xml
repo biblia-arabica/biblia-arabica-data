@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m">placeholder record</title>
+                <sponsor>Biblia Arabica</sponsor>
+                <funder>Deutsche Forschungsgemeinschaft</funder>
+                <principal>Ronny Vollandt</principal>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#rvollandt">Ronny Vollandt</editor>
+                <editor role="general" ref="https://biblia-arabica.com/documentation/editors.xml#ngibson">Nathan P. Gibson</editor>
+                <editor role="creator" ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</editor>
+                <editor role="creator" ref="https://www.zotero.org/rvollandt">rvollandt</editor>
+                <respStmt>
+                    <resp>Record added to Zotero by</resp>
+                    <name ref="https://www.zotero.org/nathanpgibson">Nathan P. Gibson</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Record edited in Zotero by</resp>
+                    <name ref="https://www.zotero.org/rvollandt">rvollandt</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Biblia Arabica</authority>
+                <idno type="URI">https://biblia-arabica.com/bibl/0/tei</idno>
+                <availability>
+        <licence target="http://creativecommons.org/licenses/by/3.0/">
+            <p>Distributed under a Creative Commons Attribution 3.0 Unported License.</p>
+        </licence>
+    </availability>
+                <date>2022-05-04Z</date>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born digital.</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change who="http://syriaca.org/documentation/editors.xml#ngibson" when="2022-05-04Z">CREATED: This bibl record was created as a placeholder to remediate the build process.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <biblStruct>
+                <monogr>
+                    <author>
+                        <forename>Otto</forename>
+                        <surname>Meinardus</surname>
+                    </author>
+                    <title level="m">placeholder record</title>
+                    <idno type="URI">0</idno>
+                    <imprint>
+                        <pubPlace>A</pubPlace>
+                        <publisher>A</publisher>
+                        <date>2000</date>
+                    </imprint>
+                </monogr>
+                <note type="abstract"></note>
+            </biblStruct>
+            <bibl type="formatted" subtype="https://www.zotero.org/styles/chicago-note-bibliography-16th-edition">
+                <title level="m">placeholder record</title>
+            </bibl>
+        </body>
+    </text>
+</TEI>
