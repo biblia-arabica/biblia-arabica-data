@@ -1,5 +1,5 @@
 # Specify the eXist-db release as a base image
-FROM existdb/existdb:6.0.1
+FROM duncdrum/existdb:6.0.1
 
 # Exist autodeploy directory
 ENV autodeploy=/exist/autodeploy
